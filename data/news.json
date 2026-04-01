@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-01T19:51:14.616Z",
+  "fetchedAt": "2026-04-01T20:33:51.979Z",
   "articles": [
     {
       "title": "What do scientists hope to learn from NASA's historic Artemis 2 moon flyby?",
@@ -55,7 +55,7 @@
       "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
       "pubDate": "2026-04-01T11:36:33.000Z",
       "source": "NASA Artemis Blog",
-      "description": "Live updates for launch of NASA&#8217;s Artemis II test flight will be published on this page. NASA’s launch broadcast coverage&#160;is airing on&#160;NASA+,&#160;Amazon Prime, and&#160;YouTube.&#160;All times are Eastern. 3:39 p.m. NASA engineers have conducted counterbalance mechanism operations a"
+      "description": "Live updates for launch of NASA&#8217;s Artemis II test flight will be published on this page. NASA’s launch broadcast coverage&#160;is airing on&#160;NASA+,&#160;Amazon Prime, and&#160;YouTube.&#160;All times are Eastern. 4:02 p.m. Technicians began installing the crew module hatch service panel on"
     },
     {
       "title": "After three years, Artemis 2 astronauts ready to launch",
@@ -93,18 +93,18 @@
       "description": "As the Artemis II countdown moves steadily toward liftoff no earlier than 6:24 p.m. EDT, Wednesday, April 1, launch teams at NASA’s Kennedy Space Center in Florida continue completing a sequence of highly choreographed steps to ready the SLS (Space Launch System) rocket and Orion spacecraft for the&"
     },
     {
-      "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
-      "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
-    },
-    {
       "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
       "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
       "pubDate": "2026-03-31T18:00:00.000Z",
       "source": "Space.com",
       "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
+    },
+    {
+      "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
+      "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
     },
     {
       "title": "Here's what the Artemis 2 astronauts will be doing on each day of NASA's historic moon mission",
