@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Reid Wiseman",
+    "role": "Commander",
+    "agency": "NASA",
+    "agencyFull": "National Aeronautics and Space Administration",
+    "rank": "USN Captain",
+    "born": 1975,
+    "flightNumber": 2,
+    "bio": "U.S. Navy Captain and former test pilot. Flew to the ISS on Soyuz TMA-13M in 2014, spending 165 days in space. Selected as NASA astronaut in 2009. Served as Chief Astronaut from 2020 to 2022 before being assigned as Artemis II Commander.",
+    "firstBadge": "Oldest person to venture beyond low-Earth orbit",
+    "twitter": "astro_reid",
+    "initials": "RW",
+    "color": "#0B3D91"
+  },
+  {
+    "name": "Victor Glover",
+    "role": "Pilot",
+    "agency": "NASA",
+    "agencyFull": "National Aeronautics and Space Administration",
+    "rank": "USN Captain",
+    "born": 1976,
+    "flightNumber": 2,
+    "bio": "U.S. Navy Captain and test pilot. Flew as pilot on SpaceX Crew-1, the first operational Crew Dragon mission to the ISS in 2020, spending 167 days in space. He was the first African American to live aboard the ISS for an extended mission.",
+    "firstBadge": "First person of color to venture beyond low-Earth orbit",
+    "twitter": "AstroVicGlover",
+    "initials": "VG",
+    "color": "#FC3D21"
+  },
+  {
+    "name": "Christina Koch",
+    "role": "Mission Specialist 1",
+    "agency": "NASA",
+    "agencyFull": "National Aeronautics and Space Administration",
+    "rank": null,
+    "born": 1979,
+    "flightNumber": 2,
+    "bio": "Electrical engineer with research experience in Antarctica and remote locations. Holds the record for the longest single spaceflight by a woman — 328 days aboard the ISS (2019-2020). Participated in the first all-woman spacewalk with Jessica Meir.",
+    "firstBadge": "First woman to venture beyond low-Earth orbit",
+    "twitter": "Astro_Christina",
+    "initials": "CK",
+    "color": "#E03C31"
+  },
+  {
+    "name": "Jeremy Hansen",
+    "role": "Mission Specialist 2",
+    "agency": "CSA",
+    "agencyFull": "Canadian Space Agency",
+    "rank": "Colonel, RCAF",
+    "born": 1976,
+    "flightNumber": 1,
+    "bio": "Royal Canadian Air Force Colonel and former CF-18 Hornet fighter pilot. Selected as a CSA astronaut in 2009. Served as CAPCOM for multiple ISS expeditions and Artemis I. This will be his first spaceflight — and what a first flight it is.",
+    "firstBadge": "First non-American on a lunar mission and first Canadian beyond low-Earth orbit",
+    "twitter": "Astro_Jeremy",
+    "initials": "JH",
+    "color": "#F59E0B"
+  }
+]
