@@ -1,0 +1,20 @@
+{
+  "launchDate": "2025-09-01T12:00:00-04:00",
+  "missionPhase": "prelaunch",
+  "missionDay": 0,
+  "backupWindows": ["2025-09-02", "2025-09-03", "2025-09-04", "2025-09-05"],
+  "goNoGo": {
+    "vehicle": "go",
+    "groundSystems": "go",
+    "crewHealth": "go",
+    "rangeSafety": "go",
+    "flightSoftware": "go",
+    "recoveryWeather": "go"
+  },
+  "completedMilestones": [],
+  "completedLaunchEvents": [],
+  "completedTimelineEvents": [],
+  "nasaTvVideoId": "21X5lGlDOfg",
+  "holdMessage": null,
+  "scrubMessage": null
+}

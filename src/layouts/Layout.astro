@@ -1,0 +1,193 @@
+---
+import '../styles/global.css';
+import { ViewTransitions } from 'astro:transitions';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = 'Artemis II — Mission Dashboard',
+  description = 'Live tracking dashboard for NASA\'s Artemis II mission — countdown, weather, crew, trajectory, and mission milestones.'
+} = Astro.props;
+
+const rawBase = import.meta.env.BASE_URL;
+const baseUrl = rawBase.endsWith('/') ? rawBase : rawBase + '/';
+
+const navItems = [
+  { href: baseUrl, label: 'COUNTDOWN', short: 'HOME' },
+  { href: `${baseUrl}mission/`, label: 'MISSION', short: 'MISSION' },
+  { href: `${baseUrl}launch/`, label: 'LAUNCH', short: 'LAUNCH' },
+  { href: `${baseUrl}crew/`, label: 'CREW', short: 'CREW' },
+  { href: `${baseUrl}news/`, label: 'NEWS', short: 'NEWS' },
+  { href: `${baseUrl}status/`, label: 'STATUS', short: 'STATUS' },
+];
+
+const currentPath = Astro.url.pathname;
+
+// Load config for mission phase
+let missionPhase = 'prelaunch';
+try {
+  const mod = await import('../../data/config.json');
+  missionPhase = mod.default?.missionPhase ?? 'prelaunch';
+} catch {
+  // Config not available yet
+}
+
+const phaseLabels: Record<string, string> = {
+  prelaunch: 'PRE-LAUNCH',
+  launch: 'LAUNCH DAY',
+  transit: 'IN TRANSIT',
+  lunar: 'LUNAR FLYBY',
+  return: 'RETURNING',
+  complete: 'SPLASHDOWN',
+};
+
+const phaseLabel = phaseLabels[missionPhase] ?? 'PRE-LAUNCH';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link rel="icon" type="image/svg+xml" href={`${baseUrl}favicon.svg`} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Source+Sans+3:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+    <title>{title}</title>
+    <ViewTransitions />
+  </head>
+  <body class="flex flex-col min-h-screen">
+    <!-- Top mission status bar -->
+    <div class="bg-nasa-orange/10 border-b border-nasa-orange/20 py-1.5">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-center gap-3">
+        <div class="w-2 h-2 rounded-full bg-nasa-orange animate-pulse-glow"></div>
+        <span class="font-display text-xs sm:text-sm tracking-[0.15em] text-nasa-orange font-semibold">
+          {phaseLabel}
+        </span>
+        <span class="text-white/20">|</span>
+        <span class="font-display text-xs sm:text-sm tracking-wider text-white/50">
+          ARTEMIS II
+        </span>
+      </div>
+    </div>
+
+    <header class="sticky top-0 z-50 glass-panel" style="border-radius: 0; border-left: 0; border-right: 0; border-top: 0;">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 py-3">
+        <div class="flex items-center justify-between">
+          <a href={baseUrl} class="flex items-center gap-3 no-underline group">
+            <!-- Artemis logo mark -->
+            <div class="relative w-9 h-9">
+              <div class="absolute inset-0 rounded-lg bg-gradient-to-br from-nasa-orange to-nasa-red opacity-90 group-hover:opacity-100 transition-opacity"></div>
+              <div class="absolute inset-0 flex items-center justify-center">
+                <svg viewBox="0 0 24 24" class="w-5 h-5 text-white" fill="currentColor">
+                  <path d="M12 2L2 19h4l2-4h8l2 4h4L12 2zm0 5l3.5 7h-7L12 7z"/>
+                </svg>
+              </div>
+            </div>
+            <div class="hidden sm:block">
+              <div class="font-display text-lg font-bold tracking-wider text-white group-hover:text-nasa-orange transition-colors">
+                ARTEMIS II
+              </div>
+              <div class="text-[10px] tracking-[0.2em] text-white/30 -mt-0.5">MISSION DASHBOARD</div>
+            </div>
+          </a>
+
+          <!-- Mobile menu button -->
+          <button
+            id="mobile-menu-btn"
+            class="md:hidden p-2 text-white/40 hover:text-white transition-colors"
+            aria-label="Toggle navigation"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+
+          <!-- Desktop nav -->
+          <nav class="hidden md:flex items-center gap-1">
+            {navItems.map(item => {
+              const isActive = currentPath === item.href || (item.href !== baseUrl && currentPath.startsWith(item.href));
+              return (
+                <a
+                  href={item.href}
+                  class:list={[
+                    'px-3 py-1.5 rounded-lg font-display text-xs tracking-[0.1em] font-semibold no-underline transition-all duration-200',
+                    isActive
+                      ? 'bg-white/10 text-white shadow-sm border border-white/10'
+                      : 'text-white/40 hover:text-white hover:bg-white/5 border border-transparent'
+                  ]}
+                >
+                  {item.label}
+                  {isActive && <div class="h-0.5 bg-gradient-to-r from-nasa-orange to-mission-cyan rounded-full mt-1" />}
+                </a>
+              );
+            })}
+          </nav>
+        </div>
+
+        <!-- Mobile nav -->
+        <nav id="mobile-menu" class="hidden md:hidden mt-3 pb-2 border-t border-white/5 pt-3">
+          <div class="grid grid-cols-3 gap-1">
+            {navItems.map(item => {
+              const isActive = currentPath === item.href || (item.href !== baseUrl && currentPath.startsWith(item.href));
+              return (
+                <a
+                  href={item.href}
+                  class:list={[
+                    'px-3 py-2 rounded-lg font-display text-xs tracking-wider font-semibold no-underline text-center transition-all',
+                    isActive
+                      ? 'bg-white/10 text-white border border-white/10'
+                      : 'text-white/40 hover:text-white hover:bg-white/5 border border-transparent'
+                  ]}
+                >
+                  {item.short}
+                </a>
+              );
+            })}
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main class="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 py-8" transition:animate="fade">
+      <slot />
+    </main>
+
+    <footer class="border-t border-white/5 py-6 mt-8">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6">
+        <div class="separator-glow mb-6"></div>
+        <div class="flex flex-col sm:flex-row justify-between items-center gap-3">
+          <div class="flex items-center gap-3 text-xs text-white/30">
+            <span class="font-display tracking-wider">ARTEMIS II DASHBOARD</span>
+            <span class="text-white/10">|</span>
+            <span>Data from NASA, NOAA, Open-Meteo</span>
+          </div>
+          <div class="flex gap-6 text-xs text-white/30">
+            <a href={`${baseUrl}status/`} class="hover:text-white/60 no-underline transition-colors font-display tracking-wider">SYSTEM STATUS</a>
+            <a href="https://github.com/mauritsajournal/artemis-dashboard" target="_blank" rel="noopener" class="hover:text-white/60 no-underline transition-colors font-display tracking-wider">GITHUB</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script is:inline>
+      function initNav() {
+        const btn = document.getElementById('mobile-menu-btn');
+        const menu = document.getElementById('mobile-menu');
+        btn?.addEventListener('click', () => {
+          menu?.classList.toggle('hidden');
+        });
+        menu?.classList.add('hidden');
+      }
+      initNav();
+      document.addEventListener('astro:after-swap', initNav);
+    </script>
+  </body>
+</html>
