@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-01T16:00:44.821Z",
+  "fetchedAt": "2026-04-01T17:41:28.024Z",
   "articles": [
+    {
+      "title": "What do scientists hope to learn from NASA's historic Artemis 2 moon flyby?",
+      "link": "https://www.space.com/space-exploration/missions/what-do-scientists-hope-to-learn-from-nasas-historic-artemis-2-moon-flyby",
+      "pubDate": "2026-04-01T17:00:00.000Z",
+      "source": "Space.com",
+      "description": "Here's what's on the experiment roster for the Artemis 2 moon mission."
+    },
+    {
+      "title": "Artemis 2’s (nearly) 10-day flight around the moon",
+      "link": "https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/",
+      "pubDate": "2026-04-01T16:25:57.000Z",
+      "source": "SpaceNews",
+      "description": "The Artemis 2 mission will send humans to the vicinity of the moon for the first time in more than 50 years on a mission lasting almost 10 days. The post Artemis 2’s (nearly) 10-day flight around the moon appeared first on SpaceNews."
+    },
     {
       "title": "NASA's Artemis 2 moon launch may be visible from Florida and southern Georgia today. Here's when to look",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-2-moon-launch-may-be-visible-from-florida-and-southern-georgia-today-heres-when-to-look",
@@ -37,6 +51,13 @@
       "description": "Fueling of the SLS is underway for an April 1 launch attempt of Artemis 2, the first mission to send humans toward the moon in more than 50 years. The post Artemis 2 fueling underway appeared first on SpaceNews."
     },
     {
+      "title": "LIVE: Artemis II Launch Day Updates",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "pubDate": "2026-04-01T11:36:33.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Live updates for launch of NASA&#8217;s Artemis II test flight will be published on this page. NASA’s launch broadcast coverage is airing on NASA+, Amazon Prime, and YouTube. All times are Eastern. 1:15 p.m. NASA astronauts Reid Wiseman, commander; Victor Glover, pilot; and Christina Koch, mission s"
+    },
+    {
       "title": "After three years, Artemis 2 astronauts ready to launch",
       "link": "https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/",
       "pubDate": "2026-04-01T10:47:18.000Z",
@@ -63,6 +84,13 @@
       "pubDate": "2026-03-31T20:16:25.000Z",
       "source": "Space.com",
       "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
+    },
+    {
+      "title": "NASA Teams Readying Artemis II Moon Rocket for Launch",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/31/nasa-teams-readying-artemis-ii-moon-rocket-for-launch/",
+      "pubDate": "2026-03-31T18:48:27.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "As the Artemis II countdown moves steadily toward liftoff no earlier than 6:24 p.m. EDT, Wednesday, April 1, launch teams at NASA’s Kennedy Space Center in Florida continue completing a sequence of highly choreographed steps to ready the SLS (Space Launch System) rocket and Orion spacecraft for the&"
     },
     {
       "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
@@ -128,6 +156,13 @@
       "description": "A massive X1.4 solar flare won't endanger NASA's four Artemis 2 astronauts on their way to the moon."
     },
     {
+      "title": "NASA&#8217;s Artemis II Launch Mission Countdown Begins",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/30/nasas-artemis-ii-launch-mission-countdown-begins/",
+      "pubDate": "2026-03-30T22:13:50.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The countdown&#160;for&#160;NASA’s Artemis II test flight&#160;is underway&#160;at the agency’s Kennedy Space Center in Florida, with members of the launch team arriving at their consoles inside the Rocco Petrone Launch Control Center. The&#160;onsite countdown clock started&#160;ticking down&#160;a"
+    },
+    {
       "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest",
       "link": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
       "pubDate": "2026-03-30T21:07:43.000Z",
@@ -163,18 +198,18 @@
       "description": "The Artemis 2 astronauts will spend about 10 days flying to and from the moon, so they'll need to find creative ways to dine in a small space."
     },
     {
+      "title": "Weather for NASA’s Artemis II Mission Launch 80% Favorable",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/",
+      "pubDate": "2026-03-30T14:56:05.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Ahead of call to stations at 4:34 p.m. EDT on Monday, and the countdown clock beginning at 4:44 p.m., engineers continue preparations toward the launch of the Artemis II mission from NASA’s Kennedy Space Center in Florida. The agency is targeting no earlier than Wednesday, April 1, for launch. The w"
+    },
+    {
       "title": "Sun rises on Artemis 2 launch pad | Space photo of the day for March 30, 2026",
       "link": "https://www.space.com/space-exploration/artemis/sun-rises-on-artemis-2-launch-pad-space-photo-of-the-day-for-march-30-2026",
       "pubDate": "2026-03-30T14:00:00.000Z",
       "source": "Space.com",
       "description": "NASA's SLS moon rocket casts a striking silhouette against the rising sun ahead of the agency's Artemis 2 mission, currently scheduled for April 1."
-    },
-    {
-      "title": "The race to build orbital data centers is missing its biggest variable: power",
-      "link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
-      "pubDate": "2026-03-30T13:00:00.000Z",
-      "source": "SpaceNews",
-      "description": "Here’s the version of the orbital data center story you keep reading: Elon Musk says space will be the cheapest place to run AI within 36 months. LoneStar announces plans for a lunar data center. NVIDIA’s Vera Rubin Space-1 makes headlines. These are real announcements, and they all have one thing i"
     },
     {
       "title": "'The sasquatch is honesty': Inside Canadian astronaut Jeremy Hansen's Artemis 2 mission patch",
@@ -219,11 +254,39 @@
       "description": "NASA has a high degree of confidence that its historic Artemis 2 crewed moon mission will launch on time."
     },
     {
+      "title": "Final Preparations Underway for NASA’s Moon Mission",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/29/final-preparations-underway-for-nasas-moon-mission/",
+      "pubDate": "2026-03-29T14:49:58.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Teams at NASA’s Kennedy Space Center in Florida are making final preparations toward beginning launch countdown activities for the Artemis II mission, set to launch as early as Wednesday, April 1. The weather forecast for launch day shows an 80% chance of favorable weather conditions with primary co"
+    },
+    {
       "title": "NASA's Artemis 2 moon astronauts are 'fortunate' to have a private space toilet — Apollo crews pooped in plastic bags",
       "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-astronauts-are-fortunate-to-have-a-private-space-toilet-apollo-crews-pooped-in-plastic-bags",
       "pubDate": "2026-03-29T12:00:00.000Z",
       "source": "Space.com",
       "description": "The Apollo astronauts peed into roll-on cuffs and pooped into plastic bags in the presence of their crewmates, but the Artemis 2 spaceflyers will have access to a bona fide bathroom."
+    },
+    {
+      "title": "'We work for them, too': Artemis 2 moon mission is for everyone, NASA astronaut Victor Glover says (video)",
+      "link": "https://www.space.com/space-exploration/artemis/we-work-for-them-too-artemis-2-moon-mission-is-for-everyone-nasa-astronaut-victor-glover-says-video",
+      "pubDate": "2026-03-29T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA astronaut Victor Glover says he is not solely focused on milestones for the Artemis 2 mission, but also on how to engage different communities about the crew’s work."
+    },
+    {
+      "title": "'We're all on this journey together:' Who are the Artemis 2 astronauts launching to the moon?",
+      "link": "https://www.space.com/space-exploration/artemis/were-all-on-this-journey-together-who-are-the-artemis-2-astronauts-launching-to-the-moon",
+      "pubDate": "2026-03-29T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "Four astronauts. Two countries. One destination: the moon."
+    },
+    {
+      "title": "'An incredible privilege and responsibility': Artemis 2's Christina Koch is ready to become the 1st woman to fly around the moon",
+      "link": "https://www.space.com/space-exploration/artemis/an-incredible-privilege-and-responsibility-artemis-2s-christina-koch-is-ready-to-become-the-1st-woman-to-fly-around-the-moon",
+      "pubDate": "2026-03-29T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "\"We are firing on all cylinders.\""
     },
     {
       "title": "'It's all I think about': Artemis 2 commander Reid Wiseman is zeroed in on historic moon mission",
@@ -238,27 +301,6 @@
       "pubDate": "2026-03-29T10:00:00.000Z",
       "source": "Space.com",
       "description": "Jeremy Hansen grew up in a world with no Canadian astronauts. Soon, the Artemis 2 crewmate wil become the first person from his country to fly around the moon."
-    },
-    {
-      "title": "'We work for them, too': Artemis 2 moon mission is for everyone, NASA astronaut Victor Glover says (video)",
-      "link": "https://www.space.com/space-exploration/artemis/we-work-for-them-too-artemis-2-moon-mission-is-for-everyone-nasa-astronaut-victor-glover-says-video",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA astronaut Victor Glover says he is not solely focused on milestones for the Artemis 2 mission, but also on how to engage different communities about the crew’s work."
-    },
-    {
-      "title": "'An incredible privilege and responsibility': Artemis 2's Christina Koch is ready to become the 1st woman to fly around the moon",
-      "link": "https://www.space.com/space-exploration/artemis/an-incredible-privilege-and-responsibility-artemis-2s-christina-koch-is-ready-to-become-the-1st-woman-to-fly-around-the-moon",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "\"We are firing on all cylinders.\""
-    },
-    {
-      "title": "'We're all on this journey together:' Who are the Artemis 2 astronauts launching to the moon?",
-      "link": "https://www.space.com/space-exploration/artemis/were-all-on-this-journey-together-who-are-the-artemis-2-astronauts-launching-to-the-moon",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Four astronauts. Two countries. One destination: the moon."
     },
     {
       "title": "Astrophotographer captures spectacular photo of Antennae Galaxies dueling in deep space",
@@ -289,11 +331,25 @@
       "description": "NASA has awarded Intuitive Machines of Houston, $180.4 million to deliver NASA-funded science and technology to the lunar surface as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis program. This lunar delivery, which includes seven payloads — five of them NASA’s"
     },
     {
-      "title": "Artemis 2 astronauts arrive at Kennedy Space Center ahead of NASA's historic launch around the moon",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-arrive-at-kennedy-space-center-ahead-of-nasas-historic-launch-around-the-moon",
-      "pubDate": "2026-03-27T20:36:51.000Z",
-      "source": "Space.com",
-      "description": "The Astronauts for NASA's Artemis 2 mission to fly around the moon have arrived at the Kennedy Space Center in Florida, just five days before their historic mission is scheduled to lift off."
+      "title": "Artemis II Crew Arrives at Launch Site, Shares Moon Mascot",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/27/artemis-ii-crew-arrives-at-launch-site-shares-moon-mascot/",
+      "pubDate": "2026-03-27T20:10:42.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The four astronauts set to fly around the Moon on NASA’s Artemis II test flight arrived at the agency’s Kennedy Space Center in Florida, Friday, March 27. NASA continues to target as soon as Wednesday, April 1, for launch within a two-hour window that opens at 6:24 p.m. EDT. During remarks at Kenned"
+    },
+    {
+      "title": "NASA Teams Continue Artemis II Preparations at Launch Pad",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/25/nasa-teams-continue-artemis-ii-preparations-at-launch-pad/",
+      "pubDate": "2026-03-25T21:11:27.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Teams at NASA&#8217;s Kennedy Space Center in Florida continue preparing the SLS (Space Launch System) rocket and Orion spacecraft for its crewed launch as early as Wednesday, April 1. After rolling to Launch Pad 39B on top the mobile launcher on March 20, teams began securing the rocket, spacecraft"
+    },
+    {
+      "title": "NASA’s Artemis II Rocket Arrives at Launch Pad 39B",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/20/nasas-artemis-ii-rocket-arrives-at-launch-pad-39b/",
+      "pubDate": "2026-03-20T15:28:05.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "At&#160;11:21&#160;a.m.&#160;EDT&#160;on&#160;Friday,&#160;March 20, NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft arrived at&#160;Launch Pad 39B after an&#160;11-hour journey from the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida.&#160; NASA’s c"
     }
   ]
 }
