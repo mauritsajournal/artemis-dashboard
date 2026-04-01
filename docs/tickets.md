@@ -306,7 +306,8 @@
 
 ---
 
-## [ ] T-011 — Mission trajectory tracker
+## [x] T-011 — Mission trajectory tracker
+**Completed:** 2026-04-01 — SVG trajectory with Earth/Moon, Orion position, record markers, responsive
 
 **Priority:** P1
 **Depends on:** T-002
@@ -346,7 +347,8 @@
 
 ---
 
-## [ ] T-012 — Day-by-day mission timeline
+## [x] T-012 — Day-by-day mission timeline
+**Completed:** 2026-04-01 — Expandable 10-day timeline with events, progress bar, status tracking
 
 **Priority:** P1
 **Depends on:** T-002
@@ -371,7 +373,8 @@
 
 ---
 
-## [ ] T-013 — Mission milestones tracker
+## [x] T-013 — Mission milestones tracker
+**Completed:** 2026-04-01 — 18 milestones checklist, record badges, config-driven completion
 
 **Priority:** P1
 **Depends on:** T-002
