@@ -562,7 +562,8 @@
 
 ---
 
-## [ ] T-019 — Data fetch orchestrator & GitHub Actions
+## [x] T-019 — Data fetch orchestrator & GitHub Actions
+**Completed:** 2026-04-01 — fetch-all.ts orchestrator, hourly cron, diff-check before commit, deploy after data update
 
 **Priority:** P0
 **Depends on:** T-003, T-004, T-018
