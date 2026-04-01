@@ -199,18 +199,22 @@
     </svg>
 
     <!-- Stats below the chart -->
-    <div class="grid grid-cols-3 gap-3 mt-4">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mt-4">
       <div class="glass-panel-sm p-3 text-center">
-        <div class="text-[10px] text-white/25 font-display tracking-wider mb-1">DISTANCE FROM EARTH</div>
+        <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">DISTANCE FROM EARTH</div>
         <div class="font-display text-lg font-bold text-mission-cyan">{formatDistance(currentDist)}</div>
       </div>
       <div class="glass-panel-sm p-3 text-center">
-        <div class="text-[10px] text-white/25 font-display tracking-wider mb-1">MISSION DAY</div>
+        <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">{missionDay <= 6 ? 'REMAINING TO MOON' : 'REMAINING TO EARTH'}</div>
+        <div class="font-display text-lg font-bold text-nasa-orange">{missionDay <= 6 ? formatDistance(Math.max(0, earthMoonDistance - currentDist)) : formatDistance(currentDist)}</div>
+      </div>
+      <div class="glass-panel-sm p-3 text-center">
+        <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">MISSION DAY</div>
         <div class="font-display text-lg font-bold text-white">{missionDay} / 10</div>
       </div>
       <div class="glass-panel-sm p-3 text-center">
-        <div class="text-[10px] text-white/25 font-display tracking-wider mb-1">DISTANCE TO MOON</div>
-        <div class="font-display text-lg font-bold text-white/60">{formatDistance(Math.abs(earthMoonDistance - currentDist))}</div>
+        <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">DISTANCE TO MOON</div>
+        <div class="font-display text-lg font-bold text-white/70">{formatDistance(Math.abs(earthMoonDistance - currentDist))}</div>
       </div>
     </div>
   {:else}
@@ -222,11 +226,11 @@
 
 <style>
   .glass-panel-sm {
-    background: rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 0.75rem;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
   }
 </style>

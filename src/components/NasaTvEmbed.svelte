@@ -58,11 +58,11 @@
 
 <style>
   .glass-panel-sm {
-    background: rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 0.75rem;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
   }
 </style>
