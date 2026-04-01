@@ -420,7 +420,8 @@
 
 ---
 
-## [ ] T-014 — News feed page
+## [x] T-014 — News feed page
+**Completed:** 2026-04-01 — Color-coded source badges, relative timestamps, excerpts, empty state
 
 **Priority:** P1
 **Depends on:** T-002, T-004

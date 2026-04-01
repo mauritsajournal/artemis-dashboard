@@ -5,6 +5,8 @@ import SectionHeader from '../components/SectionHeader.astro';
 import CountdownTimer from '../components/CountdownTimer.svelte';
 import WeatherPanel from '../components/WeatherPanel.astro';
 import GoNoGoPanel from '../components/GoNoGoPanel.astro';
+import HistoricalContext from '../components/HistoricalContext.astro';
+import NasaTvEmbed from '../components/NasaTvEmbed.svelte';
 
 // Load config
 let config = {
@@ -144,6 +146,14 @@ try {
         </div>
       </div>
     </GlowPanel>
+  </div>
+
+  <!-- Historical context + NASA TV -->
+  <div class="grid md:grid-cols-2 gap-6 mt-10">
+    <HistoricalContext />
+    <div class="space-y-6">
+      <NasaTvEmbed client:load videoId={config.nasaTvVideoId ?? '21X5lGlDOfg'} />
+    </div>
   </div>
 </Layout>
 

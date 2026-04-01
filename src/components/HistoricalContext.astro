@@ -1,0 +1,103 @@
+---
+import GlowPanel from './GlowPanel.astro';
+import SectionHeader from './SectionHeader.astro';
+
+// Calculate time since Apollo 17 (Dec 19, 1972 splash down)
+const apollo17Date = new Date('1972-12-19T00:00:00Z');
+const now = new Date();
+const diffMs = now.getTime() - apollo17Date.getTime();
+const yearsSince = (diffMs / (365.25 * 24 * 3600 * 1000)).toFixed(1);
+const daysSince = Math.floor(diffMs / 86400000);
+
+// Timeline events
+const timeline = [
+  { year: '1968', event: 'Apollo 8', desc: 'First crewed lunar orbit', color: '#0B3D91' },
+  { year: '1969', event: 'Apollo 11', desc: 'First Moon landing', color: '#FC3D21' },
+  { year: '1972', event: 'Apollo 17', desc: 'Last humans beyond LEO', color: '#F59E0B' },
+  { year: '2022', event: 'Artemis I', desc: 'Uncrewed lunar flyby', color: '#06B6D4' },
+  { year: '2025', event: 'Artemis II', desc: 'Crewed lunar flyby', color: '#10B981' },
+];
+---
+
+<GlowPanel glow="orange" class="animate-fade-in-up">
+  <!-- Hero text -->
+  <div class="text-center mb-6">
+    <div class="font-display text-xs tracking-[0.3em] text-nasa-orange/50 mb-3">RETURN TO THE MOON</div>
+    <h2 class="font-display text-lg sm:text-xl font-bold tracking-wider text-white leading-relaxed">
+      First crewed mission beyond LEO<br/>
+      since <span class="text-nasa-orange">Apollo 17 — December 19, 1972</span>
+    </h2>
+  </div>
+
+  <!-- Live counter -->
+  <div class="grid grid-cols-2 gap-3 mb-6">
+    <div class="glass-panel-sm p-4 text-center">
+      <div class="section-label mb-1">YEARS SINCE APOLLO 17</div>
+      <div class="font-display text-3xl font-bold text-nasa-orange" id="hist-years">{yearsSince}</div>
+    </div>
+    <div class="glass-panel-sm p-4 text-center">
+      <div class="section-label mb-1">DAYS SINCE APOLLO 17</div>
+      <div class="font-display text-3xl font-bold text-white" id="hist-days">{daysSince.toLocaleString()}</div>
+    </div>
+  </div>
+
+  <!-- Mini timeline -->
+  <div class="mb-6">
+    <div class="section-label mb-3">THE ROAD TO ARTEMIS</div>
+    <div class="relative">
+      <div class="absolute left-3 top-0 bottom-0 w-px bg-white/5"></div>
+      <div class="space-y-3">
+        {timeline.map((item) => (
+          <div class="flex items-center gap-4 pl-0">
+            <div class="w-6 h-6 rounded-full border-2 flex items-center justify-center shrink-0 z-10"
+                 style={`border-color: ${item.color}; background: ${item.color}20`}>
+              <div class="w-2 h-2 rounded-full" style={`background: ${item.color}`}></div>
+            </div>
+            <div class="flex items-baseline gap-2 flex-1">
+              <span class="font-display text-sm font-bold tracking-wider text-white/60">{item.year}</span>
+              <span class="text-sm font-semibold text-white/80">{item.event}</span>
+              <span class="text-xs text-white/25 hidden sm:inline">— {item.desc}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <!-- Stat cards -->
+  <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
+    <div class="glass-panel-sm p-3 text-center">
+      <div class="font-display text-xl font-bold text-white">{yearsSince}+</div>
+      <div class="text-[10px] text-white/20">years since Apollo 17</div>
+    </div>
+    <div class="glass-panel-sm p-3 text-center">
+      <div class="font-display text-xl font-bold text-white">4</div>
+      <div class="text-[10px] text-white/20">crew vs 3 on Apollo</div>
+    </div>
+    <div class="glass-panel-sm p-3 text-center">
+      <div class="font-display text-xl font-bold text-nasa-orange">1st</div>
+      <div class="text-[10px] text-white/20">woman beyond LEO</div>
+    </div>
+    <div class="glass-panel-sm p-3 text-center">
+      <div class="font-display text-xl font-bold text-nasa-orange">1st</div>
+      <div class="text-[10px] text-white/20">person of color beyond LEO</div>
+    </div>
+  </div>
+</GlowPanel>
+
+<script is:inline>
+  function updateHistorical() {
+    const apollo17 = new Date('1972-12-19T00:00:00Z').getTime();
+    const now = Date.now();
+    const diff = now - apollo17;
+    const years = (diff / (365.25 * 24 * 3600 * 1000)).toFixed(1);
+    const days = Math.floor(diff / 86400000);
+    const yearsEl = document.getElementById('hist-years');
+    const daysEl = document.getElementById('hist-days');
+    if (yearsEl) yearsEl.textContent = years;
+    if (daysEl) daysEl.textContent = days.toLocaleString();
+  }
+  updateHistorical();
+  setInterval(updateHistorical, 60000);
+  document.addEventListener('astro:after-swap', updateHistorical);
+</script>
