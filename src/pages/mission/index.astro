@@ -3,12 +3,13 @@ import Layout from '../../layouts/Layout.astro';
 import GlowPanel from '../../components/GlowPanel.astro';
 import SectionHeader from '../../components/SectionHeader.astro';
 import TrajectoryMap from '../../components/TrajectoryMap.svelte';
-import MissionTimeline from '../../components/MissionTimeline.astro';
-import MilestonesTracker from '../../components/MilestonesTracker.astro';
+import MissionTimeline from '../../components/MissionTimeline.svelte';
+import MilestonesTracker from '../../components/MilestonesTracker.svelte';
 
 // Load data
 let config: any = {};
 let trajectory: any = {};
+let timeline: any[] = [];
 try {
   const configMod = await import('../../../data/config.json');
   config = configMod.default;
@@ -17,9 +18,13 @@ try {
   const trajMod = await import('../../../data/trajectory.json');
   trajectory = trajMod.default;
 } catch {}
+try {
+  const timelineMod = await import('../../../data/mission-timeline.json');
+  timeline = timelineMod.default;
+} catch {}
 
-const missionDay = config.missionDay ?? 0;
-const missionPhase = config.missionPhase ?? 'prelaunch';
+const launchDate = config.launchDate ?? '2026-04-01T18:24:00-04:00';
+const configCompletedMilestones: string[] = config.completedMilestones ?? [];
 ---
 
 <Layout title="Mission Tracker — Artemis II">
@@ -39,14 +44,18 @@ const missionPhase = config.missionPhase ?? 'prelaunch';
       earthMoonDistance={trajectory.earthMoonDistance ?? 384400}
       apolloRecord={trajectory.apolloRecord ?? 400171}
       farthestPoint={trajectory.farthestPoint ?? 392000}
-      missionDay={missionDay}
-      missionPhase={missionPhase}
+      launchDate={launchDate}
     />
   </GlowPanel>
 
   {/* Timeline + Milestones side by side */}
   <div class="grid lg:grid-cols-2 gap-6">
-    <MissionTimeline />
-    <MilestonesTracker />
+    <GlowPanel class="animate-fade-in-up stagger-2">
+      <MissionTimeline client:load launchDate={launchDate} timeline={timeline} />
+    </GlowPanel>
+
+    <GlowPanel class="animate-fade-in-up stagger-3">
+      <MilestonesTracker client:load launchDate={launchDate} configCompletedMilestones={configCompletedMilestones} />
+    </GlowPanel>
   </div>
 </Layout>

@@ -33,12 +33,8 @@
     const target = new Date(launchDate).getTime();
     let diff = target - now;
 
-    if (missionPhase !== 'prelaunch' && missionPhase !== 'launch') {
-      // MET mode: count up from launch
-      diff = now - target;
-      isPostLaunch = true;
-      label = 'MET';
-    } else if (diff <= 0) {
+    // Auto-detect post-launch from actual time, not static config
+    if (diff <= 0) {
       diff = now - target;
       isPostLaunch = true;
       label = 'MET';

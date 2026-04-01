@@ -174,7 +174,7 @@ try {
   </div>
 </Layout>
 
-<script is:inline>
+<script is:inline define:vars={{ launchDateStr: config.launchDate }}>
   function updateYearsSince() {
     const el = document.getElementById('years-since');
     if (el) {
@@ -186,8 +186,13 @@ try {
   }
 
   function updateMoonDistance() {
-    const el = document.getElementById('moon-distance');
+    var el = document.getElementById('moon-distance');
     if (!el) return;
+
+    var LAUNCH_DATE = launchDateStr;
+    var launchTime = new Date(LAUNCH_DATE).getTime();
+    var now = Date.now();
+    var metMs = now - launchTime;
 
     // Waypoints from trajectory data (outbound + return)
     var waypoints = [
@@ -197,21 +202,24 @@ try {
       { day: 9, dist: 130000 }, { day: 10, dist: 0 }
     ];
     var MOON_DIST = 384400;
-    var missionDay = 0; // prelaunch default
 
-    // Interpolate distance from earth based on mission day
+    // Auto-derive mission day from MET
+    var missionDayFrac = metMs > 0 ? Math.min(metMs / (24 * 3600 * 1000), 10) : 0;
+    var missionDay = Math.floor(missionDayFrac);
+
+    // Interpolate distance from earth based on fractional mission day
     var distFromEarth = 0;
-    if (missionDay > 0 && missionDay < 10) {
+    if (missionDayFrac > 0 && missionDayFrac < 10) {
       var prev = waypoints[0];
       for (var i = 0; i < waypoints.length; i++) {
-        if (waypoints[i].day <= missionDay) prev = waypoints[i];
+        if (waypoints[i].day <= missionDayFrac) prev = waypoints[i];
       }
       var next = null;
       for (var j = 0; j < waypoints.length; j++) {
-        if (waypoints[j].day > missionDay) { next = waypoints[j]; break; }
+        if (waypoints[j].day > missionDayFrac) { next = waypoints[j]; break; }
       }
       if (prev && next) {
-        var t = (missionDay - prev.day) / (next.day - prev.day);
+        var t = (missionDayFrac - prev.day) / (next.day - prev.day);
         distFromEarth = prev.dist + t * (next.dist - prev.dist);
       } else {
         distFromEarth = prev.dist;
@@ -244,5 +252,7 @@ try {
 
   updateYearsSince();
   updateMoonDistance();
+  // Re-run every 30 seconds for live distance updates
+  setInterval(function() { updateMoonDistance(); }, 30000);
   document.addEventListener('astro:after-swap', function() { updateYearsSince(); updateMoonDistance(); });
 </script>

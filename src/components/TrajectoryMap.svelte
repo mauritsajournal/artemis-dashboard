@@ -1,5 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
+  import { getMissionState } from '../lib/mission-clock';
 
   interface Waypoint {
     day: number;
@@ -13,12 +14,18 @@
     earthMoonDistance: number;
     apolloRecord: number;
     farthestPoint: number;
-    missionDay: number;
-    missionPhase: string;
+    launchDate: string;
+    /** Static fallback from config — overridden by live MET */
+    missionDay?: number;
+    /** Static fallback from config — overridden by live MET */
+    missionPhase?: string;
   }
 
-  let { waypoints, earthMoonDistance, apolloRecord, farthestPoint, missionDay, missionPhase }: Props = $props();
+  let { waypoints, earthMoonDistance, apolloRecord, farthestPoint, launchDate, missionDay: propDay = 0, missionPhase: propPhase = 'prelaunch' }: Props = $props();
 
+  let liveMissionDay = $state(propDay);
+  let liveMissionDayFractional = $state(propDay);
+  let liveMissionPhase = $state(propPhase);
   let mounted = $state(false);
   let svgWidth = $state(800);
   let svgHeight = $state(400);
@@ -26,12 +33,19 @@
   // SVG layout
   const padding = { top: 40, right: 60, bottom: 60, left: 60 };
 
-  // Interpolate current position
-  function getCurrentDistance(): number {
-    if (missionPhase === 'prelaunch' || missionPhase === 'launch') return 0;
-    if (missionPhase === 'complete') return 0;
+  function updateFromClock() {
+    const state = getMissionState(launchDate);
+    liveMissionDay = state.missionDay;
+    liveMissionDayFractional = state.missionDayFractional;
+    liveMissionPhase = state.missionPhase;
+  }
 
-    const day = missionDay;
+  // Interpolate current position using fractional day for smooth movement
+  function getCurrentDistance(): number {
+    if (liveMissionPhase === 'prelaunch' || liveMissionPhase === 'launch') return 0;
+    if (liveMissionPhase === 'complete') return 0;
+
+    const day = liveMissionDayFractional;
     if (day <= 0) return 0;
     if (day >= 10) return 0;
 
@@ -80,7 +94,7 @@
     const plotWidth = svgWidth - padding.left - padding.right;
     const plotHeight = svgHeight - padding.top - padding.bottom;
 
-    const x = padding.left + (missionDay / 10) * plotWidth;
+    const x = padding.left + (liveMissionDayFractional / 10) * plotWidth;
     const y = padding.top + plotHeight - (dist / maxDist) * plotHeight;
     return { x, y };
   }
@@ -92,11 +106,14 @@
 
   onMount(() => {
     mounted = true;
+    updateFromClock();
     const container = document.getElementById('trajectory-container');
     if (container) {
       svgWidth = Math.min(container.clientWidth, 900);
       svgHeight = Math.max(svgWidth * 0.45, 300);
     }
+    const interval = setInterval(updateFromClock, 10000);
+    return () => clearInterval(interval);
   });
 
   const pathPoints = $derived(getPathPoints());
@@ -179,7 +196,7 @@
       {/each}
 
       <!-- Current position (Orion) -->
-      {#if currentPos && missionPhase !== 'prelaunch' && missionPhase !== 'launch'}
+      {#if currentPos && liveMissionPhase !== 'prelaunch' && liveMissionPhase !== 'launch'}
         <circle cx={currentPos.x} cy={currentPos.y} r="20" fill="url(#orionGlow)" />
         <circle cx={currentPos.x} cy={currentPos.y} r="5" fill="#FC3D21" stroke="white" stroke-width="1.5" filter="url(#glow)" />
         <text x={currentPos.x} y={currentPos.y - 12}
@@ -205,12 +222,12 @@
         <div class="font-display text-lg font-bold text-mission-cyan">{formatDistance(currentDist)}</div>
       </div>
       <div class="glass-panel-sm p-3 text-center">
-        <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">{missionDay <= 6 ? 'REMAINING TO MOON' : 'REMAINING TO EARTH'}</div>
-        <div class="font-display text-lg font-bold text-nasa-orange">{missionDay <= 6 ? formatDistance(Math.max(0, earthMoonDistance - currentDist)) : formatDistance(currentDist)}</div>
+        <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">{liveMissionDay <= 6 ? 'REMAINING TO MOON' : 'REMAINING TO EARTH'}</div>
+        <div class="font-display text-lg font-bold text-nasa-orange">{liveMissionDay <= 6 ? formatDistance(Math.max(0, earthMoonDistance - currentDist)) : formatDistance(currentDist)}</div>
       </div>
       <div class="glass-panel-sm p-3 text-center">
         <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">MISSION DAY</div>
-        <div class="font-display text-lg font-bold text-white">{missionDay} / 10</div>
+        <div class="font-display text-lg font-bold text-white">{liveMissionDay} / 10</div>
       </div>
       <div class="glass-panel-sm p-3 text-center">
         <div class="text-[10px] text-white/40 font-display tracking-wider mb-1">DISTANCE TO MOON</div>

@@ -1,7 +1,19 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import PreLaunchTimeline from '../../components/PreLaunchTimeline.astro';
-import LaunchEventTracker from '../../components/LaunchEventTracker.astro';
+import GlowPanel from '../../components/GlowPanel.astro';
+import SectionHeader from '../../components/SectionHeader.astro';
+import PreLaunchTimeline from '../../components/PreLaunchTimeline.svelte';
+import LaunchEventTracker from '../../components/LaunchEventTracker.svelte';
+
+// Load config
+let config: any = {};
+try {
+  const mod = await import('../../../data/config.json');
+  config = mod.default;
+} catch {}
+
+const launchDate = config.launchDate ?? '2026-04-01T18:24:00-04:00';
+const configCompletedEvents: string[] = config.completedLaunchEvents ?? [];
 ---
 
 <Layout title="Launch Day — Artemis II">
@@ -13,7 +25,14 @@ import LaunchEventTracker from '../../components/LaunchEventTracker.astro';
   </div>
 
   <div class="grid lg:grid-cols-2 gap-6">
-    <PreLaunchTimeline />
-    <LaunchEventTracker />
+    <GlowPanel class="animate-fade-in-up">
+      <SectionHeader title="Pre-Launch Timeline" subtitle="Countdown milestones to liftoff" accent="orange" />
+      <PreLaunchTimeline client:load launchDate={launchDate} />
+    </GlowPanel>
+
+    <GlowPanel class="animate-fade-in-up stagger-2">
+      <SectionHeader title="Launch & Ascent" subtitle="Liftoff through Translunar Injection" accent="orange" />
+      <LaunchEventTracker client:load launchDate={launchDate} configCompletedEvents={configCompletedEvents} />
+    </GlowPanel>
   </div>
 </Layout>
