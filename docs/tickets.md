@@ -278,7 +278,8 @@
 
 ---
 
-## [ ] T-010 — Crew panel component
+## [x] T-010 — Crew panel component
+**Completed:** 2026-04-01 — Profile cards with initials avatar, "Historic First" badges, X links, responsive grid
 
 **Priority:** P1
 **Depends on:** T-002

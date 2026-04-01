@@ -1,0 +1,68 @@
+[
+  {
+    "day": 0,
+    "title": "Launch Day",
+    "description": "SLS launches from Kennedy Space Center Pad 39B, carrying Orion with 4 astronauts. After reaching orbit, ICPS performs the TLI burn to send Orion toward the Moon.",
+    "events": ["SLS liftoff", "SRB separation", "Core stage separation", "Parking orbit achieved", "TLI burn — Orion leaves Earth orbit"]
+  },
+  {
+    "day": 1,
+    "title": "Outbound — Leaving Earth",
+    "description": "Orion separates from ICPS, deploys solar arrays. Crew performs initial systems checks and settles into the spacecraft for the long coast to the Moon.",
+    "events": ["ICPS separation", "Solar array deployment", "Star tracker navigation calibration", "First crew status report"]
+  },
+  {
+    "day": 2,
+    "title": "Outbound — Deep Space",
+    "description": "Systems checkout continues. Crew tests Orion's life support, communication systems, and navigation. First images of Earth from deep space.",
+    "events": ["Life support system validation", "Deep space communication checks", "Crew exercise protocol", "Earth photography session"]
+  },
+  {
+    "day": 3,
+    "title": "Outbound — Midcourse",
+    "description": "Possible midcourse correction burn. Crew continues adapting to the deep space environment. Distance from Earth: ~200,000 km.",
+    "events": ["Midcourse correction burn (if needed)", "Radiation environment monitoring", "Orion systems health check"]
+  },
+  {
+    "day": 4,
+    "title": "Outbound — Approaching the Moon",
+    "description": "Orion enters the lunar sphere of influence. The Moon's gravity begins to dominate. Final preparations for lunar flyby.",
+    "events": ["Lunar sphere of influence entry", "Navigation state update", "Flyby trajectory confirmation", "Crew rest period"]
+  },
+  {
+    "day": 5,
+    "title": "Lunar Approach",
+    "description": "Orion approaches the Moon, passing behind the far side. Brief loss of signal as the spacecraft is occulted by the Moon. The crew sees the lunar far side up close.",
+    "events": ["Closest approach to Moon (~7,600 km)", "Far side observation", "Loss of signal (behind Moon)", "Signal reacquisition"]
+  },
+  {
+    "day": 6,
+    "title": "Farthest Point — Beyond the Moon",
+    "description": "Orion reaches its farthest point from Earth: ~392,000 km, surpassing 7,600 km beyond the Moon. The crew sets a new distance record, passing Apollo 13's 400,171 km mark from Earth.",
+    "events": ["Maximum distance from Earth reached", "Apollo 13 record surpassed (400,171 km)", "Deep space photography", "Return trajectory burn preparation"]
+  },
+  {
+    "day": 7,
+    "title": "Return — Heading Home",
+    "description": "Return trajectory established. Orion begins the long coast back to Earth. Crew conducts additional systems tests for the return leg.",
+    "events": ["Return trajectory burn", "Systems check for re-entry preparation", "Crew debriefing and data collection"]
+  },
+  {
+    "day": 8,
+    "title": "Return — Midway Home",
+    "description": "Continued return coast. Crew prepares for re-entry procedures. Final deep space activities before approaching Earth.",
+    "events": ["Midcourse correction (if needed)", "Re-entry procedure review", "Stowage of loose equipment", "Final deep space observations"]
+  },
+  {
+    "day": 9,
+    "title": "Return — Final Approach",
+    "description": "Orion approaches Earth. Service module separation. Heat shield orientation. The crew prepares for the most critical phase: re-entry at 40,000 km/h.",
+    "events": ["Service module jettison", "Crew module orientation for re-entry", "Communication blackout during re-entry", "Parachute deployment sequence"]
+  },
+  {
+    "day": 10,
+    "title": "Splashdown",
+    "description": "Orion splashes down in the Pacific Ocean. USS Portland recovery ship retrieves the crew module. The Artemis II crew returns to Earth as heroes who opened the door back to the Moon.",
+    "events": ["Re-entry and descent", "Main parachute deployment", "Splashdown in Pacific Ocean", "Crew recovery by USS Portland", "First humans beyond LEO in 53+ years — safely home"]
+  }
+]

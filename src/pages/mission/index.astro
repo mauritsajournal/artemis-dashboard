@@ -2,6 +2,24 @@
 import Layout from '../../layouts/Layout.astro';
 import GlowPanel from '../../components/GlowPanel.astro';
 import SectionHeader from '../../components/SectionHeader.astro';
+import TrajectoryMap from '../../components/TrajectoryMap.svelte';
+import MissionTimeline from '../../components/MissionTimeline.astro';
+import MilestonesTracker from '../../components/MilestonesTracker.astro';
+
+// Load data
+let config: any = {};
+let trajectory: any = {};
+try {
+  const configMod = await import('../../../data/config.json');
+  config = configMod.default;
+} catch {}
+try {
+  const trajMod = await import('../../../data/trajectory.json');
+  trajectory = trajMod.default;
+} catch {}
+
+const missionDay = config.missionDay ?? 0;
+const missionPhase = config.missionPhase ?? 'prelaunch';
 ---
 
 <Layout title="Mission Tracker — Artemis II">
@@ -11,7 +29,24 @@ import SectionHeader from '../../components/SectionHeader.astro';
     </h1>
     <p class="text-white/30 text-sm mt-2 font-display tracking-wider">TRAJECTORY + TIMELINE + MILESTONES</p>
   </div>
-  <div class="text-center py-20 text-white/20 font-display tracking-widest">
-    TRAJECTORY AND TIMELINE COMPONENTS LOADING...
+
+  {/* Trajectory visualization */}
+  <GlowPanel glow="cyan" class="mb-6 animate-fade-in-up stagger-1">
+    <SectionHeader title="Earth — Moon Trajectory" subtitle="Orion's 10-day flight path" accent="cyan" />
+    <TrajectoryMap
+      client:load
+      waypoints={trajectory.waypoints ?? []}
+      earthMoonDistance={trajectory.earthMoonDistance ?? 384400}
+      apolloRecord={trajectory.apolloRecord ?? 400171}
+      farthestPoint={trajectory.farthestPoint ?? 392000}
+      missionDay={missionDay}
+      missionPhase={missionPhase}
+    />
+  </GlowPanel>
+
+  {/* Timeline + Milestones side by side */}
+  <div class="grid lg:grid-cols-2 gap-6">
+    <MissionTimeline />
+    <MilestonesTracker />
   </div>
 </Layout>

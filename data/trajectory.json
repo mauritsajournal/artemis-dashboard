@@ -1,0 +1,18 @@
+{
+  "earthMoonDistance": 384400,
+  "apolloRecord": 400171,
+  "farthestPoint": 392000,
+  "waypoints": [
+    { "day": 0, "distanceFromEarth": 0, "label": "Launch", "description": "Liftoff from Kennedy Space Center" },
+    { "day": 1, "distanceFromEarth": 50000, "label": "Day 1", "description": "Post-TLI, leaving Earth behind" },
+    { "day": 2, "distanceFromEarth": 120000, "label": "Day 2", "description": "Outbound coast, systems checkout" },
+    { "day": 3, "distanceFromEarth": 200000, "label": "Day 3", "description": "Halfway to lunar sphere of influence" },
+    { "day": 4, "distanceFromEarth": 300000, "label": "Day 4", "description": "Approaching the Moon" },
+    { "day": 5, "distanceFromEarth": 370000, "label": "Day 5", "description": "Near the Moon (384,400 km)" },
+    { "day": 6, "distanceFromEarth": 392000, "label": "Day 6", "description": "Lunar flyby — farthest point, 7,600 km beyond Moon" },
+    { "day": 7, "distanceFromEarth": 350000, "label": "Day 7", "description": "Return trajectory established" },
+    { "day": 8, "distanceFromEarth": 250000, "label": "Day 8", "description": "Homeward bound" },
+    { "day": 9, "distanceFromEarth": 130000, "label": "Day 9", "description": "Approaching Earth" },
+    { "day": 10, "distanceFromEarth": 0, "label": "Day 10", "description": "Re-entry and splashdown" }
+  ]
+}
