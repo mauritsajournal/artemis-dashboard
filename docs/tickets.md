@@ -588,7 +588,8 @@
 
 ---
 
-## [ ] T-020 — Final polish, performance & README
+## [x] T-020 — Final polish, performance & README
+**Completed:** 2026-04-01 — SEO meta tags, OG image, ARIA labels, README, 468K total build output
 
 **Priority:** P2
 **Depends on:** T-001 through T-019
