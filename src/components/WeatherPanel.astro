@@ -1,0 +1,159 @@
+---
+import GlowPanel from './GlowPanel.astro';
+import SectionHeader from './SectionHeader.astro';
+import StatusBadge from './StatusBadge.astro';
+
+// Load weather data
+let weather: any = null;
+let dataAge = '';
+let isStale = false;
+try {
+  const mod = await import('../../data/weather.json');
+  weather = mod.default;
+  const fetched = new Date(weather.fetchedAt);
+  const diffMs = Date.now() - fetched.getTime();
+  const hours = Math.floor(diffMs / 3600000);
+  const mins = Math.floor((diffMs % 3600000) / 60000);
+  dataAge = hours > 0 ? `${hours}h ${mins}m ago` : `${mins}m ago`;
+  isStale = hours > 6;
+} catch { /* not available */ }
+
+// Weather code descriptions
+const weatherCodes: Record<number, string> = {
+  0: 'Clear sky', 1: 'Mainly clear', 2: 'Partly cloudy', 3: 'Overcast',
+  45: 'Foggy', 48: 'Rime fog', 51: 'Light drizzle', 53: 'Moderate drizzle',
+  55: 'Dense drizzle', 61: 'Light rain', 63: 'Moderate rain', 65: 'Heavy rain',
+  71: 'Light snow', 73: 'Moderate snow', 75: 'Heavy snow', 80: 'Light showers',
+  81: 'Moderate showers', 82: 'Violent showers', 95: 'Thunderstorm',
+  96: 'Thunderstorm with hail', 99: 'Thunderstorm with heavy hail',
+};
+
+// Launch constraints
+const WIND_LIMIT_GROUND = 72; // km/h
+const WIND_LIMIT_162FT = 53; // km/h
+
+const current = weather?.current;
+const windOk = current ? current.windSpeed < WIND_LIMIT_GROUND && current.windGusts < WIND_LIMIT_GROUND : false;
+const precipOk = current ? current.precipitation === 0 : false;
+const weatherOk = current ? (current.weatherCode < 50 && windOk && precipOk) : false;
+
+// Solar weather
+const solar = weather?.solar;
+const kpIndex = solar?.kpIndex ?? null;
+const kpStatus = kpIndex === null ? 'unknown' : kpIndex <= 3 ? 'go' : kpIndex <= 5 ? 'concern' : 'nogo';
+const kpLabel = kpIndex === null ? 'N/A' : kpIndex.toFixed(1);
+
+// Daily forecast
+const daily = weather?.daily;
+---
+
+<GlowPanel class="animate-fade-in-up">
+  <SectionHeader title="Launch Pad 39B Weather" subtitle="Kennedy Space Center, Florida" accent="cyan" />
+
+  {isStale && (
+    <div class="glass-panel-sm p-3 mb-4 border-status-concern/30">
+      <div class="flex items-center gap-2 text-xs text-status-concern">
+        <div class="w-1.5 h-1.5 rounded-full bg-status-concern"></div>
+        <span class="font-display tracking-wider">STALE DATA — Updated {dataAge}</span>
+      </div>
+    </div>
+  )}
+
+  {current ? (
+    <div class="space-y-4">
+      <!-- Current conditions -->
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+        <div class="glass-panel-sm p-3">
+          <div class="section-label mb-1">TEMPERATURE</div>
+          <div class="font-display text-2xl font-bold text-white">{current.temperature}<span class="text-white/30 text-sm">°C</span></div>
+        </div>
+        <div class="glass-panel-sm p-3">
+          <div class="section-label mb-1">WIND</div>
+          <div class="font-display text-2xl font-bold" class:list={[windOk ? 'text-status-go' : 'text-status-nogo']}>
+            {current.windSpeed}<span class="text-white/30 text-sm"> km/h</span>
+          </div>
+          <div class="text-[10px] text-white/20 mt-1">Gusts: {current.windGusts} km/h</div>
+        </div>
+        <div class="glass-panel-sm p-3">
+          <div class="section-label mb-1">CLOUD COVER</div>
+          <div class="font-display text-2xl font-bold text-white">{current.cloudCover}<span class="text-white/30 text-sm">%</span></div>
+        </div>
+      </div>
+
+      <!-- Wind gauge -->
+      <div class="glass-panel-sm p-4">
+        <div class="flex items-center justify-between mb-2">
+          <span class="section-label">WIND VS LAUNCH LIMIT</span>
+          <StatusBadge status={windOk ? 'go' : 'nogo'} size="sm" />
+        </div>
+        <div class="relative h-3 bg-white/5 rounded-full overflow-hidden">
+          <div class="absolute inset-y-0 left-0 rounded-full transition-all duration-500"
+               style={`width: ${Math.min((current.windSpeed / WIND_LIMIT_GROUND) * 100, 100)}%`}
+               class:list={[windOk ? 'bg-gradient-to-r from-status-go/50 to-status-go' : 'bg-gradient-to-r from-status-nogo/50 to-status-nogo']}></div>
+          <!-- Limit marker -->
+          <div class="absolute top-0 bottom-0 w-0.5 bg-white/30" style="left: 100%"></div>
+        </div>
+        <div class="flex justify-between text-[10px] text-white/20 mt-1">
+          <span>0 km/h</span>
+          <span>Limit: {WIND_LIMIT_GROUND} km/h</span>
+        </div>
+      </div>
+
+      <!-- Weather status + solar -->
+      <div class="grid grid-cols-2 gap-3">
+        <div class="glass-panel-sm p-3">
+          <div class="section-label mb-1">CONDITIONS</div>
+          <div class="text-sm text-white/60">{weatherCodes[current.weatherCode] ?? `Code ${current.weatherCode}`}</div>
+          <div class="mt-2">
+            <StatusBadge status={weatherOk ? 'go' : 'nogo'} label={weatherOk ? 'WEATHER GO' : 'WEATHER NO-GO'} size="sm" />
+          </div>
+        </div>
+        <div class="glass-panel-sm p-3">
+          <div class="section-label mb-1">SOLAR WEATHER (Kp)</div>
+          <div class="font-display text-2xl font-bold" class:list={[
+            kpStatus === 'go' ? 'text-status-go' : kpStatus === 'concern' ? 'text-status-concern' : 'text-status-nogo'
+          ]}>{kpLabel}</div>
+          <div class="mt-2">
+            <StatusBadge status={kpStatus as any} label={kpStatus === 'go' ? 'QUIET' : kpStatus === 'concern' ? 'ACTIVE' : kpStatus === 'nogo' ? 'STORM' : 'N/A'} size="sm" />
+          </div>
+        </div>
+      </div>
+
+      <!-- 5-day forecast -->
+      {daily && daily.time && (
+        <div>
+          <div class="section-label mb-2">5-DAY FORECAST</div>
+          <div class="grid grid-cols-5 gap-2">
+            {daily.time.map((date: string, i: number) => (
+              <div class="glass-panel-sm p-2 text-center">
+                <div class="text-[10px] text-white/25 font-display tracking-wider">
+                  {new Date(date).toLocaleDateString('en-US', { weekday: 'short' })}
+                </div>
+                <div class="font-display text-sm font-bold text-white mt-1">
+                  {Math.round(daily.temperatureMax[i])}°
+                </div>
+                <div class="text-[10px] text-white/30">
+                  {Math.round(daily.temperatureMin[i])}°
+                </div>
+                <div class="text-[10px] text-white/20 mt-1">
+                  {daily.windSpeedMax[i]}km/h
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- Last updated -->
+      {!isStale && (
+        <div class="text-[10px] text-white/15 text-right font-display tracking-wider">
+          Updated {dataAge}
+        </div>
+      )}
+    </div>
+  ) : (
+    <div class="text-center py-8 text-white/20 font-display tracking-widest text-sm">
+      WEATHER DATA UNAVAILABLE
+    </div>
+  )}
+</GlowPanel>

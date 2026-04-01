@@ -1,0 +1,125 @@
+---
+import GlowPanel from './GlowPanel.astro';
+import SectionHeader from './SectionHeader.astro';
+import StatusBadge from './StatusBadge.astro';
+
+// Load config for manual GO/NO-GO overrides
+let config: any = {};
+try {
+  const mod = await import('../../data/config.json');
+  config = mod.default;
+} catch { /* not available */ }
+
+// Load weather for auto-derived statuses
+let weather: any = null;
+try {
+  const mod = await import('../../data/weather.json');
+  weather = mod.default;
+} catch { /* not available */ }
+
+// Derive weather status
+const current = weather?.current;
+const windOk = current ? current.windSpeed < 72 && current.windGusts < 72 : true;
+const precipOk = current ? current.precipitation === 0 : true;
+const noThunder = current ? current.weatherCode < 95 : true;
+const weatherStatus = (windOk && precipOk && noThunder) ? 'go' : (!windOk || !noThunder) ? 'nogo' : 'concern';
+
+// Derive solar status
+const kp = weather?.solar?.kpIndex;
+const solarStatus = kp === null || kp === undefined ? 'unknown' : kp <= 3 ? 'go' : kp <= 5 ? 'concern' : 'nogo';
+
+// Manual statuses from config
+const goNoGo = config.goNoGo ?? {};
+
+type Status = 'go' | 'concern' | 'nogo' | 'unknown';
+
+interface Category {
+  name: string;
+  status: Status;
+  auto: boolean;
+}
+
+const categories: Category[] = [
+  { name: 'Weather', status: weatherStatus as Status, auto: true },
+  { name: 'Solar Weather', status: solarStatus as Status, auto: true },
+  { name: 'Vehicle', status: (goNoGo.vehicle ?? 'go') as Status, auto: false },
+  { name: 'Ground Systems', status: (goNoGo.groundSystems ?? 'go') as Status, auto: false },
+  { name: 'Crew Health', status: (goNoGo.crewHealth ?? 'go') as Status, auto: false },
+  { name: 'Range Safety', status: (goNoGo.rangeSafety ?? 'go') as Status, auto: false },
+  { name: 'Flight Software', status: (goNoGo.flightSoftware ?? 'go') as Status, auto: false },
+  { name: 'Recovery Weather', status: (goNoGo.recoveryWeather ?? 'go') as Status, auto: false },
+];
+
+const goCount = categories.filter(c => c.status === 'go').length;
+const totalCount = categories.length;
+const goPercent = Math.round((goCount / totalCount) * 100);
+const allGo = goCount === totalCount;
+---
+
+<GlowPanel glow={allGo ? 'green' : 'amber'} class="animate-fade-in-up">
+  <SectionHeader title="GO / NO-GO" subtitle="Mission Readiness Assessment" accent={allGo ? 'green' : 'amber'} />
+
+  <!-- Hold/Scrub notifications -->
+  {config.holdMessage && (
+    <div class="glass-panel-sm p-3 mb-4 border-status-concern/40 bg-status-concern/5">
+      <div class="flex items-center gap-2 text-sm">
+        <div class="w-2 h-2 rounded-full bg-status-concern animate-pulse"></div>
+        <span class="font-display tracking-wider text-status-concern font-semibold">HOLD:</span>
+        <span class="text-white/60">{config.holdMessage}</span>
+      </div>
+    </div>
+  )}
+
+  {config.scrubMessage && (
+    <div class="glass-panel-sm p-3 mb-4 border-status-nogo/40 bg-status-nogo/5">
+      <div class="flex items-center gap-2 text-sm">
+        <div class="w-2 h-2 rounded-full bg-status-nogo animate-pulse"></div>
+        <span class="font-display tracking-wider text-status-nogo font-semibold">SCRUB:</span>
+        <span class="text-white/60">{config.scrubMessage}</span>
+      </div>
+    </div>
+  )}
+
+  <!-- Overall percentage -->
+  <div class="text-center mb-6">
+    <div class="inline-flex items-center gap-4">
+      <div class="relative w-24 h-24">
+        <!-- SVG ring gauge -->
+        <svg viewBox="0 0 100 100" class="w-full h-full -rotate-90">
+          <circle cx="50" cy="50" r="42" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="8" />
+          <circle cx="50" cy="50" r="42" fill="none"
+                  stroke={allGo ? '#10B981' : goPercent >= 75 ? '#F59E0B' : '#EF4444'}
+                  stroke-width="8"
+                  stroke-linecap="round"
+                  stroke-dasharray={`${goPercent * 2.64} ${264 - goPercent * 2.64}`} />
+        </svg>
+        <div class="absolute inset-0 flex items-center justify-center">
+          <span class="font-display text-2xl font-bold" class:list={[
+            allGo ? 'text-status-go' : goPercent >= 75 ? 'text-status-concern' : 'text-status-nogo'
+          ]}>{goPercent}%</span>
+        </div>
+      </div>
+      <div>
+        <div class="font-display text-lg font-bold tracking-wider" class:list={[
+          allGo ? 'text-status-go' : goPercent >= 75 ? 'text-status-concern' : 'text-status-nogo'
+        ]}>
+          {allGo ? 'ALL SYSTEMS GO' : `${goCount}/${totalCount} GO`}
+        </div>
+        <div class="text-xs text-white/30 font-display tracking-wider">MISSION READINESS</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Categories grid -->
+  <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
+    {categories.map(cat => (
+      <div class="glass-panel-sm p-3 text-center">
+        <div class="text-[10px] text-white/25 font-display tracking-wider mb-2">{cat.name.toUpperCase()}</div>
+        <StatusBadge status={cat.status} size="sm" />
+        {cat.auto && (
+          <div class="text-[8px] text-white/15 mt-1 font-display tracking-wider">AUTO</div>
+        )}
+      </div>
+    ))}
+  </div>
+</GlowPanel>

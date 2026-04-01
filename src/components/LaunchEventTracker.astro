@@ -1,0 +1,102 @@
+---
+import GlowPanel from './GlowPanel.astro';
+import SectionHeader from './SectionHeader.astro';
+
+// Load config
+let config: any = {};
+try {
+  const mod = await import('../../data/config.json');
+  config = mod.default;
+} catch { /* not available */ }
+
+const completedEvents = config.completedLaunchEvents ?? [];
+
+interface LaunchEvent {
+  id: string;
+  time: string;
+  title: string;
+  description: string;
+  altitude?: string;
+  speed?: string;
+}
+
+const events: LaunchEvent[] = [
+  { id: 'liftoff', time: 'T+0s', title: 'LIFTOFF', description: 'SLS clears the tower at Launch Pad 39B. 8.8 million pounds of thrust.', altitude: '0 km', speed: '0 km/s' },
+  { id: 'srb-sep', time: 'T+2m', title: 'SRB Separation', description: 'Twin solid rocket boosters jettisoned after burning 1.6 million kg of propellant each.', altitude: '~48 km', speed: '~1.5 km/s' },
+  { id: 'fairing', time: 'T+3m', title: 'Fairing Panels Jettison', description: 'Launch Abort System and protective panels jettisoned. Orion spacecraft exposed.', altitude: '~67 km', speed: '~1.8 km/s' },
+  { id: 'meco', time: 'T+8m', title: 'Core Stage MECO', description: 'Main Engine Cutoff — four RS-25 engines shut down after consuming 2.7 million liters of propellant.', altitude: '~160 km', speed: '~7.8 km/s' },
+  { id: 'core-sep', time: 'T+8m10s', title: 'Core Stage Separation', description: 'SLS core stage separates. Now relying on the Interim Cryogenic Propulsion Stage (ICPS).', altitude: '~161 km', speed: '~7.8 km/s' },
+  { id: 'icps-ign', time: 'T+8m20s', title: 'ICPS Ignition', description: 'Single RL-10B-2 engine of the ICPS fires for orbital insertion burn.', altitude: '~162 km', speed: '~7.8 km/s' },
+  { id: 'icps-cut', time: 'T+18m', title: 'ICPS Cutoff — Orbit Achieved', description: 'Parking orbit achieved at ~185 km x 1,800 km. Systems checkout begins.', altitude: '~185 km', speed: '~7.9 km/s' },
+  { id: 'tli', time: 'T+1h30m', title: 'TLI Burn — Heading to the Moon', description: 'Translunar Injection burn. ICPS fires again to accelerate Orion to Earth escape velocity. Goodbye, Earth orbit.', altitude: '~1,800 km', speed: '~10.9 km/s' },
+  { id: 'deploy', time: 'T+2h+', title: 'Orion Separation & Solar Deploy', description: 'Orion separates from spent ICPS. Solar arrays unfurl. Crew begins 10-day journey to the Moon and back.', altitude: '~3,000 km', speed: '~10.8 km/s' },
+];
+---
+
+<GlowPanel class="animate-fade-in-up stagger-2">
+  <SectionHeader title="Launch & Ascent" subtitle="Liftoff through Translunar Injection" accent="orange" />
+
+  <div class="space-y-3">
+    {events.map((event, i) => {
+      const isCompleted = completedEvents.includes(event.id);
+      const isLiftoff = event.id === 'liftoff';
+      const isTLI = event.id === 'tli';
+      return (
+        <div class:list={[
+          'glass-panel-sm p-4 transition-all duration-300',
+          isCompleted ? 'border-status-go/20' : 'opacity-50',
+          isLiftoff && 'border-nasa-orange/20',
+          isTLI && 'border-mission-cyan/20',
+        ]}>
+          <div class="flex items-start gap-3">
+            {/* Sequence number / status */}
+            <div class:list={[
+              'w-8 h-8 rounded-full flex items-center justify-center shrink-0 text-xs font-display font-bold',
+              isCompleted ? 'bg-status-go/20 text-status-go border border-status-go/30' : 'bg-white/5 text-white/20 border border-white/10',
+            ]}>
+              {isCompleted ? (
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                  <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                </svg>
+              ) : (
+                <span>{i + 1}</span>
+              )}
+            </div>
+
+            <div class="flex-1 min-w-0">
+              <div class="flex flex-wrap items-center gap-2 mb-1">
+                <span class:list={[
+                  'font-display text-xs font-bold tracking-wider',
+                  isCompleted ? 'text-status-go' : 'text-white/30',
+                  isLiftoff && !isCompleted && 'text-nasa-orange/50',
+                ]}>{event.time}</span>
+                <span class:list={[
+                  'text-sm font-semibold',
+                  isCompleted ? 'text-white' : 'text-white/50',
+                  isLiftoff && 'font-display tracking-wider text-base',
+                ]}>{event.title}</span>
+              </div>
+              <p class="text-xs text-white/30 leading-relaxed">{event.description}</p>
+
+              {/* Altitude / Speed indicators */}
+              {(event.altitude || event.speed) && (
+                <div class="flex gap-4 mt-2">
+                  {event.altitude && (
+                    <div class="text-[10px] font-mono text-white/15">
+                      ALT: {event.altitude}
+                    </div>
+                  )}
+                  {event.speed && (
+                    <div class="text-[10px] font-mono text-white/15">
+                      VEL: {event.speed}
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</GlowPanel>

@@ -3,6 +3,8 @@ import Layout from '../layouts/Layout.astro';
 import GlowPanel from '../components/GlowPanel.astro';
 import SectionHeader from '../components/SectionHeader.astro';
 import CountdownTimer from '../components/CountdownTimer.svelte';
+import WeatherPanel from '../components/WeatherPanel.astro';
+import GoNoGoPanel from '../components/GoNoGoPanel.astro';
 
 // Load config
 let config = {
@@ -89,6 +91,12 @@ try {
       <div class="font-display text-3xl font-bold text-nasa-orange" id="years-since"></div>
       <div class="text-xs text-white/25 mt-1">Years</div>
     </div>
+  </div>
+
+  <!-- Weather + GO/NO-GO -->
+  <div class="grid md:grid-cols-2 gap-6 mb-10">
+    <WeatherPanel />
+    <GoNoGoPanel />
   </div>
 
   <!-- Mission summary -->

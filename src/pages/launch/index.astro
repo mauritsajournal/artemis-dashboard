@@ -1,5 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import PreLaunchTimeline from '../../components/PreLaunchTimeline.astro';
+import LaunchEventTracker from '../../components/LaunchEventTracker.astro';
 ---
 
 <Layout title="Launch Day — Artemis II">
@@ -7,9 +9,11 @@ import Layout from '../../layouts/Layout.astro';
     <h1 class="font-display text-3xl sm:text-4xl font-bold tracking-wider text-white">
       LAUNCH <span class="text-nasa-orange text-glow-orange">DAY</span>
     </h1>
-    <p class="text-white/30 text-sm mt-2 font-display tracking-wider">PRE-LAUNCH TIMELINE + ASCENT EVENTS</p>
+    <p class="text-white/30 text-sm mt-2 font-display tracking-wider">PRE-LAUNCH COUNTDOWN + ASCENT EVENTS</p>
   </div>
-  <div class="text-center py-20 text-white/20 font-display tracking-widest">
-    LAUNCH TIMELINE LOADING...
+
+  <div class="grid lg:grid-cols-2 gap-6">
+    <PreLaunchTimeline />
+    <LaunchEventTracker />
   </div>
 </Layout>
