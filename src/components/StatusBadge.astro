@@ -1,0 +1,39 @@
+---
+interface Props {
+  status: 'go' | 'concern' | 'nogo' | 'unknown';
+  label?: string;
+  size?: 'sm' | 'md' | 'lg';
+  pulse?: boolean;
+}
+
+const { status, label, size = 'md', pulse = false } = Astro.props;
+
+const statusConfig = {
+  go: { text: label ?? 'GO', bg: 'bg-status-go/15', border: 'border-status-go/30', color: 'text-status-go', glow: 'glow-green', dot: 'bg-status-go' },
+  concern: { text: label ?? 'CONCERN', bg: 'bg-status-concern/15', border: 'border-status-concern/30', color: 'text-status-concern', glow: 'glow-amber', dot: 'bg-status-concern' },
+  nogo: { text: label ?? 'NO-GO', bg: 'bg-status-nogo/15', border: 'border-status-nogo/30', color: 'text-status-nogo', glow: 'glow-red', dot: 'bg-status-nogo' },
+  unknown: { text: label ?? 'UNKNOWN', bg: 'bg-white/5', border: 'border-white/10', color: 'text-white/40', glow: '', dot: 'bg-white/30' },
+};
+
+const config = statusConfig[status];
+
+const sizeClasses = {
+  sm: 'px-2 py-0.5 text-[10px] gap-1',
+  md: 'px-3 py-1 text-xs gap-1.5',
+  lg: 'px-4 py-1.5 text-sm gap-2',
+};
+---
+
+<span class:list={[
+  'inline-flex items-center font-display font-semibold tracking-wider rounded-full border',
+  config.bg, config.border, config.color, config.glow,
+  sizeClasses[size],
+]}>
+  <span class:list={[
+    'rounded-full',
+    config.dot,
+    pulse && 'animate-pulse',
+    size === 'sm' ? 'w-1.5 h-1.5' : size === 'md' ? 'w-2 h-2' : 'w-2.5 h-2.5',
+  ]}></span>
+  {config.text}
+</span>

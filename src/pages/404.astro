@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Signal Lost — Artemis II Dashboard">
+  <div class="flex flex-col items-center justify-center py-32 text-center">
+    <div class="font-display text-8xl font-bold text-nasa-orange/20 mb-4">404</div>
+    <h1 class="font-display text-2xl font-bold tracking-wider text-white mb-3">SIGNAL LOST</h1>
+    <p class="text-white/40 max-w-md mb-8">
+      We've lost contact with this page. It may have been jettisoned during a course correction.
+    </p>
+    <a
+      href={import.meta.env.BASE_URL}
+      class="glass-panel-sm px-6 py-3 font-display text-sm tracking-wider font-semibold text-nasa-orange no-underline hover:bg-white/5 transition-colors"
+    >
+      RETURN TO MISSION CONTROL
+    </a>
+  </div>
+</Layout>

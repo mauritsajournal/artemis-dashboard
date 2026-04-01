@@ -1,0 +1,26 @@
+---
+interface Props {
+  title: string;
+  subtitle?: string;
+  accent?: 'orange' | 'cyan' | 'green' | 'amber';
+}
+
+const { title, subtitle, accent = 'orange' } = Astro.props;
+
+const accentColors = {
+  orange: 'from-nasa-orange to-nasa-red',
+  cyan: 'from-mission-cyan to-blue-400',
+  green: 'from-mission-green to-emerald-400',
+  amber: 'from-mission-amber to-yellow-400',
+};
+---
+
+<div class="mb-6">
+  <div class="flex items-center gap-3 mb-1">
+    <div class:list={['w-8 h-0.5 rounded-full bg-gradient-to-r', accentColors[accent]]}></div>
+    <h2 class="font-display text-lg sm:text-xl font-bold tracking-wider text-white uppercase">{title}</h2>
+  </div>
+  {subtitle && (
+    <p class="text-white/30 text-sm ml-11">{subtitle}</p>
+  )}
+</div>

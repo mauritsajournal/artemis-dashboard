@@ -1,0 +1,32 @@
+---
+interface Props {
+  class?: string;
+  glow?: 'orange' | 'cyan' | 'green' | 'amber' | 'none';
+  padding?: 'sm' | 'md' | 'lg';
+}
+
+const { class: className = '', glow = 'none', padding = 'md' } = Astro.props;
+
+const glowClass = {
+  orange: 'glow-orange',
+  cyan: 'glow-cyan',
+  green: 'glow-green',
+  amber: 'glow-amber',
+  none: '',
+};
+
+const paddingClass = {
+  sm: 'p-4',
+  md: 'p-6',
+  lg: 'p-8',
+};
+---
+
+<div class:list={[
+  'glass-panel',
+  glowClass[glow],
+  paddingClass[padding],
+  className,
+]}>
+  <slot />
+</div>

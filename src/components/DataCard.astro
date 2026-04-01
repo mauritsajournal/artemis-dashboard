@@ -1,0 +1,27 @@
+---
+interface Props {
+  label: string;
+  value: string;
+  unit?: string;
+  status?: 'normal' | 'warning' | 'danger' | 'highlight';
+  class?: string;
+}
+
+const { label, value, unit, status = 'normal', class: className = '' } = Astro.props;
+
+const valueColor = {
+  normal: 'text-white',
+  warning: 'text-status-concern',
+  danger: 'text-status-nogo',
+  highlight: 'text-nasa-orange',
+};
+---
+
+<div class:list={['glass-panel-sm p-4', className]}>
+  <div class="section-label mb-2">{label}</div>
+  <div class="flex items-baseline gap-1.5">
+    <span class:list={['stat-number', valueColor[status]]}>{value}</span>
+    {unit && <span class="text-white/30 text-sm font-display tracking-wider">{unit}</span>}
+  </div>
+  <slot />
+</div>
