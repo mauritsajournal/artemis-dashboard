@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-01T18:44:06.864Z",
+  "fetchedAt": "2026-04-01T19:51:14.616Z",
   "articles": [
     {
       "title": "What do scientists hope to learn from NASA's historic Artemis 2 moon flyby?",
@@ -55,7 +55,7 @@
       "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
       "pubDate": "2026-04-01T11:36:33.000Z",
       "source": "NASA Artemis Blog",
-      "description": "Live updates for launch of NASA&#8217;s Artemis II test flight will be published on this page. NASA’s launch broadcast coverage is airing on NASA+, Amazon Prime, and YouTube. All times are Eastern. 2:31 p.m. NASA’s Artemis II crew members are boarding the agency’s Orion spacecraft to begin communica"
+      "description": "Live updates for launch of NASA&#8217;s Artemis II test flight will be published on this page. NASA’s launch broadcast coverage&#160;is airing on&#160;NASA+,&#160;Amazon Prime, and&#160;YouTube.&#160;All times are Eastern. 3:39 p.m. NASA engineers have conducted counterbalance mechanism operations a"
     },
     {
       "title": "After three years, Artemis 2 astronauts ready to launch",
@@ -93,18 +93,18 @@
       "description": "As the Artemis II countdown moves steadily toward liftoff no earlier than 6:24 p.m. EDT, Wednesday, April 1, launch teams at NASA’s Kennedy Space Center in Florida continue completing a sequence of highly choreographed steps to ready the SLS (Space Launch System) rocket and Orion spacecraft for the&"
     },
     {
-      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
-      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
-    },
-    {
       "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
       "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
       "pubDate": "2026-03-31T18:00:00.000Z",
       "source": "Space.com",
       "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
+    },
+    {
+      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
+      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
     },
     {
       "title": "Here's what the Artemis 2 astronauts will be doing on each day of NASA's historic moon mission",
@@ -310,13 +310,6 @@
       "description": "The Antennae galaxies are witnessed in the process of merging into a single elliptical galaxy."
     },
     {
-      "title": "Artemis 2 livestream: Where to watch 4 astronauts launch to the moon today",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-launching-to-the-moon-on-april-1-watch-it-live",
-      "pubDate": "2026-03-28T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2 aims to fly to the moon with four astronauts on April 1 at 6:24 p.m. EDT (2224 GMT). Here's how you can watch live."
-    },
-    {
       "title": "I Am Artemis: Erik Richards",
       "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/",
       "pubDate": "2026-03-27T21:30:40.000Z",
@@ -350,6 +343,13 @@
       "pubDate": "2026-03-20T15:28:05.000Z",
       "source": "NASA Artemis Blog",
       "description": "At&#160;11:21&#160;a.m.&#160;EDT&#160;on&#160;Friday,&#160;March 20, NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft arrived at&#160;Launch Pad 39B after an&#160;11-hour journey from the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida.&#160; NASA’s c"
+    },
+    {
+      "title": "Artemis II Moon Rocket Heads Back to Launch Pad",
+      "link": "https://www.nasa.gov/blogs/missions/2026/03/20/artemis-ii-moon-rocket-heads-back-to-launch-pad/",
+      "pubDate": "2026-03-20T04:26:57.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft slated to send four astronauts around the Moon began rolling to Launch Pad 39B at 12:20 a.m. EDT on Friday, March 20. Rollout operations at the agency&#8217;s Kennedy Space Center in Florida were delayed earlier in the day due t"
     }
   ]
 }
