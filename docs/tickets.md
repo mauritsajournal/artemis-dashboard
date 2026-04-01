@@ -31,7 +31,8 @@
 
 ---
 
-## [ ] T-002 — Design system & layout
+## [x] T-002 — Design system & layout
+**Completed:** 2026-04-01 — Dark space theme, star field, glassmorphism, NASA palette, reusable components, responsive layout + nav
 
 **Priority:** P0
 **Depends on:** T-001
