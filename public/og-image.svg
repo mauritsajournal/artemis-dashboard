@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#0f1124"/>
+      <stop offset="100%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FC3D21"/>
+      <stop offset="100%" stop-color="#E03C31"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Stars -->
+  <circle cx="100" cy="80" r="1" fill="rgba(255,255,255,0.3)"/>
+  <circle cx="300" cy="150" r="1.5" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="500" cy="50" r="1" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="700" cy="120" r="1.5" fill="rgba(255,255,255,0.35)"/>
+  <circle cx="900" cy="70" r="1" fill="rgba(255,255,255,0.25)"/>
+  <circle cx="1100" cy="140" r="1.5" fill="rgba(255,255,255,0.3)"/>
+  <circle cx="200" cy="500" r="1" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="800" cy="550" r="1.5" fill="rgba(255,255,255,0.3)"/>
+  <!-- Title -->
+  <text x="600" y="250" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="72" fill="white" letter-spacing="8">ARTEMIS II</text>
+  <text x="600" y="310" text-anchor="middle" font-family="sans-serif" font-size="24" fill="rgba(255,255,255,0.3)" letter-spacing="6">MISSION DASHBOARD</text>
+  <!-- Accent line -->
+  <rect x="400" y="340" width="400" height="2" rx="1" fill="url(#accent)" opacity="0.5"/>
+  <!-- Subtitle -->
+  <text x="600" y="400" text-anchor="middle" font-family="sans-serif" font-size="18" fill="rgba(255,255,255,0.4)" letter-spacing="3">COUNTDOWN · TRAJECTORY · CREW · WEATHER</text>
+  <text x="600" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="rgba(252,61,33,0.6)" letter-spacing="4">FIRST CREWED LUNAR MISSION SINCE 1972</text>
+</svg>
