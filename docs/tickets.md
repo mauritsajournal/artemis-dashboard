@@ -151,7 +151,8 @@
 
 ---
 
-## [ ] T-006 — Weather panel component
+## [x] T-006 — Weather panel component
+**Completed:** 2026-04-01 — Full weather panel with wind gauge, Kp-index, 5-day forecast, stale data warning
 
 **Priority:** P1
 **Depends on:** T-002, T-003
@@ -174,7 +175,8 @@
 
 ---
 
-## [ ] T-007 — GO/NO-GO status panel
+## [x] T-007 — GO/NO-GO status panel
+**Completed:** 2026-04-01 — SVG ring gauge, 8 categories (2 auto, 6 manual), hold/scrub notifications
 
 **Priority:** P1
 **Depends on:** T-002
@@ -204,7 +206,8 @@
 
 ---
 
-## [ ] T-008 — Pre-launch timeline
+## [x] T-008 — Pre-launch timeline
+**Completed:** 2026-04-01 — 14-event vertical timeline, dual timezone, live status from launch time
 
 **Priority:** P1
 **Depends on:** T-002
@@ -243,7 +246,8 @@
 
 ---
 
-## [ ] T-009 — Launch event tracker page
+## [x] T-009 — Launch event tracker page
+**Completed:** 2026-04-01 — 9 ascent events with altitude/velocity, config-driven completion
 
 **Priority:** P1
 **Depends on:** T-002
