@@ -477,7 +477,8 @@
 
 ---
 
-## [ ] T-017 — Navigation & page routing
+## [x] T-017 — Navigation & page routing
+**Completed:** 2026-04-01 — All 6 pages routed, responsive nav, mission phase badge, mobile menu, 404 page
 
 **Priority:** P0
 **Depends on:** T-002
