@@ -9,7 +9,8 @@
 
 ---
 
-## [ ] T-001 — Project scaffolding & CI/CD
+## [x] T-001 — Project scaffolding & CI/CD
+**Completed:** 2026-04-01 — Astro 5 + Svelte 5 + Tailwind 4 + TS strict + GitHub Actions (cron, deploy, keepalive) + dark space theme
 
 **Priority:** P0
 **Description:** Initialize Astro 5 project with Svelte 5 integration, Tailwind CSS 4, TypeScript strict mode. Set up GitHub Actions workflow for build + deploy to GitHub Pages (same pattern as fpl-draft-dashboard). Add keepalive workflow to prevent cron disable.
