@@ -58,7 +58,8 @@
 
 ---
 
-## [ ] T-003 — Data fetch pipeline: weather
+## [x] T-003 — Data fetch pipeline: weather
+**Completed:** 2026-04-01 — Open-Meteo + NOAA SWPC fetch with error handling, stale data fallback
 
 **Priority:** P0
 **Depends on:** T-001
@@ -86,7 +87,8 @@
 
 ---
 
-## [ ] T-004 — Data fetch pipeline: news RSS
+## [x] T-004 — Data fetch pipeline: news RSS
+**Completed:** 2026-04-01 — RSS parser for 5 feeds, Artemis keyword filter, dedup, 50-article limit
 
 **Priority:** P0
 **Depends on:** T-001
@@ -502,7 +504,8 @@
 
 ---
 
-## [ ] T-018 — Config system & mission phase management
+## [x] T-018 — Config system & mission phase management
+**Completed:** 2026-04-01 — data/config.json with all mission state, layout reads phase for nav indicator
 
 **Priority:** P0
 **Depends on:** T-001
