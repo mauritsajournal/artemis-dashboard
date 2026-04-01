@@ -119,7 +119,8 @@
 
 ---
 
-## [ ] T-005 — Countdown timer page (home)
+## [x] T-005 — Countdown timer page (home)
+**Completed:** 2026-04-01 — Svelte island countdown with glow effects, milestones, MET mode, backup windows
 
 **Priority:** P0
 **Depends on:** T-002
