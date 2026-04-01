@@ -444,7 +444,8 @@
 
 ---
 
-## [ ] T-015 — Historical context component
+## [x] T-015 — Historical context component
+**Completed:** 2026-04-01 — Live counter since Apollo 17, mini timeline, stat cards, inspiring presentation
 
 **Priority:** P2
 **Depends on:** T-002
@@ -465,7 +466,8 @@
 
 ---
 
-## [ ] T-016 — NASA TV livestream embed
+## [x] T-016 — NASA TV livestream embed
+**Completed:** 2026-04-01 — YouTube embed with show/hide toggle, configurable video ID, offline placeholder
 
 **Priority:** P2
 **Depends on:** T-002
