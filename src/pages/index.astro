@@ -1,10 +1,154 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import GlowPanel from '../components/GlowPanel.astro';
+import SectionHeader from '../components/SectionHeader.astro';
+import CountdownTimer from '../components/CountdownTimer.svelte';
+
+// Load config
+let config = {
+  launchDate: '2025-09-01T12:00:00-04:00',
+  missionPhase: 'prelaunch',
+  backupWindows: [] as string[],
+  holdMessage: null as string | null,
+  scrubMessage: null as string | null,
+};
+
+try {
+  const mod = await import('../../data/config.json');
+  config = { ...config, ...mod.default };
+} catch {
+  // Config not available
+}
 ---
 
-<Layout title="Artemis II — Mission Dashboard">
-  <div class="text-center py-20">
-    <h1 class="font-display text-5xl font-bold tracking-wider text-white mb-4">ARTEMIS II</h1>
-    <p class="text-white/40 font-display tracking-widest text-sm">MISSION DASHBOARD — LOADING</p>
+<Layout title="Artemis II — Countdown">
+  <!-- Hold/Scrub message -->
+  {config.holdMessage && (
+    <div class="glass-panel border-status-concern/30 p-4 mb-8 text-center animate-fade-in-up">
+      <div class="flex items-center justify-center gap-2 mb-1">
+        <div class="w-2 h-2 rounded-full bg-status-concern animate-pulse"></div>
+        <span class="font-display text-sm tracking-wider font-bold text-status-concern">HOLD</span>
+      </div>
+      <p class="text-white/60 text-sm">{config.holdMessage}</p>
+    </div>
+  )}
+
+  {config.scrubMessage && (
+    <div class="glass-panel border-status-nogo/30 p-4 mb-8 text-center animate-fade-in-up">
+      <div class="flex items-center justify-center gap-2 mb-1">
+        <div class="w-2 h-2 rounded-full bg-status-nogo animate-pulse"></div>
+        <span class="font-display text-sm tracking-wider font-bold text-status-nogo">SCRUB</span>
+      </div>
+      <p class="text-white/60 text-sm">{config.scrubMessage}</p>
+    </div>
+  )}
+
+  <!-- Hero section: Mission title -->
+  <div class="text-center mb-6 animate-fade-in-up">
+    <div class="inline-block mb-4">
+      <div class="font-display text-xs tracking-[0.3em] text-white/20 mb-2">NASA</div>
+      <h1 class="font-display text-4xl sm:text-5xl md:text-6xl font-bold tracking-wider text-white">
+        ARTEMIS <span class="text-nasa-orange text-glow-orange">II</span>
+      </h1>
+      <div class="separator-glow mt-3 mb-3"></div>
+      <p class="font-display text-xs sm:text-sm tracking-[0.2em] text-white/30">
+        FIRST CREWED LUNAR MISSION IN OVER 50 YEARS
+      </p>
+    </div>
+  </div>
+
+  <!-- Countdown timer (Svelte island) -->
+  <GlowPanel glow="orange" padding="lg" class="mb-10 animate-fade-in-up stagger-2">
+    <CountdownTimer
+      client:load
+      launchDate={config.launchDate}
+      missionPhase={config.missionPhase}
+      backupWindows={config.backupWindows}
+    />
+  </GlowPanel>
+
+  <!-- Quick stats grid -->
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4 mb-10">
+    <div class="glass-panel-sm p-4 text-center animate-fade-in-up stagger-3">
+      <div class="section-label mb-1">CREW</div>
+      <div class="font-display text-3xl font-bold text-white">4</div>
+      <div class="text-xs text-white/25 mt-1">Astronauts</div>
+    </div>
+    <div class="glass-panel-sm p-4 text-center animate-fade-in-up stagger-4">
+      <div class="section-label mb-1">DURATION</div>
+      <div class="font-display text-3xl font-bold text-white">~10</div>
+      <div class="text-xs text-white/25 mt-1">Days</div>
+    </div>
+    <div class="glass-panel-sm p-4 text-center animate-fade-in-up stagger-5">
+      <div class="section-label mb-1">DISTANCE</div>
+      <div class="font-display text-3xl font-bold text-white">~392K</div>
+      <div class="text-xs text-white/25 mt-1">km from Earth</div>
+    </div>
+    <div class="glass-panel-sm p-4 text-center animate-fade-in-up stagger-6">
+      <div class="section-label mb-1">SINCE APOLLO 17</div>
+      <div class="font-display text-3xl font-bold text-nasa-orange" id="years-since"></div>
+      <div class="text-xs text-white/25 mt-1">Years</div>
+    </div>
+  </div>
+
+  <!-- Mission summary -->
+  <div class="grid md:grid-cols-2 gap-6 animate-fade-in-up stagger-7">
+    <GlowPanel>
+      <SectionHeader title="The Mission" accent="cyan" />
+      <p class="text-white/50 text-sm leading-relaxed mb-4">
+        Artemis II will send four astronauts around the Moon aboard the Orion spacecraft, launched by the Space Launch System (SLS) rocket. It will be the first crewed mission to venture beyond low-Earth orbit since Apollo 17 in December 1972.
+      </p>
+      <p class="text-white/50 text-sm leading-relaxed">
+        The ~10 day mission will fly a free-return trajectory, swinging around the far side of the Moon at an altitude of approximately 7,600 km above the lunar surface, reaching a maximum distance of ~392,000 km from Earth.
+      </p>
+    </GlowPanel>
+
+    <GlowPanel>
+      <SectionHeader title="Historic Firsts" accent="orange" />
+      <div class="space-y-3">
+        <div class="flex items-start gap-3">
+          <div class="w-1.5 h-1.5 rounded-full bg-nasa-orange mt-2 shrink-0"></div>
+          <div>
+            <div class="text-sm text-white/70 font-medium">First woman beyond low-Earth orbit</div>
+            <div class="text-xs text-white/30">Christina Koch</div>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <div class="w-1.5 h-1.5 rounded-full bg-nasa-orange mt-2 shrink-0"></div>
+          <div>
+            <div class="text-sm text-white/70 font-medium">First person of color beyond low-Earth orbit</div>
+            <div class="text-xs text-white/30">Victor Glover</div>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <div class="w-1.5 h-1.5 rounded-full bg-nasa-orange mt-2 shrink-0"></div>
+          <div>
+            <div class="text-sm text-white/70 font-medium">First non-American on a lunar mission</div>
+            <div class="text-xs text-white/30">Jeremy Hansen (CSA, Canada)</div>
+          </div>
+        </div>
+        <div class="flex items-start gap-3">
+          <div class="w-1.5 h-1.5 rounded-full bg-nasa-orange mt-2 shrink-0"></div>
+          <div>
+            <div class="text-sm text-white/70 font-medium">First humans beyond LEO since 1972</div>
+            <div class="text-xs text-white/30">53+ years since Apollo 17</div>
+          </div>
+        </div>
+      </div>
+    </GlowPanel>
   </div>
 </Layout>
+
+<script is:inline>
+  function updateYearsSince() {
+    const el = document.getElementById('years-since');
+    if (el) {
+      const apollo17 = new Date('1972-12-19T00:00:00Z');
+      const diff = Date.now() - apollo17.getTime();
+      const years = (diff / (365.25 * 24 * 3600 * 1000)).toFixed(1);
+      el.textContent = years;
+    }
+  }
+  updateYearsSince();
+  document.addEventListener('astro:after-swap', updateYearsSince);
+</script>
