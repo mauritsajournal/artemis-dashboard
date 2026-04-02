@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-04-02T12:44:53.549Z",
+  "fetchedAt": "2026-04-02T14:15:47.174Z",
   "articles": [
+    {
+      "title": "NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026",
+      "pubDate": "2026-04-02T14:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 has launched on a history-making journey around the moon and back, and the moment was captured from space."
+    },
+    {
+      "title": "Artemis II Flight Update: Perigee Raise Burn Complete",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-update-perigee-raise-burn-complete/",
+      "pubDate": "2026-04-02T13:15:02.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "A view of the Earth from NASA’s Orion spacecraft as it orbits above the planet during the Artemis II test flight. NASA astronauts Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch, and CSA (Canadian Space Agency) astronaut Mission Specialist Jeremy Hansen, launched a"
+    },
+    {
+      "title": "How to track the Artemis 2 astronauts on their journey around the moon",
+      "link": "https://www.space.com/space-exploration/artemis/how-to-track-the-artemis-2-astronauts-on-their-journey-around-the-moon",
+      "pubDate": "2026-04-02T13:00:00.000Z",
+      "source": "Space.com",
+      "description": "You can follow the Artemis 2 astronaut mission around the moon in real time, thanks to a NASA website."
+    },
+    {
+      "title": "Relive NASA's historic Artemis 2 launch to the moon in these stunning photos",
+      "link": "https://www.space.com/space-exploration/relive-nasas-historic-artemis-2-launch-to-the-moon-in-these-stunning-photos",
+      "pubDate": "2026-04-02T12:56:33.000Z",
+      "source": "Space.com",
+      "description": "The launch of NASA's historic Artemis 2 mission looks incredible in these stunning launch photos."
+    },
     {
       "title": "NASA just launched Artemis 2. What happens today could make or break the moon mission",
       "link": "https://www.space.com/space-exploration/artemis/nasa-just-launched-artemis-2-what-happens-today-could-make-or-break-the-moon-mission",
@@ -121,11 +149,11 @@
       "description": "Fueling of the SLS is underway for an April 1 launch attempt of Artemis 2, the first mission to send humans toward the moon in more than 50 years. The post Artemis 2 fueling underway appeared first on SpaceNews."
     },
     {
-      "title": "LIVE: Artemis II Launch Day Updates",
+      "title": "Artemis II Launch Day Updates",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
       "pubDate": "2026-04-01T11:36:33.000Z",
       "source": "NASA Artemis Blog",
-      "description": "Live updates for launch of NASA&#8217;s Artemis II test flight will be published on this page. NASA’s launch broadcast coverage&#160;is airing on&#160;NASA+,&#160;Amazon Prime, and&#160;YouTube.&#160;All times are Eastern. 6:59 p.m. The Orion spacecraft’s SAWs (solar arrays wings) have fully deploye"
+      "description": "Live launch day updates for NASA&#8217;s Artemis II test flight will be published on this page. All times are Eastern. 6:59 p.m. The Orion spacecraft’s SAWs (solar arrays wings) have fully deployed, completing a key configuration step for the Artemis II mission. Flight controllers in Houston confirm"
     },
     {
       "title": "After three years, Artemis 2 astronauts ready to launch",
@@ -163,18 +191,18 @@
       "description": "As the Artemis II countdown moves steadily toward liftoff no earlier than 6:24 p.m. EDT, Wednesday, April 1, launch teams at NASA’s Kennedy Space Center in Florida continue completing a sequence of highly choreographed steps to ready the SLS (Space Launch System) rocket and Orion spacecraft for the&"
     },
     {
-      "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
-      "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
-    },
-    {
       "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
       "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
       "pubDate": "2026-03-31T18:00:00.000Z",
       "source": "Space.com",
       "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
+    },
+    {
+      "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
+      "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
     },
     {
       "title": "Here's what the Artemis 2 astronauts will be doing on each day of NASA's historic moon mission",
@@ -322,34 +350,6 @@
       "pubDate": "2026-03-29T20:18:27.000Z",
       "source": "Space.com",
       "description": "NASA has a high degree of confidence that its historic Artemis 2 crewed moon mission will launch on time."
-    },
-    {
-      "title": "Final Preparations Underway for NASA’s Moon Mission",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/29/final-preparations-underway-for-nasas-moon-mission/",
-      "pubDate": "2026-03-29T14:49:58.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "Teams at NASA’s Kennedy Space Center in Florida are making final preparations toward beginning launch countdown activities for the Artemis II mission, set to launch as early as Wednesday, April 1. The weather forecast for launch day shows an 80% chance of favorable weather conditions with primary co"
-    },
-    {
-      "title": "NASA's Artemis 2 moon astronauts are 'fortunate' to have a private space toilet — Apollo crews pooped in plastic bags",
-      "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-astronauts-are-fortunate-to-have-a-private-space-toilet-apollo-crews-pooped-in-plastic-bags",
-      "pubDate": "2026-03-29T12:00:00.000Z",
-      "source": "Space.com",
-      "description": "The Apollo astronauts peed into roll-on cuffs and pooped into plastic bags in the presence of their crewmates, but the Artemis 2 spaceflyers will have access to a bona fide bathroom."
-    },
-    {
-      "title": "'We work for them, too': Artemis 2 moon mission is for everyone, NASA astronaut Victor Glover says (video)",
-      "link": "https://www.space.com/space-exploration/artemis/we-work-for-them-too-artemis-2-moon-mission-is-for-everyone-nasa-astronaut-victor-glover-says-video",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA astronaut Victor Glover says he is not solely focused on milestones for the Artemis 2 mission, but also on how to engage different communities about the crew’s work."
-    },
-    {
-      "title": "'We're all on this journey together:' Who are the Artemis 2 astronauts launching to the moon?",
-      "link": "https://www.space.com/space-exploration/artemis/were-all-on-this-journey-together-who-are-the-artemis-2-astronauts-launching-to-the-moon",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Four astronauts. Two countries. One destination: the moon."
     }
   ]
 }
