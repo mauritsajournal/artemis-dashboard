@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-02T16:44:01.837Z",
+  "fetchedAt": "2026-04-02T17:40:27.720Z",
   "articles": [
+    {
+      "title": "Artemis II Astronauts Launch to Moon",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/",
+      "pubDate": "2026-04-02T16:50:01.000Z",
+      "source": "NASA News",
+      "description": "NASA’s Space Launch System rocket and Orion spacecraft lift off in this April 1, 2026, image. NASA’s Artemis II mission will take NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy on an approximately 10-day journey around the Moon and b"
+    },
     {
       "title": "Moog Technology Successfully Steers Artemis II Launch",
       "link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
@@ -245,13 +252,6 @@
       "pubDate": "2026-03-31T10:00:00.000Z",
       "source": "Space.com",
       "description": "Artemis 2 will launch four astronauts around the moon no sooner than April 1. Why won't this quartet land on the lunar surface?"
-    },
-    {
-      "title": "Artemis 2 countdown underway",
-      "link": "https://spacenews.com/artemis-2-countdown-underway/",
-      "pubDate": "2026-03-31T06:23:08.000Z",
-      "source": "SpaceNews",
-      "description": "The two-day countdown for the Artemis 2 mission around the moon started March 30 with NASA officials reporting no major issues for the launch. The post Artemis 2 countdown underway appeared first on SpaceNews."
     },
     {
       "title": "Huge solar flare no threat to Artemis 2 astronaut launch to the moon, NASA says",
