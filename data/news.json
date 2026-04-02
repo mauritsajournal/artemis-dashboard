@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-04-02T01:13:25.928Z",
+  "fetchedAt": "2026-04-02T04:18:37.835Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Update: Crew and Ground Teams Successfully Troubleshoot Orion’s Toilet",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-update-crew-and-ground-teams-successfully-troubleshoot-orions-toilet/",
+      "pubDate": "2026-04-02T04:06:13.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The Artemis II crew, working closely with mission control in Houston, were able to restore the Orion spacecraft’s toilet to normal operations following the proximity operations demonstration. Ahead of the apogee raise burn on April 1, the Artemis II crew reported a blinking fault light and mission c"
+    },
+    {
+      "title": "Artemis II Flight Update: Proximity Operations Complete, Perigee Raise Burn Up Next",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/artemis-ii-flight-update-proximity-operations-complete-perigee-raise-burn-up-next/",
+      "pubDate": "2026-04-02T03:37:52.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The Artemis II crew successfully completed the proximity operations demonstration, concluding one of the mission’s early objectives and providing valuable data on how the Orion spacecraft, named Integrity, performs during manual close‑range maneuvering around another spacecraft. Over the course of t"
+    },
+    {
+      "title": "There's a bit of toilet trouble on NASA's Artemis 2 mission to the moon",
+      "link": "https://www.space.com/space-exploration/artemis/theres-a-bit-of-toilet-trouble-on-nasas-artemis-2-mission-to-the-moon",
+      "pubDate": "2026-04-02T03:33:15.000Z",
+      "source": "Space.com",
+      "description": "It's not their No. 1 problem, but it may be a problem for going number one."
+    },
     {
       "title": "Artemis II Flight Update: Apogee Raise Burn Complete, Crew Looks Ahead to Proximity Operations",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/01/artemis-ii-flight-update-apogee-raise-burn-complete-crew-looks-ahead-to-proximity-operations/",
@@ -329,27 +350,6 @@
       "pubDate": "2026-03-29T10:00:00.000Z",
       "source": "Space.com",
       "description": "\"We are firing on all cylinders.\""
-    },
-    {
-      "title": "'It's all I think about': Artemis 2 commander Reid Wiseman is zeroed in on historic moon mission",
-      "link": "https://www.space.com/space-exploration/artemis/its-all-i-think-about-artemis-2-commander-reid-wiseman-is-zeroed-in-on-historic-moon-mission",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA astronaut Reid Wiseman, commander Artemis 2, the first moon mission in more than 50 years, says his crew will do his best to get the job done well."
-    },
-    {
-      "title": "Making Canadian history: Artemis 2 astronaut Jeremy Hansen is ready for his epic moon mission",
-      "link": "https://www.space.com/space-exploration/artemis/making-canadian-history-artemis-2-astronaut-jeremy-hansen-is-ready-for-his-epic-moon-mission",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Jeremy Hansen grew up in a world with no Canadian astronauts. Soon, the Artemis 2 crewmate wil become the first person from his country to fly around the moon."
-    },
-    {
-      "title": "Astrophotographer captures spectacular photo of Antennae Galaxies dueling in deep space",
-      "link": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-spectacular-photo-of-antennae-galaxies-dueling-in-deep-space",
-      "pubDate": "2026-03-28T13:00:00.000Z",
-      "source": "Space.com",
-      "description": "The Antennae galaxies are witnessed in the process of merging into a single elliptical galaxy."
     }
   ]
 }
