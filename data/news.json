@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-02T14:15:47.174Z",
+  "fetchedAt": "2026-04-02T15:50:12.307Z",
   "articles": [
+    {
+      "title": "Moog Technology Successfully Steers Artemis II Launch",
+      "link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
+      "pubDate": "2026-04-02T14:55:23.000Z",
+      "source": "SpaceNews",
+      "description": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, provided the critical [&#8230;] The post Moog Technology Successfully Steers Artemis II Launch appeared f"
+    },
     {
       "title": "NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026",
@@ -191,18 +198,18 @@
       "description": "As the Artemis II countdown moves steadily toward liftoff no earlier than 6:24 p.m. EDT, Wednesday, April 1, launch teams at NASA’s Kennedy Space Center in Florida continue completing a sequence of highly choreographed steps to ready the SLS (Space Launch System) rocket and Orion spacecraft for the&"
     },
     {
-      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
-      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
-    },
-    {
       "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
       "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
       "pubDate": "2026-03-31T18:00:00.000Z",
       "source": "Space.com",
       "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
+    },
+    {
+      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
+      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
     },
     {
       "title": "Here's what the Artemis 2 astronauts will be doing on each day of NASA's historic moon mission",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-29T21:28:30.000Z",
       "source": "NASASpaceflight",
       "description": "As NASA prepares for its long-awaited return of crewed launches beyond low Earth orbit with&#8230; The post America&#8217;s Rocket Factory comes Full Circle with Artemis appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "'We are ready': NASA still on track to launch Artemis 2 astronauts to the moon April 1",
-      "link": "https://www.space.com/space-exploration/missions/we-are-ready-nasa-still-on-track-to-launch-artemis-2-astronauts-to-the-moon-april-1",
-      "pubDate": "2026-03-29T20:18:27.000Z",
-      "source": "Space.com",
-      "description": "NASA has a high degree of confidence that its historic Artemis 2 crewed moon mission will launch on time."
     }
   ]
 }
