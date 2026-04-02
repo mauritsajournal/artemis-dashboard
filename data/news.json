@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-02T20:24:17.035Z",
+  "fetchedAt": "2026-04-02T21:26:51.472Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 2: Crew, Houston Poll &#8216;Go&#8217; for Translunar Injection Burn",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-day-2-crew-houston-poll-go-for-translunar-injection-burn/",
+      "pubDate": "2026-04-02T20:24:33.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "NASA’s Artemis II mission management team polled “Go” for the translunar injection burn to send the crew in the Orion spacecraft toward the Moon and send humans around Earth’s closest celestial neighbor for the first time since Apollo 17 in 1972. The spacecraft will ignite its main engine on the ser"
+    },
     {
       "title": "Artemis II Astronauts Launch to Moon",
       "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-30T10:00:00.000Z",
       "source": "Space.com",
       "description": "Going to the moon? Been there, done that — right? Some people might say that NASA's Artemis 2 mission is a repeat of the past, but they would be wrong."
-    },
-    {
-      "title": "America&#8217;s Rocket Factory comes Full Circle with Artemis",
-      "link": "https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/",
-      "pubDate": "2026-03-29T21:28:30.000Z",
-      "source": "NASASpaceflight",
-      "description": "As NASA prepares for its long-awaited return of crewed launches beyond low Earth orbit with&#8230; The post America&#8217;s Rocket Factory comes Full Circle with Artemis appeared first on NASASpaceFlight.com."
     }
   ]
 }
