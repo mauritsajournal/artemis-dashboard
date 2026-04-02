@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-02T08:52:32.095Z",
+  "fetchedAt": "2026-04-02T09:50:47.770Z",
   "articles": [
     {
       "title": "NASA just launched Artemis 2. What happens today could make or break the moon mission",
@@ -16,39 +16,11 @@
       "description": "It wasn't their No. 1 problem, but it was a problem for going number one."
     },
     {
-      "title": "Artemis II Flight Update: Crew and Ground Teams Successfully Troubleshoot Orion’s Toilet",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-update-crew-and-ground-teams-successfully-troubleshoot-orions-toilet/",
-      "pubDate": "2026-04-02T04:06:13.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The Artemis II crew, working closely with mission control in Houston, were able to restore the Orion spacecraft’s toilet to normal operations following the proximity operations demonstration. Ahead of the apogee raise burn on April 1, the Artemis II crew reported a blinking fault light and mission c"
-    },
-    {
-      "title": "Artemis II Flight Update: Proximity Operations Complete, Perigee Raise Burn Up Next",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/artemis-ii-flight-update-proximity-operations-complete-perigee-raise-burn-up-next/",
-      "pubDate": "2026-04-02T03:37:52.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The Artemis II crew successfully completed the proximity operations demonstration, concluding one of the mission’s early objectives and providing valuable data on how the Orion spacecraft, named Integrity, performs during manual close‑range maneuvering around another spacecraft. Over the course of t"
-    },
-    {
-      "title": "Artemis II Flight Update: Apogee Raise Burn Complete, Crew Looks Ahead to Proximity Operations",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/artemis-ii-flight-update-apogee-raise-burn-complete-crew-looks-ahead-to-proximity-operations/",
-      "pubDate": "2026-04-02T01:00:57.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The apogee raise burn was successfully completed, continuing to fine tune the Orion spacecraft’s orbit around Earth. The ICPS (interim cryogenic propulsion stage) ignited its RL10 engine for a precisely timed burn that increased the highest point of the spacecraft’s orbit. Ahead of the burn, the Art"
-    },
-    {
       "title": "Why is the Artemis 2 rocket launch different from all other rocket launches?",
       "link": "https://www.space.com/space-exploration/artemis/why-is-the-artemis-2-rocket-launch-different-from-all-other-rocket-launches",
       "pubDate": "2026-04-02T00:35:43.000Z",
       "source": "Space.com",
       "description": "That's one small sip of Manischewitz…"
-    },
-    {
-      "title": "Artemis II Flight Update: Perigee Raise Maneuver Complete; NASA to Hold Press Conference",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/artemis-ii-flight-update-perigee-raise-maneuver-complete-nasa-to-hold-press-conference/",
-      "pubDate": "2026-04-01T23:54:07.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The perigee raise maneuver was successfully completed, refining the Orion spacecraft’s orbit around Earth. The interim cryogenic propulsion stage ignited its RL10 engine for a precisely timed burn that increased the lowest point of the spacecraft’s orbit. Shortly after the burn, the spacecraft exper"
     },
     {
       "title": "Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission",
@@ -104,7 +76,7 @@
       "link": "https://spacenews.com/creating-near-term-lunar-settlements-lessons-from-space-history/",
       "pubDate": "2026-04-01T13:00:00.000Z",
       "source": "SpaceNews",
-      "description": "March 16, 2026, was the 100th anniversary of Robert Goddard’s first flight of a liquid fueled rocket. It reached an altitude of 41 feet. 31 years later, in 1957, Sputnik began a lonely beep as the first satellite in orbit. In 1969, 12 years after Sputnik and 43 years after Goddard’s first flight, Ne"
+      "description": "March 16, 2026, was the 100th anniversary of Robert Goddard’s first flight of a liquid fueled rocket. It reached an altitude of 41 feet. 31 years later, in 1957, Sputnik [&#8230;] The post Creating near-term lunar settlements: lessons from space history appeared first on SpaceNews."
     },
     {
       "title": "April's full 'Pink Moon' rises tonight — just as NASA readies its Artemis 2 moon mission",
@@ -119,13 +91,6 @@
       "pubDate": "2026-04-01T12:42:36.000Z",
       "source": "SpaceNews",
       "description": "Fueling of the SLS is underway for an April 1 launch attempt of Artemis 2, the first mission to send humans toward the moon in more than 50 years. The post Artemis 2 fueling underway appeared first on SpaceNews."
-    },
-    {
-      "title": "LIVE: Artemis II Launch Day Updates",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "pubDate": "2026-04-01T11:36:33.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "Live updates for launch of NASA&#8217;s Artemis II test flight will be published on this page. NASA’s launch broadcast coverage&#160;is airing on&#160;NASA+,&#160;Amazon Prime, and&#160;YouTube.&#160;All times are Eastern. 6:59 p.m. The Orion spacecraft’s SAWs (solar arrays wings) have fully deploye"
     },
     {
       "title": "After three years, Artemis 2 astronauts ready to launch",
@@ -154,13 +119,6 @@
       "pubDate": "2026-03-31T20:16:25.000Z",
       "source": "Space.com",
       "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
-    },
-    {
-      "title": "NASA Teams Readying Artemis II Moon Rocket for Launch",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/31/nasa-teams-readying-artemis-ii-moon-rocket-for-launch/",
-      "pubDate": "2026-03-31T18:48:27.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "As the Artemis II countdown moves steadily toward liftoff no earlier than 6:24 p.m. EDT, Wednesday, April 1, launch teams at NASA’s Kennedy Space Center in Florida continue completing a sequence of highly choreographed steps to ready the SLS (Space Launch System) rocket and Orion spacecraft for the&"
     },
     {
       "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
@@ -226,13 +184,6 @@
       "description": "A massive X1.4 solar flare won't endanger NASA's four Artemis 2 astronauts on their way to the moon."
     },
     {
-      "title": "NASA&#8217;s Artemis II Launch Mission Countdown Begins",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/30/nasas-artemis-ii-launch-mission-countdown-begins/",
-      "pubDate": "2026-03-30T22:13:50.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The countdown&#160;for&#160;NASA’s Artemis II test flight&#160;is underway&#160;at the agency’s Kennedy Space Center in Florida, with members of the launch team arriving at their consoles inside the Rocco Petrone Launch Control Center. The&#160;onsite countdown clock started&#160;ticking down&#160;a"
-    },
-    {
       "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest",
       "link": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
       "pubDate": "2026-03-30T21:07:43.000Z",
@@ -266,13 +217,6 @@
       "pubDate": "2026-03-30T16:00:00.000Z",
       "source": "Space.com",
       "description": "The Artemis 2 astronauts will spend about 10 days flying to and from the moon, so they'll need to find creative ways to dine in a small space."
-    },
-    {
-      "title": "Weather for NASA’s Artemis II Mission Launch 80% Favorable",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/",
-      "pubDate": "2026-03-30T14:56:05.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "Ahead of call to stations at 4:34 p.m. EDT on Monday, and the countdown clock beginning at 4:44 p.m., engineers continue preparations toward the launch of the Artemis II mission from NASA’s Kennedy Space Center in Florida. The agency is targeting no earlier than Wednesday, April 1, for launch. The w"
     },
     {
       "title": "Sun rises on Artemis 2 launch pad | Space photo of the day for March 30, 2026",
@@ -324,13 +268,6 @@
       "description": "NASA has a high degree of confidence that its historic Artemis 2 crewed moon mission will launch on time."
     },
     {
-      "title": "Final Preparations Underway for NASA’s Moon Mission",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/29/final-preparations-underway-for-nasas-moon-mission/",
-      "pubDate": "2026-03-29T14:49:58.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "Teams at NASA’s Kennedy Space Center in Florida are making final preparations toward beginning launch countdown activities for the Artemis II mission, set to launch as early as Wednesday, April 1. The weather forecast for launch day shows an 80% chance of favorable weather conditions with primary co"
-    },
-    {
       "title": "NASA's Artemis 2 moon astronauts are 'fortunate' to have a private space toilet — Apollo crews pooped in plastic bags",
       "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-astronauts-are-fortunate-to-have-a-private-space-toilet-apollo-crews-pooped-in-plastic-bags",
       "pubDate": "2026-03-29T12:00:00.000Z",
@@ -350,6 +287,41 @@
       "pubDate": "2026-03-29T10:00:00.000Z",
       "source": "Space.com",
       "description": "Four astronauts. Two countries. One destination: the moon."
+    },
+    {
+      "title": "'An incredible privilege and responsibility': Artemis 2's Christina Koch is ready to become the 1st woman to fly around the moon",
+      "link": "https://www.space.com/space-exploration/artemis/an-incredible-privilege-and-responsibility-artemis-2s-christina-koch-is-ready-to-become-the-1st-woman-to-fly-around-the-moon",
+      "pubDate": "2026-03-29T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "\"We are firing on all cylinders.\""
+    },
+    {
+      "title": "'It's all I think about': Artemis 2 commander Reid Wiseman is zeroed in on historic moon mission",
+      "link": "https://www.space.com/space-exploration/artemis/its-all-i-think-about-artemis-2-commander-reid-wiseman-is-zeroed-in-on-historic-moon-mission",
+      "pubDate": "2026-03-29T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA astronaut Reid Wiseman, commander Artemis 2, the first moon mission in more than 50 years, says his crew will do his best to get the job done well."
+    },
+    {
+      "title": "Making Canadian history: Artemis 2 astronaut Jeremy Hansen is ready for his epic moon mission",
+      "link": "https://www.space.com/space-exploration/artemis/making-canadian-history-artemis-2-astronaut-jeremy-hansen-is-ready-for-his-epic-moon-mission",
+      "pubDate": "2026-03-29T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "Jeremy Hansen grew up in a world with no Canadian astronauts. Soon, the Artemis 2 crewmate wil become the first person from his country to fly around the moon."
+    },
+    {
+      "title": "I Am Artemis: Erik Richards",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/",
+      "pubDate": "2026-03-27T21:30:40.000Z",
+      "source": "NASA News",
+      "description": "Listen to this audio excerpt from Erik Richards, Near Space Network Mission Manager: For Erik Richards, supporting&#160;NASA’s&#160;first crewed Artemis&#160;mission&#160;to the Moon and back&#160;is the culmination of a career spent helping spacecraft communicate&#160;with Earth.&#160; Like many ki"
+    },
+    {
+      "title": "NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon",
+      "link": "https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/",
+      "pubDate": "2026-03-27T21:12:52.000Z",
+      "source": "NASA News",
+      "description": "NASA has awarded Intuitive Machines of Houston, $180.4 million to deliver NASA-funded science and technology to the lunar surface as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis program. This lunar delivery, which includes seven payloads — five of them NASA’s"
     }
   ]
 }
