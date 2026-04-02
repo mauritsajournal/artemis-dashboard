@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-02T07:58:05.088Z",
+  "fetchedAt": "2026-04-02T08:52:32.095Z",
   "articles": [
+    {
+      "title": "NASA just launched Artemis 2. What happens today could make or break the moon mission",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-just-launched-artemis-2-what-happens-today-could-make-or-break-the-moon-mission",
+      "pubDate": "2026-04-02T08:17:15.000Z",
+      "source": "Space.com",
+      "description": "Artemis 2 is gearing up for a critical engine burn this evening (April 2), which will send the mission's four astronauts on a looping journey around the moon."
+    },
     {
       "title": "There was a bit of toilet trouble on NASA's Artemis 2 mission to the moon",
       "link": "https://www.space.com/space-exploration/artemis/theres-a-bit-of-toilet-trouble-on-nasas-artemis-2-mission-to-the-moon",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-29T10:00:00.000Z",
       "source": "Space.com",
       "description": "Four astronauts. Two countries. One destination: the moon."
-    },
-    {
-      "title": "'An incredible privilege and responsibility': Artemis 2's Christina Koch is ready to become the 1st woman to fly around the moon",
-      "link": "https://www.space.com/space-exploration/artemis/an-incredible-privilege-and-responsibility-artemis-2s-christina-koch-is-ready-to-become-the-1st-woman-to-fly-around-the-moon",
-      "pubDate": "2026-03-29T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "\"We are firing on all cylinders.\""
     }
   ]
 }
