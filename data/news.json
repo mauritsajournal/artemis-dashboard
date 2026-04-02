@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-02T21:26:51.472Z",
+  "fetchedAt": "2026-04-02T22:22:28.565Z",
   "articles": [
+    {
+      "title": "Lucky airplane passengers capture NASA's Artemis 2 moon launch from the sky",
+      "link": "https://www.space.com/space-exploration/missions/lucky-airplane-passengers-capture-nasas-artemis-2-moon-launch-from-the-sky",
+      "pubDate": "2026-04-02T22:00:00.000Z",
+      "source": "Space.com",
+      "description": "Some airplane passengers had the best seats in the house during NASA's Artemis 2 moon rocket launch. Here are some of my favorite videos captured from the sky."
+    },
     {
       "title": "Artemis II Flight Day 2: Crew, Houston Poll &#8216;Go&#8217; for Translunar Injection Burn",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-day-2-crew-houston-poll-go-for-translunar-injection-burn/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-30T12:00:00.000Z",
       "source": "Space.com",
       "description": "Space weather experts have been working overtime to hone their forecasts ahead of the Artemis 2 launch, which will send four astronauts around the moon and back to Earth."
-    },
-    {
-      "title": "How will Artemis 2 be different from NASA's Apollo moon missions?",
-      "link": "https://www.space.com/space-exploration/artemis/how-will-artemis-2-be-different-from-nasas-apollo-moon-missions",
-      "pubDate": "2026-03-30T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Going to the moon? Been there, done that — right? Some people might say that NASA's Artemis 2 mission is a repeat of the past, but they would be wrong."
     }
   ]
 }
