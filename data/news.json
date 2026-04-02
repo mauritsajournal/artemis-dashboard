@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-02T04:18:37.835Z",
+  "fetchedAt": "2026-04-02T06:05:16.498Z",
   "articles": [
+    {
+      "title": "There was a bit of toilet trouble on NASA's Artemis 2 mission to the moon",
+      "link": "https://www.space.com/space-exploration/artemis/theres-a-bit-of-toilet-trouble-on-nasas-artemis-2-mission-to-the-moon",
+      "pubDate": "2026-04-02T04:17:59.000Z",
+      "source": "Space.com",
+      "description": "It wasn't their No. 1 problem, but it was a problem for going number one."
+    },
     {
       "title": "Artemis II Flight Update: Crew and Ground Teams Successfully Troubleshoot Orion’s Toilet",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-update-crew-and-ground-teams-successfully-troubleshoot-orions-toilet/",
@@ -14,13 +21,6 @@
       "pubDate": "2026-04-02T03:37:52.000Z",
       "source": "NASA Artemis Blog",
       "description": "The Artemis II crew successfully completed the proximity operations demonstration, concluding one of the mission’s early objectives and providing valuable data on how the Orion spacecraft, named Integrity, performs during manual close‑range maneuvering around another spacecraft. Over the course of t"
-    },
-    {
-      "title": "There's a bit of toilet trouble on NASA's Artemis 2 mission to the moon",
-      "link": "https://www.space.com/space-exploration/artemis/theres-a-bit-of-toilet-trouble-on-nasas-artemis-2-mission-to-the-moon",
-      "pubDate": "2026-04-02T03:33:15.000Z",
-      "source": "Space.com",
-      "description": "It's not their No. 1 problem, but it may be a problem for going number one."
     },
     {
       "title": "Artemis II Flight Update: Apogee Raise Burn Complete, Crew Looks Ahead to Proximity Operations",
