@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-02T23:23:17.469Z",
+  "fetchedAt": "2026-04-03T01:15:44.138Z",
   "articles": [
+    {
+      "title": "Artemis 2 astronauts head for the moon after make-or-break engine burn (video)",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-for-moon-translunar-injection-burn",
+      "pubDate": "2026-04-03T00:28:28.000Z",
+      "source": "Space.com",
+      "description": "Artemis 2's Orion capsule aced a critical engine burn this evening (April 2) that sent it from Earth orbit outward toward the moon."
+    },
     {
       "title": "Lucky airplane passengers capture NASA's Artemis 2 moon launch from the sky",
       "link": "https://www.space.com/space-exploration/missions/lucky-airplane-passengers-capture-nasas-artemis-2-moon-launch-from-the-sky",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-30T12:04:32.000Z",
       "source": "Space.com",
       "description": "An X1.4 solar flare triggered radio blackouts and launched a fast CME as NASA prepares for its Artemis 2 moon mission."
-    },
-    {
-      "title": "Could bad space weather endanger the Artemis 2 moon astronauts?",
-      "link": "https://www.space.com/space-exploration/artemis/could-bad-space-weather-endanger-the-artemis-2-moon-astronauts",
-      "pubDate": "2026-03-30T12:00:00.000Z",
-      "source": "Space.com",
-      "description": "Space weather experts have been working overtime to hone their forecasts ahead of the Artemis 2 launch, which will send four astronauts around the moon and back to Earth."
     }
   ]
 }
