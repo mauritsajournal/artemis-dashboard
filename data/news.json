@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-03T22:21:43.449Z",
+  "fetchedAt": "2026-04-03T23:24:26.895Z",
   "articles": [
+    {
+      "title": "It's official: NASA's Artemis 2 moon mission will break humanity's all-time distance record",
+      "link": "https://www.space.com/space-exploration/artemis/its-official-nasas-artemis-2-moon-mission-will-break-humanitys-all-time-distance-record",
+      "pubDate": "2026-04-03T22:25:31.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 moon mission will get a maximum of 252,757 miles (406,773 kilometers) from Earth on April 6, breaking the mark set by Apollo 13 in April 1970."
+    },
     {
       "title": "Astronauts on the ISS watched NASA's historic Artemis 2 launch from space",
       "link": "https://www.space.com/space-exploration/missions/astronauts-on-the-iss-watched-nasas-historic-artemis-2-launch-from-space",
@@ -310,13 +317,6 @@
       "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
     },
     {
-      "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
-      "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
-    },
-    {
       "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
       "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
       "pubDate": "2026-03-31T18:00:00.000Z",
@@ -324,18 +324,18 @@
       "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
     },
     {
+      "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
+      "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
+    },
+    {
       "title": "Here's what the Artemis 2 astronauts will be doing on each day of NASA's historic moon mission",
       "link": "https://www.space.com/space-exploration/missions/artemis-2-breakdown-what-to-expect-from-each-day-of-nasas-historic-moon-mission",
       "pubDate": "2026-03-31T16:00:00.000Z",
       "source": "Space.com",
       "description": "The crew's 10-day mission will be filled with science, spacecraft tests, medical checks, survival training and more."
-    },
-    {
-      "title": "Godspeed, Artemis II!",
-      "link": "https://www.nasa.gov/image-article/godspeed-artemis-ii/",
-      "pubDate": "2026-03-31T15:54:19.000Z",
-      "source": "NASA News",
-      "description": "NASA astronaut Jessica Meir took this photo of an Artemis program patch floating in the International Space Station&#8217;s cupola. She posted it on X on March 30, 2026, with the following caption: &#8220;Our work on the @Space_Station has provided the foundation to explore further, preparing us to"
     },
     {
       "title": "Artemis 2 astronauts reveal adorable zero-g indicator 'Rise' | Space photo of the day for March 31, 2026",
