@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-03T10:33:44.149Z",
+  "fetchedAt": "2026-04-03T11:30:21.229Z",
   "articles": [
+    {
+      "title": "NASA's Artemis 2 astronauts are cruising to the moon. So why are they doing CPR tests today?",
+      "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-are-cruising-to-the-moon-so-why-are-they-doing-cpr-tests-today",
+      "pubDate": "2026-04-03T11:16:06.000Z",
+      "source": "Space.com",
+      "description": "After an action-packed first two days, Flight Day 3 may bring a more relaxed pace for the Artemis 2 moon astronauts."
+    },
     {
       "title": "Artemis II Orion performs TLI Burn — Now headed to the Moon",
       "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-30T17:00:00.000Z",
       "source": "Space.com",
       "description": "From 'Destination Moon' to 'Apollo 13,' here’s a full spectrum of lunar-set films to count down."
-    },
-    {
-      "title": "What will the Artemis 2 astronauts eat during their historic moon mission? (video)",
-      "link": "https://www.space.com/space-exploration/artemis/moon-menu-heres-what-the-artemis-2-astronauts-will-eat-during-their-historic-mission-video",
-      "pubDate": "2026-03-30T16:00:00.000Z",
-      "source": "Space.com",
-      "description": "The Artemis 2 astronauts will spend about 10 days flying to and from the moon, so they'll need to find creative ways to dine in a small space."
     }
   ]
 }
