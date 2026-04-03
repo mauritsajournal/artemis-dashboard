@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-04-03T01:15:44.138Z",
+  "fetchedAt": "2026-04-03T04:19:35.906Z",
   "articles": [
+    {
+      "title": "Artemis II Orion performs TLI Burn — Now headed to the Moon",
+      "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/",
+      "pubDate": "2026-04-03T03:46:22.000Z",
+      "source": "NASASpaceflight",
+      "description": "In a historic milestone more than 50 years in the making, NASA’s Orion spacecraft Integrity&#8230; The post Artemis II Orion performs TLI Burn — Now headed to the Moon appeared first on NASASpaceFlight.com."
+    },
+    {
+      "title": "NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon",
+      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/",
+      "pubDate": "2026-04-03T02:48:08.000Z",
+      "source": "NASA News",
+      "description": "For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection b"
+    },
+    {
+      "title": "Artemis 2 heads to the moon",
+      "link": "https://spacenews.com/artemis-2-heads-to-the-moon/",
+      "pubDate": "2026-04-03T02:30:13.000Z",
+      "source": "SpaceNews",
+      "description": "NASA’s Artemis 2 mission is on its way to the moon after a successful maneuver April 2. The post Artemis 2 heads to the moon appeared first on SpaceNews."
+    },
+    {
+      "title": "Artemis II Flight Day 2: Orion Completes TLI Burn, Crew Begins Journey to the Moon",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-day-2-orion-completes-tli-burn-crew-begins-journey-to-the-moon/",
+      "pubDate": "2026-04-03T02:10:55.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "NASA’s Artemis II crew is on the way to the Moon. After the mission management team polled “Go” Thursday, NASA&#8217;s Orion spacecraft fired its main engine for five minutes and 50 seconds beginning at 7:49 p.m. EDT, to successfully complete the translunar injection (TLI) burn, sending the crew in"
+    },
     {
       "title": "Artemis 2 astronauts head for the moon after make-or-break engine burn (video)",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-for-moon-translunar-injection-burn",
@@ -322,34 +350,6 @@
       "pubDate": "2026-03-30T16:00:00.000Z",
       "source": "Space.com",
       "description": "The Artemis 2 astronauts will spend about 10 days flying to and from the moon, so they'll need to find creative ways to dine in a small space."
-    },
-    {
-      "title": "Weather for NASA’s Artemis II Mission Launch 80% Favorable",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/",
-      "pubDate": "2026-03-30T14:56:05.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "Ahead of call to stations at 4:34 p.m. EDT on Monday, and the countdown clock beginning at 4:44 p.m., engineers continue preparations toward the launch of the Artemis II mission from NASA’s Kennedy Space Center in Florida. The agency is targeting no earlier than Wednesday, April 1, for launch. The w"
-    },
-    {
-      "title": "Sun rises on Artemis 2 launch pad | Space photo of the day for March 30, 2026",
-      "link": "https://www.space.com/space-exploration/artemis/sun-rises-on-artemis-2-launch-pad-space-photo-of-the-day-for-march-30-2026",
-      "pubDate": "2026-03-30T14:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA's SLS moon rocket casts a striking silhouette against the rising sun ahead of the agency's Artemis 2 mission, currently scheduled for April 1."
-    },
-    {
-      "title": "'The sasquatch is honesty': Inside Canadian astronaut Jeremy Hansen's Artemis 2 mission patch",
-      "link": "https://www.space.com/space-exploration/artemis/the-sasquatch-is-honesty-inside-canadian-astronaut-jeremy-hansens-artemis-2-mission-patch",
-      "pubDate": "2026-03-30T13:00:00.000Z",
-      "source": "Space.com",
-      "description": "Jeremy Hansen, the Canadian flying to the moon on board NASA's Artemis 2 mission, included Indigenous perspectives on his personal mission patch."
-    },
-    {
-      "title": "Powerful X-class solar flare triggers radio blackout ahead of Artemis 2 launch (video)",
-      "link": "https://www.space.com/astronomy/sun/powerful-x-class-solar-flare-triggers-radio-blackout-ahead-of-artemis-2-launch",
-      "pubDate": "2026-03-30T12:04:32.000Z",
-      "source": "Space.com",
-      "description": "An X1.4 solar flare triggered radio blackouts and launched a fast CME as NASA prepares for its Artemis 2 moon mission."
     }
   ]
 }
