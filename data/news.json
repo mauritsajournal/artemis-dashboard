@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-04-03T17:25:11.709Z",
+  "fetchedAt": "2026-04-03T18:32:10.649Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 3: Crew Prepares for First Correction Burn, Readies to Receive Lunar Observation Assignment",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/03/artemis-ii-flight-day-3-crew-prepares-for-first-correction-burn-readies-to-receive-lunar-observation-assignment/",
+      "pubDate": "2026-04-03T18:17:27.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "After a successful translunar injection burn on April 2 and a roughly eight-hour crew rest period, the Artemis II crew began their second full day in space, settling into the rhythm of deep‑space operations. Upon burn completion, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along"
+    },
+    {
+      "title": "1st results from Blue Ghost lunar lander reveal how much we still don't know about the moon",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-lunar-lander-reveals-how-much-we-still-dont-know-about-the-moon",
+      "pubDate": "2026-04-03T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "Data from Firefly Aerospace's Blue Ghost lunar lander casts doubt on the decades-old view of the moon as divided between a hotter near side and cooler far side."
+    },
+    {
+      "title": "Meet NASA’s New Artemis II Science Officers",
+      "link": "https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/",
+      "pubDate": "2026-04-03T17:35:44.000Z",
+      "source": "NASA News",
+      "description": "NASA’s first Artemis II science officers—Kelsey Young, Trevor Graff, and Angela Garcia—are pioneering a new era of mission operations by integrating advanced lunar science directly into Mission Control. Their work will shape how future Artemis crews observe, analyze, and deepen our understanding of"
+    },
+    {
+      "title": "Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand",
+      "link": "https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/",
+      "pubDate": "2026-04-03T17:33:12.000Z",
+      "source": "SpaceNews",
+      "description": "Italy’s Argotec has officially opened its first U.S. satellite production facility, cementing a foothold near Kennedy Space Center in Florida to join other foreign space firms pursuing growing demand from American programs. The post Italy’s Argotec plans to scale Florida satellite facility to meet r"
+    },
     {
       "title": "Artemis 2 astronauts see Earth in the rear-view mirror | Space photo of the day for April 3, 2026",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-see-earth-in-the-rear-view-mirror-space-photo-of-the-day-for-april-3-2026",
@@ -55,7 +83,7 @@
       "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-day-2-orion-completes-tli-burn-crew-begins-journey-to-the-moon/",
       "pubDate": "2026-04-03T02:10:55.000Z",
       "source": "NASA Artemis Blog",
-      "description": "NASA’s Artemis II crew is on the way to the Moon. After the mission management team polled “Go” Thursday, NASA&#8217;s Orion spacecraft fired its main engine for five minutes and 50 seconds beginning at 7:49 p.m. EDT, to successfully complete the translunar injection (TLI) burn, sending the crew in"
+      "description": "Editor&#8217;s Note: Blog updated to reflect update propellant burn quantities. NASA’s Artemis II crew is on the way to the Moon. After the mission management team polled “Go” Thursday, NASA&#8217;s Orion spacecraft fired its main engine for five minutes and 50 seconds beginning at 7:49 p.m. EDT, to"
     },
     {
       "title": "Artemis 2 astronauts head for the moon after make-or-break engine burn (video)",
@@ -65,7 +93,7 @@
       "description": "Artemis 2's Orion capsule aced a critical engine burn this evening (April 2) that sent it from Earth orbit outward toward the moon."
     },
     {
-      "title": "Lucky airplane passengers capture NASA's Artemis 2 moon launch from the sky",
+      "title": "See NASA's Artemis 2 moon launch filmed by lucky airplane passengers flying overhead",
       "link": "https://www.space.com/space-exploration/missions/lucky-airplane-passengers-capture-nasas-artemis-2-moon-launch-from-the-sky",
       "pubDate": "2026-04-02T22:00:00.000Z",
       "source": "Space.com",
@@ -247,13 +275,6 @@
       "description": "Live launch day updates for NASA&#8217;s Artemis II test flight will be published on this page. All times are Eastern. 6:59 p.m. The Orion spacecraft’s SAWs (solar arrays wings) have fully deployed, completing a key configuration step for the Artemis II mission. Flight controllers in Houston confirm"
     },
     {
-      "title": "After three years, Artemis 2 astronauts ready to launch",
-      "link": "https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/",
-      "pubDate": "2026-04-01T10:47:18.000Z",
-      "source": "SpaceNews",
-      "description": "Even after three years of public appearances as a crew, there can still be some surprises for the Artemis 2 astronauts. The post After three years, Artemis 2 astronauts ready to launch appeared first on SpaceNews."
-    },
-    {
       "title": "NASA set to launch Artemis 2 moon mission today, the 1st crewed lunar flight since 1972",
       "link": "https://www.space.com/space-exploration/artemis/nasa-set-to-launch-artemis-2-moon-mission-today-the-1st-crewed-lunar-flight-since-1972",
       "pubDate": "2026-04-01T10:00:00.000Z",
@@ -329,27 +350,6 @@
       "pubDate": "2026-03-31T10:00:00.000Z",
       "source": "Space.com",
       "description": "Artemis 2 will launch four astronauts around the moon no sooner than April 1. Why won't this quartet land on the lunar surface?"
-    },
-    {
-      "title": "Huge solar flare no threat to Artemis 2 astronaut launch to the moon, NASA says",
-      "link": "https://www.space.com/space-exploration/artemis/huge-solar-flare-no-threat-to-artemis-2-astronaut-launch-to-the-moon-nasa-says",
-      "pubDate": "2026-03-30T23:31:46.000Z",
-      "source": "Space.com",
-      "description": "A massive X1.4 solar flare won't endanger NASA's four Artemis 2 astronauts on their way to the moon."
-    },
-    {
-      "title": "NASA&#8217;s Artemis II Launch Mission Countdown Begins",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/30/nasas-artemis-ii-launch-mission-countdown-begins/",
-      "pubDate": "2026-03-30T22:13:50.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The countdown&#160;for&#160;NASA’s Artemis II test flight&#160;is underway&#160;at the agency’s Kennedy Space Center in Florida, with members of the launch team arriving at their consoles inside the Rocco Petrone Launch Control Center. The&#160;onsite countdown clock started&#160;ticking down&#160;a"
-    },
-    {
-      "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest",
-      "link": "https://www.nasaspaceflight.com/2026/03/launch-preview-033026/",
-      "pubDate": "2026-03-30T21:07:43.000Z",
-      "source": "NASASpaceflight",
-      "description": "Nine launches are scheduled this week, with rockets expected to liftoff from Florida, California, Russia,&#8230; The post Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest appeared first on NASASpaceFlight.com."
     }
   ]
 }
