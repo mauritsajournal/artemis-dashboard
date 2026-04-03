@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-03T21:23:09.734Z",
+  "fetchedAt": "2026-04-03T22:21:43.449Z",
   "articles": [
+    {
+      "title": "Astronauts on the ISS watched NASA's historic Artemis 2 launch from space",
+      "link": "https://www.space.com/space-exploration/missions/astronauts-on-the-iss-watched-nasas-historic-artemis-2-launch-from-space",
+      "pubDate": "2026-04-03T22:00:00.000Z",
+      "source": "Space.com",
+      "description": "From the ground to low Earth orbit, the Artemis 2 launch became a shared moment across the planet and beyond."
+    },
     {
       "title": "Artemis II Flight Day 3: Outbound Trajectory Correction Burn Update",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/03/artemis-ii-flight-day-3-outbound-trajectory-correction-burn-update/",
@@ -303,18 +310,18 @@
       "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
     },
     {
-      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
-      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
-    },
-    {
       "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
       "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
       "pubDate": "2026-03-31T18:00:00.000Z",
       "source": "Space.com",
       "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
+    },
+    {
+      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
+      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
     },
     {
       "title": "Here's what the Artemis 2 astronauts will be doing on each day of NASA's historic moon mission",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-31T12:00:00.000Z",
       "source": "Space.com",
       "description": "\"It ain't about racism. It's about the human condition.\""
-    },
-    {
-      "title": "Why won't NASA's Artemis 2 astronauts land on the moon when they get there?",
-      "link": "https://www.space.com/space-exploration/artemis/why-wont-nasas-artemis-2-astronauts-land-on-the-moon-when-they-get-there",
-      "pubDate": "2026-03-31T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2 will launch four astronauts around the moon no sooner than April 1. Why won't this quartet land on the lunar surface?"
     }
   ]
 }
