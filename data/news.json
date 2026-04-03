@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-03T20:23:21.716Z",
+  "fetchedAt": "2026-04-03T21:23:09.734Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 3: Outbound Trajectory Correction Burn Update",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/03/artemis-ii-flight-day-3-outbound-trajectory-correction-burn-update/",
+      "pubDate": "2026-04-03T21:00:32.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "NASA’s Artemis II crew in Orion continues on a precise trajectory to flyby the Moon on Monday, April 6. Flight controllers in mission control at NASA’s Johnson Space Center in Houston elected to cancel the spacecraft’s first outbound trajectory correction burn, as the spacecraft&#8217;s trajectory i"
+    },
     {
       "title": "Artemis II Flight Day 3: Crew Prepares for First Correction Burn, Readies to Receive Lunar Observation Assignment",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/03/artemis-ii-flight-day-3-crew-prepares-for-first-correction-burn-readies-to-receive-lunar-observation-assignment/",
@@ -296,11 +303,11 @@
       "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
     },
     {
-      "title": "NASA Teams Readying Artemis II Moon Rocket for Launch",
-      "link": "https://www.nasa.gov/blogs/missions/2026/03/31/nasa-teams-readying-artemis-ii-moon-rocket-for-launch/",
-      "pubDate": "2026-03-31T18:48:27.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "As the Artemis II countdown moves steadily toward liftoff no earlier than 6:24 p.m. EDT, Wednesday, April 1, launch teams at NASA’s Kennedy Space Center in Florida continue completing a sequence of highly choreographed steps to ready the SLS (Space Launch System) rocket and Orion spacecraft for the&"
+      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
+      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
     },
     {
       "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
@@ -308,13 +315,6 @@
       "pubDate": "2026-03-31T18:00:00.000Z",
       "source": "Space.com",
       "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
-    },
-    {
-      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
-      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
     },
     {
       "title": "Here's what the Artemis 2 astronauts will be doing on each day of NASA's historic moon mission",
