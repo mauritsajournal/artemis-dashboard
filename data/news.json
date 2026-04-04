@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-04T13:44:36.725Z",
+  "fetchedAt": "2026-04-04T14:24:25.215Z",
   "articles": [
     {
       "title": "An Artemis 2 astronaut took a 'bath' on camera on the way to the moon. Mission Control's reaction was priceless (video)",
@@ -338,18 +338,18 @@
       "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
     },
     {
-      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
-      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
-      "pubDate": "2026-03-31T18:00:00.000Z",
-      "source": "Space.com",
-      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
-    },
-    {
       "title": "What will happen if Artemis 2 astronauts get hit by a solar storm during NASA's ambitious moon mission?",
       "link": "https://www.space.com/space-exploration/artemis/how-the-artemis-2-astronauts-could-weather-a-solar-storm-during-their-moon-mission",
       "pubDate": "2026-03-31T18:00:00.000Z",
       "source": "Space.com",
       "description": "\"If an event is particularly bad, there are some places in the capsule, such as storage bays and down by the toilet, that the crew can go to.\""
+    },
+    {
+      "title": "How to use your Unistellar smart telescope to track the Artemis 2 rocket light curve in the name of science",
+      "link": "https://www.space.com/stargazing/skywatching-kit/unistellar-citizen-science-artemis-2-mission",
+      "pubDate": "2026-03-31T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "Unistellar co-founder tells Space.com about how citizen scientists are using smart telescopes to engage in planetary defense."
     }
   ]
 }
