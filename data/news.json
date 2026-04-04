@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-04T21:21:48.383Z",
+  "fetchedAt": "2026-04-04T22:18:00.650Z",
   "articles": [
+    {
+      "title": "Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission",
+      "link": "https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/",
+      "pubDate": "2026-04-04T21:57:48.000Z",
+      "source": "NASASpaceflight",
+      "description": "As NASA’s Artemis II mission enters its critical mid-flight phase, the Orion spacecraft—carrying the first&#8230; The post Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission appeared first on NASASpaceFlight.com."
+    },
     {
       "title": "NASA Answers Your Most Pressing Artemis II Questions",
       "link": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-31T20:36:05.000Z",
       "source": "NASASpaceflight",
       "description": "At 23:35 UTC on Dec. 16, 1972, the Apollo 17 command module, America, successfully completed&#8230; The post Artemis II returns humanity to the Moon with launch on Wednesday evening appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "Yes, NASA's launching Artemis 2 astronauts to the moon on April Fools' Day. It's not a joke.",
-      "link": "https://www.space.com/space-exploration/artemis/yes-nasas-launching-artemis-2-astronauts-to-the-moon-on-april-fools-day-its-not-a-joke",
-      "pubDate": "2026-03-31T20:16:25.000Z",
-      "source": "Space.com",
-      "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
     }
   ]
 }
