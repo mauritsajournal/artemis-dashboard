@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-04T09:27:27.634Z",
+  "fetchedAt": "2026-04-04T10:23:01.869Z",
   "articles": [
+    {
+      "title": "Artemis 2 astronauts are now headed to the moon. Why has it taken humanity so long to go back?",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-now-headed-for-the-moon-why-has-it-taken-humanity-so-long-to-go-back",
+      "pubDate": "2026-04-04T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "The Artemis 2 astronauts are the first people to journey toward the moon since 1972. Why has it taken us more than half a century to go back?"
+    },
     {
       "title": "Artemis II Flight Day 3: Crew Prepares Cabin for Lunar Flyby",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/04/artemis-ii-flight-day-3-crew-prepares-cabin-for-lunar-flyby/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-03-31T16:00:00.000Z",
       "source": "Space.com",
       "description": "The crew's 10-day mission will be filled with science, spacecraft tests, medical checks, survival training and more."
-    },
-    {
-      "title": "Artemis 2 astronauts reveal adorable zero-g indicator 'Rise' | Space photo of the day for March 31, 2026",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-reveal-adorable-zero-g-indicator-rise-space-photo-of-the-day-for-march-31-2026",
-      "pubDate": "2026-03-31T14:27:15.000Z",
-      "source": "Space.com",
-      "description": "The four astronaut's of NASA's Artemis 2 mission arrived in style at Kennedy Space Center ahead of their historic moon mission."
     }
   ]
 }
