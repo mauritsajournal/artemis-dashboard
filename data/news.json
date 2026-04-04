@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-04T18:25:54.759Z",
+  "fetchedAt": "2026-04-04T19:23:18.619Z",
   "articles": [
+    {
+      "title": "Artemis 2 astronauts — now halfway to the moon — report 'burning smell' from toilet, but everything's fine",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-now-halfway-to-the-moon-report-burning-smell-from-toilet-but-everythings-fine",
+      "pubDate": "2026-04-04T18:30:18.000Z",
+      "source": "Space.com",
+      "description": "The astronauts on NASA's Artemis 2 moon mission reported a burning smell from their Orion spacecraft toilet overnight, but Mission Control isn't overly concerned. They are over halfway to the moon today."
+    },
     {
       "title": "This Week In Space podcast: Episode 204 — A New NASA",
       "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-204-a-new-nasa",
@@ -301,13 +308,6 @@
       "pubDate": "2026-03-31T16:00:00.000Z",
       "source": "Space.com",
       "description": "The crew's 10-day mission will be filled with science, spacecraft tests, medical checks, survival training and more."
-    },
-    {
-      "title": "Artemis 2 astronauts reveal adorable zero-g indicator 'Rise' | Space photo of the day for March 31, 2026",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-reveal-adorable-zero-g-indicator-rise-space-photo-of-the-day-for-march-31-2026",
-      "pubDate": "2026-03-31T14:27:15.000Z",
-      "source": "Space.com",
-      "description": "The four astronaut's of NASA's Artemis 2 mission arrived in style at Kennedy Space Center ahead of their historic moon mission."
     },
     {
       "title": "Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest",
