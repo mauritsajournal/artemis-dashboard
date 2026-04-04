@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-04T20:18:17.227Z",
+  "fetchedAt": "2026-04-04T21:21:48.383Z",
   "articles": [
     {
       "title": "NASA Answers Your Most Pressing Artemis II Questions",
@@ -331,13 +331,6 @@
       "description": "The \"Pink Moon\" will rise on the same day Artemis 2 is due to launch a crew of 4 to lunar space."
     },
     {
-      "title": "Artemis 2 fueling underway",
-      "link": "https://spacenews.com/artemis-2-fueling-underway/",
-      "pubDate": "2026-04-01T12:42:36.000Z",
-      "source": "SpaceNews",
-      "description": "Fueling of the SLS is underway for an April 1 launch attempt of Artemis 2, the first mission to send humans toward the moon in more than 50 years. The post Artemis 2 fueling underway appeared first on SpaceNews."
-    },
-    {
       "title": "NASA set to launch Artemis 2 moon mission today, the 1st crewed lunar flight since 1972",
       "link": "https://www.space.com/space-exploration/artemis/nasa-set-to-launch-artemis-2-moon-mission-today-the-1st-crewed-lunar-flight-since-1972",
       "pubDate": "2026-04-01T10:00:00.000Z",
@@ -350,6 +343,13 @@
       "pubDate": "2026-03-31T20:36:05.000Z",
       "source": "NASASpaceflight",
       "description": "At 23:35 UTC on Dec. 16, 1972, the Apollo 17 command module, America, successfully completed&#8230; The post Artemis II returns humanity to the Moon with launch on Wednesday evening appeared first on NASASpaceFlight.com."
+    },
+    {
+      "title": "Yes, NASA's launching Artemis 2 astronauts to the moon on April Fools' Day. It's not a joke.",
+      "link": "https://www.space.com/space-exploration/artemis/yes-nasas-launching-artemis-2-astronauts-to-the-moon-on-april-fools-day-its-not-a-joke",
+      "pubDate": "2026-03-31T20:16:25.000Z",
+      "source": "Space.com",
+      "description": "NASA is hoping for a historic moon launch, not a punchline on April 1."
     }
   ]
 }
