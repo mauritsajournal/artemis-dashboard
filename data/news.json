@@ -1,8 +1,15 @@
 {
-  "fetchedAt": "2026-04-05T18:27:30.574Z",
+  "fetchedAt": "2026-04-05T19:26:45.412Z",
   "articles": [
     {
-      "title": "The breakout star of NASA's Artemis 2 mission to the moon isn't an astronaut — it's the space toilet",
+      "title": "Artemis 2 astronauts are about to see one of the rarest skywatching sights of all — a solar eclipse from beyond the moon",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon",
+      "pubDate": "2026-04-05T19:00:00.000Z",
+      "source": "Space.com",
+      "description": "The four Artemis 2 astronauts will see a solar eclipse from beyond the moon's far side on Monday evening (April 6), and they'll use the opportunity to make some science observations."
+    },
+    {
+      "title": "The breakout star of NASA's Artemis 2 moon mission isn't an astronaut — it's the space toilet",
       "link": "https://www.space.com/space-exploration/artemis/the-breakout-star-of-nasas-artemis-2-mission-to-the-moon-isnt-an-astronaut-its-the-space-toilet",
       "pubDate": "2026-04-05T17:09:54.000Z",
       "source": "Space.com",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-01T16:25:57.000Z",
       "source": "SpaceNews",
       "description": "The Artemis 2 mission will send humans to the vicinity of the moon for the first time in more than 50 years on a mission lasting almost 10 days. The post Artemis 2’s (nearly) 10-day flight around the moon appeared first on SpaceNews."
-    },
-    {
-      "title": "NASA's Artemis 2 moon launch may be visible from Florida and southern Georgia today. Here's when to look",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-2-moon-launch-may-be-visible-from-florida-and-southern-georgia-today-heres-when-to-look",
-      "pubDate": "2026-04-01T16:00:00.000Z",
-      "source": "Space.com",
-      "description": "Here's where you need to be to see the Artemis 2 moon rocket launch with your own eyes."
     }
   ]
 }
