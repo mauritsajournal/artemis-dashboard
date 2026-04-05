@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-05T15:21:36.513Z",
+  "fetchedAt": "2026-04-05T16:23:30.495Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 5: Crew Starts Day with Suit Demo",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-crew-starts-day-with-suit-demo/",
+      "pubDate": "2026-04-05T16:16:32.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The morning opened to the beat of “Working Class Heroes (Work)” by CeeLo Green as the Artemis II crew, now flying about 65,235 miles from the Moon, began preparations for their first test objective: an evaluation of the Orion Crew Survival System suit. The crew also heard a special message from Apol"
+    },
     {
       "title": "Thinking of You, Earth",
       "link": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
@@ -16,7 +23,7 @@
       "description": "Plans are in place for the crew of Artemis 2 to try to replicate one of the most famous images ever taken from space — Apollo 8's shot of Earth rising over the moon's horizon."
     },
     {
-      "title": "Artemis 2 astronaut Victor Glover delivers inspiring Easter message on the way to the moon (video)",
+      "title": "This is the inspiring Easter message an Artemis 2 astronaut has for Earth while traveling to the moon (video)",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronaut-victor-glover-delivers-inspiring-easter-message-on-the-way-to-the-moon-video",
       "pubDate": "2026-04-05T11:00:00.000Z",
       "source": "Space.com",
@@ -294,13 +301,6 @@
       "pubDate": "2026-04-02T04:06:13.000Z",
       "source": "NASA Artemis Blog",
       "description": "The Artemis II crew, working closely with mission control in Houston, were able to restore the Orion spacecraft’s toilet to normal operations following the proximity operations demonstration. Ahead of the apogee raise burn on April 1, the Artemis II crew reported a blinking fault light and mission c"
-    },
-    {
-      "title": "Artemis II Flight Update: Proximity Operations Complete, Perigee Raise Burn Up Next",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/01/artemis-ii-flight-update-proximity-operations-complete-perigee-raise-burn-up-next/",
-      "pubDate": "2026-04-02T03:37:52.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The Artemis II crew successfully completed the proximity operations demonstration, concluding one of the mission’s early objectives and providing valuable data on how the Orion spacecraft, named Integrity, performs during manual close‑range maneuvering around another spacecraft. Over the course of t"
     },
     {
       "title": "Why is the Artemis 2 rocket launch different from all other rocket launches?",
