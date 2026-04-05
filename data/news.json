@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-05T16:23:30.495Z",
+  "fetchedAt": "2026-04-05T17:21:09.346Z",
   "articles": [
+    {
+      "title": "The breakout star of NASA's Artemis 2 mission to the moon isn't an astronaut — it's the space toilet",
+      "link": "https://www.space.com/space-exploration/artemis/the-breakout-star-of-nasas-artemis-2-mission-to-the-moon-isnt-an-astronaut-its-the-space-toilet",
+      "pubDate": "2026-04-05T17:09:54.000Z",
+      "source": "Space.com",
+      "description": "The on-again, off-again lunar loo allows astronauts to \"go\" at the moon like no one's gone before."
+    },
     {
       "title": "Artemis II Flight Day 5: Crew Starts Day with Suit Demo",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-crew-starts-day-with-suit-demo/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-01T16:00:00.000Z",
       "source": "Space.com",
       "description": "Here's where you need to be to see the Artemis 2 moon rocket launch with your own eyes."
-    },
-    {
-      "title": "Watch Artemis 2 fly through space in real time with this telescope livestream tonight",
-      "link": "https://www.space.com/space-exploration/artemis/watch-artemis-2-fly-through-space-in-real-time-with-this-telescope-livestream",
-      "pubDate": "2026-04-01T15:00:00.000Z",
-      "source": "Space.com",
-      "description": "A Virtual Telescope Project livestream aims to track NASA's Artemis 2 Orion spacecraft — here's how to watch it as it travels through space."
     }
   ]
 }
