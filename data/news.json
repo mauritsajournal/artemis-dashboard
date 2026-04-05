@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-05T13:45:49.687Z",
+  "fetchedAt": "2026-04-05T14:26:28.970Z",
   "articles": [
+    {
+      "title": "Thinking of You, Earth",
+      "link": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
+      "pubDate": "2026-04-05T14:04:33.000Z",
+      "source": "NASA News",
+      "description": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft&#8217;s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts – Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, an"
+    },
     {
       "title": "Artemis 2 moon astronauts will try to recreate Apollo 8's historic 'Earthrise' photo during April 6 flyby",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-will-try-to-recreate-apollo-8s-historic-earthrise-photo-during-april-6-flyby",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-01T15:00:00.000Z",
       "source": "Space.com",
       "description": "A Virtual Telescope Project livestream aims to track NASA's Artemis 2 Orion spacecraft — here's how to watch it as it travels through space."
-    },
-    {
-      "title": "April's full 'Pink Moon' rises tonight — just as NASA readies its Artemis 2 moon mission",
-      "link": "https://www.space.com/stargazing/aprils-full-pink-moon-rises-tonight-just-as-nasa-readies-its-artemis-2-moon-mission-april-1-2026",
-      "pubDate": "2026-04-01T13:00:00.000Z",
-      "source": "Space.com",
-      "description": "The \"Pink Moon\" will rise on the same day Artemis 2 is due to launch a crew of 4 to lunar space."
     }
   ]
 }
