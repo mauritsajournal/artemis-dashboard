@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-05T20:20:25.010Z",
+  "fetchedAt": "2026-04-05T21:21:34.429Z",
   "articles": [
+    {
+      "title": "NASA stops work on SLS Mobile Launcher 2",
+      "link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
+      "pubDate": "2026-04-05T20:29:48.000Z",
+      "source": "SpaceNews",
+      "description": "NASA has stopped work on a second mobile launch platform intended for an upgraded version of the Space Launch System the agency no longer plans to develop. The post NASA stops work on SLS Mobile Launcher 2 appeared first on SpaceNews."
+    },
     {
       "title": "Artemis 2 astronauts are about to see one of the rarest skywatching sights of all — a solar eclipse from beyond the moon",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-01T17:00:00.000Z",
       "source": "Space.com",
       "description": "Here's what's on the experiment roster for the Artemis 2 moon mission."
-    },
-    {
-      "title": "Artemis 2’s (nearly) 10-day flight around the moon",
-      "link": "https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/",
-      "pubDate": "2026-04-01T16:25:57.000Z",
-      "source": "SpaceNews",
-      "description": "The Artemis 2 mission will send humans to the vicinity of the moon for the first time in more than 50 years on a mission lasting almost 10 days. The post Artemis 2’s (nearly) 10-day flight around the moon appeared first on SpaceNews."
     }
   ]
 }
