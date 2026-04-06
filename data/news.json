@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-06T15:36:54.021Z",
+  "fetchedAt": "2026-04-06T16:34:49.201Z",
   "articles": [
+    {
+      "title": "Night Sky Network Celebrates Artemis II",
+      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/",
+      "pubDate": "2026-04-06T15:29:14.000Z",
+      "source": "NASA News",
+      "description": "Today, the crew of Artemis II reaches a milestone, traveling farther than any humans in recorded history, as they orbit the far side of the Moon, roughly 4,000 miles above the lunar surface. You can watch this historic broadcast on NASA’s YouTube channel today, April 6, 2026, at 10 AM Pacific (1 PM"
+    },
     {
       "title": "The Near Side of the Moon",
       "link": "https://www.nasa.gov/image-article/the-near-side-of-the-moon/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-02T08:17:15.000Z",
       "source": "Space.com",
       "description": "Artemis 2 is gearing up for a critical engine burn this evening (April 2), which will send the mission's four astronauts on a looping journey around the moon."
-    },
-    {
-      "title": "There was a bit of toilet trouble on NASA's Artemis 2 mission to the moon",
-      "link": "https://www.space.com/space-exploration/artemis/theres-a-bit-of-toilet-trouble-on-nasas-artemis-2-mission-to-the-moon",
-      "pubDate": "2026-04-02T04:17:59.000Z",
-      "source": "Space.com",
-      "description": "It wasn't their No. 1 problem, but it was a problem for going number one."
     }
   ]
 }
