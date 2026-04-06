@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-06T16:34:49.201Z",
+  "fetchedAt": "2026-04-06T17:36:12.138Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 6: Lunar Flyby Updates",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-lunar-flyby-updates/",
+      "pubDate": "2026-04-06T17:00:29.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "NASA’s live coverage of the Artemis II lunar flyby is underway on NASA+, Amazon Prime, Apple TV, Hulu, Netflix, HBO Max, and Roku, alongside the agency’s 24/7 coverage on its YouTube channel. Learn how to stream NASA content through a variety of online platforms, including social media."
+    },
+    {
+      "title": "The moon up close: How the Artemis 2 astronauts are photographing their historic lunar flyby",
+      "link": "https://www.space.com/space-exploration/artemis/the-moon-up-close-how-the-artemis-2-astronauts-are-photographing-their-historic-lunar-flyby",
+      "pubDate": "2026-04-06T16:55:58.000Z",
+      "source": "Space.com",
+      "description": "The Artemis 2 astronauts might be the first humans to survey certain areas of the moon's far side, and they're chronicling their historic journey in detail."
+    },
     {
       "title": "Night Sky Network Celebrates Artemis II",
       "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/",
@@ -296,13 +310,6 @@
       "description": "NASA’s Artemis 2 mission is on its way to the moon after a successful maneuver April 2. The post Artemis 2 heads to the moon appeared first on SpaceNews."
     },
     {
-      "title": "Artemis II Flight Day 2: Orion Completes TLI Burn, Crew Begins Journey to the Moon",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-day-2-orion-completes-tli-burn-crew-begins-journey-to-the-moon/",
-      "pubDate": "2026-04-03T02:10:55.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "Editor&#8217;s Note: Blog updated to reflect update propellant burn quantities. NASA’s Artemis II crew is on the way to the Moon. After the mission management team polled “Go” Thursday, NASA&#8217;s Orion spacecraft fired its main engine for five minutes and 50 seconds beginning at 7:49 p.m. EDT, to"
-    },
-    {
       "title": "Artemis 2 astronauts head for the moon after make-or-break engine burn (video)",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-for-moon-translunar-injection-burn",
       "pubDate": "2026-04-03T00:28:28.000Z",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-02T12:56:33.000Z",
       "source": "Space.com",
       "description": "The launch of NASA's historic Artemis 2 mission looks incredible in these stunning launch photos."
-    },
-    {
-      "title": "NASA just launched Artemis 2. What happens today could make or break the moon mission",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-just-launched-artemis-2-what-happens-today-could-make-or-break-the-moon-mission",
-      "pubDate": "2026-04-02T08:17:15.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2 is gearing up for a critical engine burn this evening (April 2), which will send the mission's four astronauts on a looping journey around the moon."
     }
   ]
 }
