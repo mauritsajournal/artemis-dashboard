@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-06T12:44:08.901Z",
+  "fetchedAt": "2026-04-06T14:04:29.127Z",
   "articles": [
+    {
+      "title": "Astronaut Victor Glover is the latest in a long line of Black American explorers − including York, the enslaved man who played a key role in the Lewis and Clark expedition",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-victor-glover-is-the-latest-in-a-long-line-of-black-american-explorers-including-york-the-enslaved-man-who-played-a-key-role-in-the-lewis-and-clark-expedition",
+      "pubDate": "2026-04-06T13:00:00.000Z",
+      "source": "Space.com",
+      "description": "Glover's achievement is worth celebrating. But it's also worth remembering that he belongs to a long and underappreciated history."
+    },
     {
       "title": "Artemis 2 ready to fly around the moon",
       "link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-02T08:17:15.000Z",
       "source": "Space.com",
       "description": "Artemis 2 is gearing up for a critical engine burn this evening (April 2), which will send the mission's four astronauts on a looping journey around the moon."
-    },
-    {
-      "title": "There was a bit of toilet trouble on NASA's Artemis 2 mission to the moon",
-      "link": "https://www.space.com/space-exploration/artemis/theres-a-bit-of-toilet-trouble-on-nasas-artemis-2-mission-to-the-moon",
-      "pubDate": "2026-04-02T04:17:59.000Z",
-      "source": "Space.com",
-      "description": "It wasn't their No. 1 problem, but it was a problem for going number one."
     }
   ]
 }
