@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-06T21:28:31.716Z",
+  "fetchedAt": "2026-04-06T22:24:34.961Z",
   "articles": [
+    {
+      "title": "Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California",
+      "link": "https://www.nasaspaceflight.com/2026/04/launch-preview-040626/",
+      "pubDate": "2026-04-06T22:06:24.000Z",
+      "source": "NASASpaceflight",
+      "description": "As NASA&#8217;s Artemis II mission reaches its halfway point, the launch manifest on Earth continues&#8230; The post Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California appeared first on NASASpaceFlight.com."
+    },
+    {
+      "title": "Moon music: Here's a Spotify playlist of the Artemis 2 crew's wakeup songs",
+      "link": "https://www.space.com/space-exploration/artemis/moon-music-heres-a-spotify-playlist-of-the-artemis-2-crews-wakeup-songs",
+      "pubDate": "2026-04-06T21:54:20.000Z",
+      "source": "Space.com",
+      "description": "Artemis 2 wake-up songs are mission control's way of starting the crew's day off with positivity. Here's the Spotify playlist."
+    },
     {
       "title": "Moon memorial: Artemis 2 astronauts name lunar 'bright spot' after mission commander's late wife",
       "link": "https://www.space.com/space-exploration/artemis/moon-memorial-artemis-2-astronauts-name-lunar-bright-spot-after-mission-commanders-late-wife",
@@ -181,7 +195,7 @@
       "link": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
       "pubDate": "2026-04-04T19:44:31.000Z",
       "source": "NASA News",
-      "description": "Editor&#8217;s Note: This article was updated at 1:40 p.m. EDT on Sunday, April 5, 2026, to correct the time for the distance record, and adjust other times for lunar flyby activities. The first crewed test flight under NASA’s Artemis program is underway. Four Artemis II astronauts are flying aboard"
+      "description": "Editor&#8217;s Note: This article was updated at 5:50 p.m. EDT on Monday, April 6, 2026, to update the times for lunar flyby activities. Editor&#8217;s Note: This article was updated at 1:40 p.m. EDT on Sunday, April 5, 2026, to correct the time for the distance record, and adjust other times for lu"
     },
     {
       "title": "Artemis II Flight Day 4: Deep-Space Flying, Lunar Flyby Prep",
@@ -336,20 +350,6 @@
       "pubDate": "2026-04-02T22:00:00.000Z",
       "source": "Space.com",
       "description": "Some airplane passengers had the best seats in the house during NASA's Artemis 2 moon rocket launch. Here are some of my favorite videos captured from the sky."
-    },
-    {
-      "title": "Moog Technology Successfully Steers Artemis II Launch",
-      "link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
-      "pubDate": "2026-04-02T14:55:23.000Z",
-      "source": "SpaceNews",
-      "description": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, provided the critical [&#8230;] The post Moog Technology Successfully Steers Artemis II Launch appeared f"
-    },
-    {
-      "title": "NASA's Artemis 2 moon launch seen from space | Space photo of the day for April 2, 2026",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-launch-spotted-from-space-space-photo-of-the-day-for-april-2-2026",
-      "pubDate": "2026-04-02T14:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA's Artemis 2 has launched on a history-making journey around the moon and back, and the moment was captured from space."
     }
   ]
 }
