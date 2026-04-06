@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-06T10:55:26.115Z",
+  "fetchedAt": "2026-04-06T11:40:42.929Z",
   "articles": [
+    {
+      "title": "Artemis 2 ready to fly around the moon",
+      "link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
+      "pubDate": "2026-04-06T11:21:26.000Z",
+      "source": "SpaceNews",
+      "description": "The Artemis 2 mission will swing around the moon April 6, setting a distance record as astronauts study part of the lunar farside. The post Artemis 2 ready to fly around the moon appeared first on SpaceNews."
+    },
     {
       "title": "NASA Artemis 2 astronauts to make historic moon flyby today. Here's what to expect hour by hour (timeline)",
       "link": "https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-02T04:17:59.000Z",
       "source": "Space.com",
       "description": "It wasn't their No. 1 problem, but it was a problem for going number one."
-    },
-    {
-      "title": "Why is the Artemis 2 rocket launch different from all other rocket launches?",
-      "link": "https://www.space.com/space-exploration/artemis/why-is-the-artemis-2-rocket-launch-different-from-all-other-rocket-launches",
-      "pubDate": "2026-04-02T00:35:43.000Z",
-      "source": "Space.com",
-      "description": "That's one small sip of Manischewitz…"
     }
   ]
 }
