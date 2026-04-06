@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-06T08:17:05.952Z",
+  "fetchedAt": "2026-04-06T09:58:47.281Z",
   "articles": [
+    {
+      "title": "NASA Artemis 2 astronauts to make historic moon flyby today. Here's what to expect hour by hour (timeline)",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline",
+      "pubDate": "2026-04-06T09:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 astronauts will make a historic moon flyby today (April 6). Here's how it will happen, hour by hour."
+    },
     {
       "title": "Humanity is back at the moon! Artemis 2 astronauts arrive in lunar space",
       "link": "https://www.space.com/space-exploration/artemis/humanity-is-back-at-the-moon-artemis-2-astronauts-arrive-in-lunar-space",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-02T00:35:43.000Z",
       "source": "Space.com",
       "description": "That's one small sip of Manischewitz…"
-    },
-    {
-      "title": "NASA launches 4 astronauts to the moon on historic Artemis 2 voyage, a lunar leap for the 21st century",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-launches-4-astronauts-to-the-moon-on-historic-artemis-2-voyage-a-lunar-leap-for-the-21st-century",
-      "pubDate": "2026-04-01T23:02:39.000Z",
-      "source": "Space.com",
-      "description": "NASA launched its Artemis 2 mission today (April 1), sending astronauts toward the moon for the first time in more than 50 years."
     }
   ]
 }
