@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-06T04:35:06.174Z",
+  "fetchedAt": "2026-04-06T06:24:18.216Z",
   "articles": [
+    {
+      "title": "Humanity is back at the moon! Artemis 2 astronauts arrive in lunar space",
+      "link": "https://www.space.com/space-exploration/artemis/humanity-is-back-at-the-moon-artemis-2-astronauts-arrive-in-lunar-space",
+      "pubDate": "2026-04-06T05:00:15.000Z",
+      "source": "Space.com",
+      "description": "The four astronauts of NASA's Artemis 2 mission have arrived at the moon. They entered the lunar sphere of influence early Monday morning (April 6)."
+    },
     {
       "title": "Artemis II Flight Day 5: Correction Burn Complete",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-correction-burn-complete/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-01T23:02:39.000Z",
       "source": "Space.com",
       "description": "NASA launched its Artemis 2 mission today (April 1), sending astronauts toward the moon for the first time in more than 50 years."
-    },
-    {
-      "title": "Artemis 2 launches on first human mission to the moon in more than 50 years",
-      "link": "https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/",
-      "pubDate": "2026-04-01T22:50:15.000Z",
-      "source": "SpaceNews",
-      "description": "The first human mission beyond Earth orbit in more than 50 years is underway with an April 1 launch of four astronauts on a flight around the moon. The post Artemis 2 launches on first human mission to the moon in more than 50 years appeared first on SpaceNews."
     }
   ]
 }
