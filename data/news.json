@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-06T17:36:12.138Z",
+  "fetchedAt": "2026-04-06T18:40:58.823Z",
   "articles": [
+    {
+      "title": "Artemis 2 breaks humanity's all-time distance record during historic loop around the moon (video)",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-breaks-humanitys-all-time-distance-record-during-historic-loop-around-the-moon",
+      "pubDate": "2026-04-06T18:00:43.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 astronauts have now traveled farther from Earth than any people in history, breaking the mark set by the Apollo 13 crew in April 1970."
+    },
     {
       "title": "Artemis II Flight Day 6: Lunar Flyby Updates",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-lunar-flyby-updates/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-02T13:00:00.000Z",
       "source": "Space.com",
       "description": "You can follow the Artemis 2 astronaut mission around the moon in real time, thanks to a NASA website."
-    },
-    {
-      "title": "Relive NASA's historic Artemis 2 launch to the moon in these stunning photos",
-      "link": "https://www.space.com/space-exploration/relive-nasas-historic-artemis-2-launch-to-the-moon-in-these-stunning-photos",
-      "pubDate": "2026-04-02T12:56:33.000Z",
-      "source": "Space.com",
-      "description": "The launch of NASA's historic Artemis 2 mission looks incredible in these stunning launch photos."
     }
   ]
 }
