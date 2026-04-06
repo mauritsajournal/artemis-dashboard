@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-06T19:44:17.018Z",
+  "fetchedAt": "2026-04-06T20:27:55.286Z",
   "articles": [
+    {
+      "title": "Moon memorial: Artemis 2 astronauts name lunar 'bright spot' after mission commander's late wife",
+      "link": "https://www.space.com/space-exploration/artemis/moon-memorial-artemis-2-astronauts-name-lunar-bright-spot-after-mission-commanders-late-wife",
+      "pubDate": "2026-04-06T20:17:26.000Z",
+      "source": "Space.com",
+      "description": "As they broke the record for farthest distance from Earth ever traveled by an astronaut, NASA's Artemis 2 crew took a moment to dedicate a few features on the moon's surface for their spacecraft and lost loved ones."
+    },
+    {
+      "title": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight",
+      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
+      "pubDate": "2026-04-06T19:46:20.000Z",
+      "source": "NASA News",
+      "description": "Four astronauts aboard NASA’s Artemis II test flight around the Moon made history at 12:56 p.m. CDT on Monday, traveling 248,655 miles from Earth, surpassing the record for human spaceflight’s farthest distance previously set by the Apollo 13 mission in 1970. At its farthest point, crew inside the O"
+    },
     {
       "title": "Artemis 2 breaks humanity's all-time distance record during historic loop around the moon (video)",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-breaks-humanitys-all-time-distance-record-during-historic-loop-around-the-moon",
@@ -336,20 +350,6 @@
       "pubDate": "2026-04-02T14:00:00.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis 2 has launched on a history-making journey around the moon and back, and the moment was captured from space."
-    },
-    {
-      "title": "How to track the Artemis 2 astronauts on their journey around the moon",
-      "link": "https://www.space.com/space-exploration/artemis/how-to-track-the-artemis-2-astronauts-on-their-journey-around-the-moon",
-      "pubDate": "2026-04-02T13:00:00.000Z",
-      "source": "Space.com",
-      "description": "You can follow the Artemis 2 astronaut mission around the moon in real time, thanks to a NASA website."
-    },
-    {
-      "title": "Relive NASA's historic Artemis 2 launch to the moon in these stunning photos",
-      "link": "https://www.space.com/space-exploration/relive-nasas-historic-artemis-2-launch-to-the-moon-in-these-stunning-photos",
-      "pubDate": "2026-04-02T12:56:33.000Z",
-      "source": "Space.com",
-      "description": "The launch of NASA's historic Artemis 2 mission looks incredible in these stunning launch photos."
     }
   ]
 }
