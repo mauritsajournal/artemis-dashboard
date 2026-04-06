@@ -1,8 +1,15 @@
 {
-  "fetchedAt": "2026-04-06T01:19:12.121Z",
+  "fetchedAt": "2026-04-06T04:35:06.174Z",
   "articles": [
     {
-      "title": "When the moon hits your eye from your Orion ship up high, that's a 'mare'",
+      "title": "Artemis II Flight Day 5: Correction Burn Complete",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-correction-burn-complete/",
+      "pubDate": "2026-04-06T03:50:11.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Mission control teams&#160;in Houston and the Artemis II crew completed an outbound correction burn to refine the Orion spacecraft’s&#160;trajectory to the Moon. The burn began at&#160;11:03 p.m.&#160;EDT&#160;and lasted&#160;17.5&#160;seconds. NASA astronauts Reid Wiseman, Victor Glover, and Christ"
+    },
+    {
+      "title": "When the moon hits your eye from your Orion ship up high, that's a 'mare' for Artemis 2",
       "link": "https://www.space.com/space-exploration/artemis/when-the-moon-hits-your-eye-from-your-orion-ship-up-high-thats-a-mare",
       "pubDate": "2026-04-06T00:09:06.000Z",
       "source": "Space.com",
@@ -294,13 +301,6 @@
       "pubDate": "2026-04-02T14:00:00.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis 2 has launched on a history-making journey around the moon and back, and the moment was captured from space."
-    },
-    {
-      "title": "Artemis II Flight Update: Perigee Raise Burn Complete",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-update-perigee-raise-burn-complete/",
-      "pubDate": "2026-04-02T13:15:02.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "A view of the Earth from NASA’s Orion spacecraft as it orbits above the planet during the Artemis II test flight. NASA astronauts Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch, and CSA (Canadian Space Agency) astronaut Mission Specialist Jeremy Hansen, launched a"
     },
     {
       "title": "How to track the Artemis 2 astronauts on their journey around the moon",
