@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-05T23:23:04.350Z",
+  "fetchedAt": "2026-04-06T01:19:12.121Z",
   "articles": [
+    {
+      "title": "When the moon hits your eye from your Orion ship up high, that's a 'mare'",
+      "link": "https://www.space.com/space-exploration/artemis/when-the-moon-hits-your-eye-from-your-orion-ship-up-high-thats-a-mare",
+      "pubDate": "2026-04-06T00:09:06.000Z",
+      "source": "Space.com",
+      "description": "The four Artemis 2 astronauts had a chance to observe the moon this weekend, and to say they were thrilled may be an understatement of cosmic proportions."
+    },
     {
       "title": "Artemis II Flight Day 5: Crew Demos Suits, Readies for Lunar Flyby",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-crew-demos-suits-readies-for-lunar-flyby/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-01T22:50:15.000Z",
       "source": "SpaceNews",
       "description": "The first human mission beyond Earth orbit in more than 50 years is underway with an April 1 launch of four astronauts on a flight around the moon. The post Artemis 2 launches on first human mission to the moon in more than 50 years appeared first on SpaceNews."
-    },
-    {
-      "title": "What do scientists hope to learn from NASA's historic Artemis 2 moon flyby?",
-      "link": "https://www.space.com/space-exploration/missions/what-do-scientists-hope-to-learn-from-nasas-historic-artemis-2-moon-flyby",
-      "pubDate": "2026-04-01T17:00:00.000Z",
-      "source": "Space.com",
-      "description": "Here's what's on the experiment roster for the Artemis 2 moon mission."
     }
   ]
 }
