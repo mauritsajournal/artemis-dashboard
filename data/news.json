@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-06T14:04:29.127Z",
+  "fetchedAt": "2026-04-06T15:36:54.021Z",
   "articles": [
+    {
+      "title": "The Near Side of the Moon",
+      "link": "https://www.nasa.gov/image-article/the-near-side-of-the-moon/",
+      "pubDate": "2026-04-06T14:59:19.000Z",
+      "source": "NASA News",
+      "description": "The astronauts aboard NASA&#8217;s Orion spacecraft captured this photo of the Moon&#8217;s near side on April 4, 2026. The image features dark patches at center and right; these are ancient lava flows, which are unique to this side of the Moon. The Artemis II astronauts – astronauts Victor Glover,"
+    },
+    {
+      "title": "Artemis II Flight Day 6: Crew Ready for Lunar Flyby",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-crew-ready-for-lunar-flyby/",
+      "pubDate": "2026-04-06T14:55:34.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The Artemis II crew is awake and beginning preparations for today’s lunar flyby — a first for humans since Apollo 17 in 1972. The sounds of “Good Morning,” by Mandisa and TobyMac played as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astrona"
+    },
     {
       "title": "Astronaut Victor Glover is the latest in a long line of Black American explorers − including York, the enslaved man who played a key role in the Lewis and Clark expedition",
       "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-victor-glover-is-the-latest-in-a-long-line-of-black-american-explorers-including-york-the-enslaved-man-who-played-a-key-role-in-the-lewis-and-clark-expedition",
@@ -268,13 +282,6 @@
       "description": "In a historic milestone more than 50 years in the making, NASA’s Orion spacecraft Integrity&#8230; The post Artemis II Orion performs TLI Burn — Now headed to the Moon appeared first on NASASpaceFlight.com."
     },
     {
-      "title": "NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon",
-      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/",
-      "pubDate": "2026-04-03T02:48:08.000Z",
-      "source": "NASA News",
-      "description": "For the first time in more than 50 years, astronauts on a NASA mission are bound to fly around the Moon after successfully completing a key burn of Orion’s main engine. With the approximately six-minute firing of the spacecraft’s service module engine on Thursday, known as the translunar injection b"
-    },
-    {
       "title": "Artemis 2 heads to the moon",
       "link": "https://spacenews.com/artemis-2-heads-to-the-moon/",
       "pubDate": "2026-04-03T02:30:13.000Z",
@@ -301,20 +308,6 @@
       "pubDate": "2026-04-02T22:00:00.000Z",
       "source": "Space.com",
       "description": "Some airplane passengers had the best seats in the house during NASA's Artemis 2 moon rocket launch. Here are some of my favorite videos captured from the sky."
-    },
-    {
-      "title": "Artemis II Flight Day 2: Crew, Houston Poll &#8216;Go&#8217; for Translunar Injection Burn",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/02/artemis-ii-flight-day-2-crew-houston-poll-go-for-translunar-injection-burn/",
-      "pubDate": "2026-04-02T20:24:33.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "NASA’s Artemis II mission management team polled “Go” for the translunar injection burn to send the crew in the Orion spacecraft toward the Moon and send humans around Earth’s closest celestial neighbor for the first time since Apollo 17 in 1972. The spacecraft will ignite its main engine on the ser"
-    },
-    {
-      "title": "Artemis II Astronauts Launch to Moon",
-      "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/",
-      "pubDate": "2026-04-02T16:50:01.000Z",
-      "source": "NASA News",
-      "description": "NASA’s Space Launch System rocket and Orion spacecraft lift off in this April 1, 2026, image. NASA’s Artemis II mission will take NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy on an approximately 10-day journey around the Moon and b"
     },
     {
       "title": "Moog Technology Successfully Steers Artemis II Launch",
@@ -350,6 +343,13 @@
       "pubDate": "2026-04-02T08:17:15.000Z",
       "source": "Space.com",
       "description": "Artemis 2 is gearing up for a critical engine burn this evening (April 2), which will send the mission's four astronauts on a looping journey around the moon."
+    },
+    {
+      "title": "There was a bit of toilet trouble on NASA's Artemis 2 mission to the moon",
+      "link": "https://www.space.com/space-exploration/artemis/theres-a-bit-of-toilet-trouble-on-nasas-artemis-2-mission-to-the-moon",
+      "pubDate": "2026-04-02T04:17:59.000Z",
+      "source": "Space.com",
+      "description": "It wasn't their No. 1 problem, but it was a problem for going number one."
     }
   ]
 }
