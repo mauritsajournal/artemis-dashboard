@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-07T08:04:47.057Z",
+  "fetchedAt": "2026-04-07T09:57:32.239Z",
   "location": {
     "lat": 28.5721,
     "lon": -80.648,
@@ -10,8 +10,8 @@
   "daily": null,
   "solar": {
     "kpIndex": 2,
-    "kpTimestamp": "2026-04-07T03:00:00",
-    "solarWindSpeed": 461.5,
-    "solarWindDensity": 2.56
+    "kpTimestamp": "2026-04-07T06:00:00",
+    "solarWindSpeed": 470.9,
+    "solarWindDensity": 2.75
   }
 }
