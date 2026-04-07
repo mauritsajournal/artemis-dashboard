@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-07T09:57:33.683Z",
+  "fetchedAt": "2026-04-07T10:51:31.744Z",
   "articles": [
+    {
+      "title": "Moon milestones: A rundown of Artemis 2's many spaceflight firsts",
+      "link": "https://www.space.com/space-exploration/artemis/moon-milestones-a-rundown-of-artemis-2s-many-spaceflight-firsts",
+      "pubDate": "2026-04-07T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "You've probably heard it by now: NASA’s Artemis 2 mission was the first to launch astronauts to fly by the moon in more than 50 years. But that was just the first of the firsts for this mission."
+    },
     {
       "title": "'This is really big stuff.' Trump hails NASA Artemis 2 astronauts after historic moon flyby feat",
       "link": "https://www.space.com/space-exploration/artemis/this-is-really-big-stuff-trump-hails-nasa-artemis-2-astronauts-after-historic-moon-flyby-feat",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-03T11:16:06.000Z",
       "source": "Space.com",
       "description": "After an action-packed first two days, Flight Day 3 may bring a more relaxed pace for the Artemis 2 moon astronauts."
-    },
-    {
-      "title": "Artemis II Orion performs TLI Burn — Now headed to the Moon",
-      "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/",
-      "pubDate": "2026-04-03T03:46:22.000Z",
-      "source": "NASASpaceflight",
-      "description": "In a historic milestone more than 50 years in the making, NASA’s Orion spacecraft Integrity&#8230; The post Artemis II Orion performs TLI Burn — Now headed to the Moon appeared first on NASASpaceFlight.com."
     }
   ]
 }
