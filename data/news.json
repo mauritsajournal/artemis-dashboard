@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-07T18:45:09.847Z",
+  "fetchedAt": "2026-04-07T19:49:13.728Z",
   "articles": [
+    {
+      "title": "Earthset",
+      "link": "https://www.nasa.gov/image-article/earthset/",
+      "pubDate": "2026-04-07T18:54:50.000Z",
+      "source": "NASA News",
+      "description": "The Artemis II crew captured this view of Earth setting on April 6, 2026, as they flew around the Moon. As the astronauts flew over the Moon’s far side, the crew photographed and described terrain features including impact craters, ancient lava flows, and surface cracks and ridges formed as the Moon"
+    },
     {
       "title": "Relive Artemis 2's epic moon flyby with these amazing photos",
       "link": "https://www.space.com/space-exploration/artemis/relive-artemis-2s-epic-moon-flyby-with-these-amazing-photos",
@@ -287,13 +294,6 @@
       "pubDate": "2026-04-04T21:57:48.000Z",
       "source": "NASASpaceflight",
       "description": "As NASA’s Artemis II mission enters its critical mid-flight phase, the Orion spacecraft—carrying the first&#8230; The post Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "NASA Answers Your Most Pressing Artemis II Questions",
-      "link": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/",
-      "pubDate": "2026-04-04T19:44:31.000Z",
-      "source": "NASA News",
-      "description": "Editor&#8217;s Note: This article was updated at 5:50 p.m. EDT on Monday, April 6, 2026, to update the times for lunar flyby activities. Editor&#8217;s Note: This article was updated at 1:40 p.m. EDT on Sunday, April 5, 2026, to correct the time for the distance record, and adjust other times for lu"
     },
     {
       "title": "Artemis II Flight Day 4: Deep-Space Flying, Lunar Flyby Prep",
