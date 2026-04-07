@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-07T14:25:45.986Z",
+  "fetchedAt": "2026-04-07T16:03:48.981Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 7: Crew Makes Long‑Distance Call, Begins Return",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/07/artemis-ii-flight-day-7-crew-makes-long%e2%80%91distance-call-begins-return/",
+      "pubDate": "2026-04-07T15:37:19.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "After their historic lunar flyby on April 6, the Artemis II crew is awake and preparing for the journey back to Earth. The crew started the day 36,286 miles from the Moon and 236,022 miles from Earth, waking to the sounds of “Tokyo Drifting,” by Glass Animals and Denzel Curry. At 1:23 p.m. EDT, the"
+    },
     {
       "title": "'Unreal' solar eclipse: Artemis 2 crew just saw one of the rarest sights in spaceflight history",
       "link": "https://www.space.com/space-exploration/artemis/unreal-solar-eclipse-artemis-2-crew-just-saw-one-of-the-rarest-sights-in-spaceflight-history",
@@ -329,13 +336,6 @@
       "pubDate": "2026-04-03T22:00:00.000Z",
       "source": "Space.com",
       "description": "From the ground to low Earth orbit, the Artemis 2 launch became a shared moment across the planet and beyond."
-    },
-    {
-      "title": "Artemis II Flight Day 3: Outbound Trajectory Correction Burn Update",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/03/artemis-ii-flight-day-3-outbound-trajectory-correction-burn-update/",
-      "pubDate": "2026-04-03T21:00:32.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "NASA’s Artemis II crew in Orion continues on a precise trajectory to flyby the Moon on Monday, April 6. Flight controllers in mission control at NASA’s Johnson Space Center in Houston elected to cancel the spacecraft’s first outbound trajectory correction burn, as the spacecraft&#8217;s trajectory i"
     },
     {
       "title": "1st results from Blue Ghost lunar lander reveal how much we still don't know about the moon",
