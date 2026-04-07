@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-07T22:27:31.590Z",
+  "fetchedAt": "2026-04-07T23:28:28.262Z",
   "articles": [
+    {
+      "title": "The Artemis 2 space toilet is actually working fine. But there is another problem",
+      "link": "https://www.space.com/space-exploration/artemis/the-artemis-2-space-toilet-is-actually-working-fine-but-there-is-another-problem",
+      "pubDate": "2026-04-07T22:31:46.000Z",
+      "source": "Space.com",
+      "description": "\"The challenge that we're working through is evacuating the tank.\""
+    },
     {
       "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
       "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-04T01:18:26.000Z",
       "source": "SpaceNews",
       "description": "A day after lighting its engine to head to the moon, the Artemis 2 Orion spacecraft is performing well with only minor issues. The post Artemis 2 in good shape cruising towards the moon appeared first on SpaceNews."
-    },
-    {
-      "title": "It's official: NASA's Artemis 2 moon mission will break humanity's all-time distance record",
-      "link": "https://www.space.com/space-exploration/artemis/its-official-nasas-artemis-2-moon-mission-will-break-humanitys-all-time-distance-record",
-      "pubDate": "2026-04-03T22:25:31.000Z",
-      "source": "Space.com",
-      "description": "NASA's Artemis 2 moon mission will get a maximum of 252,757 miles (406,773 kilometers) from Earth on April 6, breaking the mark set by Apollo 13 in April 1970."
     }
   ]
 }
