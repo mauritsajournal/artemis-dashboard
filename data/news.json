@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-07T20:34:57.519Z",
+  "fetchedAt": "2026-04-07T21:34:06.489Z",
   "articles": [
+    {
+      "title": "NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth",
+      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
+      "pubDate": "2026-04-07T20:44:05.000Z",
+      "source": "NASA News",
+      "description": "The first flyby images of the Moon captured by NASA&#8217;s Artemis II astronauts during their historic test flight reveal some regions no human has seen, including a rare in-space solar eclipse. Released Tuesday, astronauts captured the images April 6 during the mission’s seven-hour flyby of the lu"
+    },
     {
       "title": "Earthset",
       "link": "https://www.nasa.gov/image-article/earthset/",
@@ -252,13 +259,6 @@
       "pubDate": "2026-04-05T16:16:32.000Z",
       "source": "NASA Artemis Blog",
       "description": "The morning opened to the beat of “Working Class Heroes (Work)” by CeeLo Green as the Artemis II crew, now flying about 65,235 miles from the Moon, began preparations for their first test objective: an evaluation of the Orion Crew Survival System suit. The crew also heard a special message from Apol"
-    },
-    {
-      "title": "Thinking of You, Earth",
-      "link": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
-      "pubDate": "2026-04-05T14:04:33.000Z",
-      "source": "NASA News",
-      "description": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft&#8217;s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts – Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, an"
     },
     {
       "title": "Artemis 2 moon astronauts will try to recreate Apollo 8's historic 'Earthrise' photo during April 6 flyby",
