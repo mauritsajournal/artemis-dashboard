@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-07T11:44:18.111Z",
+  "fetchedAt": "2026-04-07T12:54:25.117Z",
   "articles": [
+    {
+      "title": "NASA's Artemis 2 astronauts just flew by the moon. Lunar scientists can't wait for what's next",
+      "link": "https://www.space.com/astronomy/moon/nasas-artemis-2-astronauts-just-flew-by-the-moon-lunar-scientists-cant-wait-for-whats-next",
+      "pubDate": "2026-04-07T12:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 mission brought astronauts to the moon on Monday (April 6), and the implications are far-reaching both scientifically and emotionally."
+    },
     {
       "title": "Moon milestones: A rundown of Artemis 2's many spaceflight firsts",
       "link": "https://www.space.com/space-exploration/artemis/moon-milestones-a-rundown-of-artemis-2s-many-spaceflight-firsts",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-03T13:00:00.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis Program seeks to place American boots close to the moon's south pole."
-    },
-    {
-      "title": "NASA's Artemis 2 astronauts are cruising to the moon. So why are they doing CPR tests today?",
-      "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-are-cruising-to-the-moon-so-why-are-they-doing-cpr-tests-today",
-      "pubDate": "2026-04-03T11:16:06.000Z",
-      "source": "Space.com",
-      "description": "After an action-packed first two days, Flight Day 3 may bring a more relaxed pace for the Artemis 2 moon astronauts."
     }
   ]
 }
