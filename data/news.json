@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-07T17:47:28.721Z",
+  "fetchedAt": "2026-04-07T18:45:09.847Z",
   "articles": [
+    {
+      "title": "Relive Artemis 2's epic moon flyby with these amazing photos",
+      "link": "https://www.space.com/space-exploration/artemis/relive-artemis-2s-epic-moon-flyby-with-these-amazing-photos",
+      "pubDate": "2026-04-07T18:00:59.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 astronauts chronicled their historic loop around the moon on Monday (April 7) in great detail. Take a look at their stunning images here."
+    },
+    {
+      "title": "Experience the Rollout of SLS Hardware for Artemis III",
+      "link": "https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/",
+      "pubDate": "2026-04-07T17:52:09.000Z",
+      "source": "NASA News",
+      "description": "Digital creators and social media users are invited to register to attend the rollout of the third SLS (Space Launch System) core stage as it is prepped to head from NASA’s Michoud Assembly Facility to NASA’s Kennedy Space Center. Are you passionate about social media and communications? Do you love"
+    },
     {
       "title": "Artemis 2 captures historic 'Earthset' photo | Space photo of the day for April 7, 2026",
       "link": "https://www.space.com/space-exploration/human-spaceflight/artemis-2-captures-historic-earthset-photo-space-photo-of-the-day-for-april-7-2026",
@@ -303,13 +317,6 @@
       "description": "On Episode 204 of This Week In Space, Rod Pyle and Tariq Malik bring it to you from Houston, as the Artemis 2 mission continues."
     },
     {
-      "title": "Illuminated in Orion",
-      "link": "https://www.nasa.gov/image-article/illuminated-in-orion/",
-      "pubDate": "2026-04-04T15:07:46.000Z",
-      "source": "NASA News",
-      "description": "NASA astronaut Christina Koch reads on a tablet in the dimly lit Orion crew capsule in this April 3, 2026, photo. To the right of the image&#8217;s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion&#8217;s windows. Lights are turned off to avo"
-    },
-    {
       "title": "An Artemis 2 astronaut took a 'bath' on camera on the way to the moon. Mission Control's reaction was priceless (video)",
       "link": "https://www.space.com/space-exploration/artemis/an-artemis-2-astronaut-took-a-bath-on-camera-on-the-way-to-the-moon-mission-controls-reaction-was-priceless-video",
       "pubDate": "2026-04-04T11:00:00.000Z",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-03T22:25:31.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis 2 moon mission will get a maximum of 252,757 miles (406,773 kilometers) from Earth on April 6, breaking the mark set by Apollo 13 in April 1970."
-    },
-    {
-      "title": "Astronauts on the ISS watched NASA's historic Artemis 2 launch from space",
-      "link": "https://www.space.com/space-exploration/missions/astronauts-on-the-iss-watched-nasas-historic-artemis-2-launch-from-space",
-      "pubDate": "2026-04-03T22:00:00.000Z",
-      "source": "Space.com",
-      "description": "From the ground to low Earth orbit, the Artemis 2 launch became a shared moment across the planet and beyond."
     }
   ]
 }
