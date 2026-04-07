@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-07T06:13:03.081Z",
+  "fetchedAt": "2026-04-07T08:04:48.403Z",
   "articles": [
+    {
+      "title": "'This is really big stuff.' Trump hails NASA Artemis 2 astronauts after historic moon flyby feat",
+      "link": "https://www.space.com/space-exploration/artemis/this-is-really-big-stuff-trump-hails-nasa-artemis-2-astronauts-after-historic-moon-flyby-feat",
+      "pubDate": "2026-04-07T06:39:52.000Z",
+      "source": "Space.com",
+      "description": "President Donald Trump on Monday night (April 6) hailed the courage and grit of NASA's Artemis 2 astronauts after their historic flyby around the moon."
+    },
     {
       "title": "Artemis II Flight Day 6: Crew Wraps Historic Lunar Flyby",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-crew-wraps-historic-lunar-flyby/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-03T03:46:22.000Z",
       "source": "NASASpaceflight",
       "description": "In a historic milestone more than 50 years in the making, NASA’s Orion spacecraft Integrity&#8230; The post Artemis II Orion performs TLI Burn — Now headed to the Moon appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "Artemis 2 heads to the moon",
-      "link": "https://spacenews.com/artemis-2-heads-to-the-moon/",
-      "pubDate": "2026-04-03T02:30:13.000Z",
-      "source": "SpaceNews",
-      "description": "NASA’s Artemis 2 mission is on its way to the moon after a successful maneuver April 2. The post Artemis 2 heads to the moon appeared first on SpaceNews."
     }
   ]
 }
