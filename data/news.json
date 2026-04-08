@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-08T09:57:53.672Z",
+  "fetchedAt": "2026-04-08T10:53:21.909Z",
   "articles": [
+    {
+      "title": "Artemis 2 science gets underway as Orion begins its return trip",
+      "link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
+      "pubDate": "2026-04-08T10:23:16.000Z",
+      "source": "SpaceNews",
+      "description": "As Artemis 2 begins its return to Earth, scientists are just starting to review the images and observations taken by the crew as they flew around the moon. The post Artemis 2 science gets underway as Orion begins its return trip appeared first on SpaceNews."
+    },
+    {
+      "title": "'It just made it even more special': Being so far from Earth makes you appreciate our planet even more, Artemis 2 astronaut says",
+      "link": "https://www.space.com/space-exploration/artemis/it-just-made-it-even-more-special-being-so-far-from-earth-makes-you-appreciate-our-planet-even-more-artemis-2-astronaut-says",
+      "pubDate": "2026-04-08T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "Seeing Earth from space changes your perspective. And this \"overview effect\" is magnified when you're looking back from beyond the moon, according to Artemis 2's Christina Koch."
+    },
     {
       "title": "Artemis II Flight Day 7: First Return Correction Burn Complete",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/07/artemis-ii-flight-day-7-first-return-correction-burn-complete/",
@@ -336,20 +350,6 @@
       "pubDate": "2026-04-04T10:00:00.000Z",
       "source": "Space.com",
       "description": "The Artemis 2 astronauts are the first people to journey toward the moon since 1972. Why has it taken us more than half a century to go back?"
-    },
-    {
-      "title": "Artemis 2 in good shape cruising towards the moon",
-      "link": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
-      "pubDate": "2026-04-04T01:18:26.000Z",
-      "source": "SpaceNews",
-      "description": "A day after lighting its engine to head to the moon, the Artemis 2 Orion spacecraft is performing well with only minor issues. The post Artemis 2 in good shape cruising towards the moon appeared first on SpaceNews."
-    },
-    {
-      "title": "It's official: NASA's Artemis 2 moon mission will break humanity's all-time distance record",
-      "link": "https://www.space.com/space-exploration/artemis/its-official-nasas-artemis-2-moon-mission-will-break-humanitys-all-time-distance-record",
-      "pubDate": "2026-04-03T22:25:31.000Z",
-      "source": "Space.com",
-      "description": "NASA's Artemis 2 moon mission will get a maximum of 252,757 miles (406,773 kilometers) from Earth on April 6, breaking the mark set by Apollo 13 in April 1970."
     }
   ]
 }
