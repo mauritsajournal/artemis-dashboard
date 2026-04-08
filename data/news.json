@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-08T17:57:59.133Z",
+  "fetchedAt": "2026-04-08T19:09:53.227Z",
   "articles": [
+    {
+      "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
+      "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/",
+      "pubDate": "2026-04-08T18:13:42.000Z",
+      "source": "NASA News",
+      "description": "Twin control rooms at NASA’s Marshall Space Flight Center in Huntsville, Alabama, are actively supporting real-time mission operations in lunar orbit as part of the agency’s Artemis II mission, helping ensure astronaut safety and mission success as the crew prepares to return to Earth Friday, April"
+    },
     {
       "title": "Solar Eclipse of the Heart",
       "link": "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-04T18:30:18.000Z",
       "source": "Space.com",
       "description": "The astronauts on NASA's Artemis 2 moon mission reported a burning smell from their Orion spacecraft toilet overnight, but Mission Control isn't overly concerned. They are over halfway to the moon today."
-    },
-    {
-      "title": "This Week In Space podcast: Episode 204 — A New NASA",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-204-a-new-nasa",
-      "pubDate": "2026-04-04T15:12:07.000Z",
-      "source": "Space.com",
-      "description": "On Episode 204 of This Week In Space, Rod Pyle and Tariq Malik bring it to you from Houston, as the Artemis 2 mission continues."
     }
   ]
 }
