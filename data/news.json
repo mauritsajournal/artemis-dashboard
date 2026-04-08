@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-08T19:09:53.227Z",
+  "fetchedAt": "2026-04-08T20:32:13.050Z",
   "articles": [
     {
       "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
@@ -83,7 +83,7 @@
       "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/",
       "pubDate": "2026-04-07T20:44:05.000Z",
       "source": "NASA News",
-      "description": "The first flyby images of the Moon captured by NASA&#8217;s Artemis II astronauts during their historic test flight reveal some regions no human has seen, including a rare in-space solar eclipse. Released Tuesday, astronauts captured the images April 6 during the mission’s seven-hour flyby of the lu"
+      "description": "Editor’s note: Some photo captions were updated on April 8, 2026, to reflect ongoing scientific observations and discussion about the images. The first flyby images of the Moon captured by NASA&#8217;s Artemis II astronauts during their historic test flight reveal some regions no human has seen, inc"
     },
     {
       "title": "Earthset",
@@ -254,13 +254,6 @@
       "description": "Glover's achievement is worth celebrating. But it's also worth remembering that he belongs to a long and underappreciated history."
     },
     {
-      "title": "Artemis 2 ready to fly around the moon",
-      "link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
-      "pubDate": "2026-04-06T11:21:26.000Z",
-      "source": "SpaceNews",
-      "description": "The Artemis 2 mission will swing around the moon April 6, setting a distance record as astronauts study part of the lunar farside. The post Artemis 2 ready to fly around the moon appeared first on SpaceNews."
-    },
-    {
       "title": "NASA Artemis 2 astronauts to make historic moon flyby today. Here's what to expect hour by hour (timeline)",
       "link": "https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline",
       "pubDate": "2026-04-06T09:00:00.000Z",
@@ -350,6 +343,13 @@
       "pubDate": "2026-04-04T18:30:18.000Z",
       "source": "Space.com",
       "description": "The astronauts on NASA's Artemis 2 moon mission reported a burning smell from their Orion spacecraft toilet overnight, but Mission Control isn't overly concerned. They are over halfway to the moon today."
+    },
+    {
+      "title": "This Week In Space podcast: Episode 204 — A New NASA",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-204-a-new-nasa",
+      "pubDate": "2026-04-04T15:12:07.000Z",
+      "source": "Space.com",
+      "description": "On Episode 204 of This Week In Space, Rod Pyle and Tariq Malik bring it to you from Houston, as the Artemis 2 mission continues."
     }
   ]
 }
