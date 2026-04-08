@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-08T04:27:24.789Z",
+  "fetchedAt": "2026-04-08T06:15:05.490Z",
   "articles": [
     {
       "title": "Artemis II Flight Day 7: First Return Correction Burn Complete",
@@ -70,6 +70,13 @@
       "pubDate": "2026-04-07T14:00:00.000Z",
       "source": "Space.com",
       "description": "Artemis 2 astronauts witness a rare solar eclipse from beyond the moon during their historic lunar flyby."
+    },
+    {
+      "title": "NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.",
+      "link": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
+      "pubDate": "2026-04-07T13:00:00.000Z",
+      "source": "SpaceNews",
+      "description": "Newly anointed NASA Administrator Jared Isaacman made a $20 billion announcement on March 24, 2026. To the delight of space enthusiasts everywhere, Isaacman said NASA was cancelling its project to deploy a space station in lunar orbit and would reorient to building a $20 billion base on the surface"
     },
     {
       "title": "The Artemis 2 astronauts just flew by the moon. Lunar scientists can't wait for what's next",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-03T22:25:31.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis 2 moon mission will get a maximum of 252,757 miles (406,773 kilometers) from Earth on April 6, breaking the mark set by Apollo 13 in April 1970."
-    },
-    {
-      "title": "Astronauts on the ISS watched NASA's historic Artemis 2 launch from space",
-      "link": "https://www.space.com/space-exploration/missions/astronauts-on-the-iss-watched-nasas-historic-artemis-2-launch-from-space",
-      "pubDate": "2026-04-03T22:00:00.000Z",
-      "source": "Space.com",
-      "description": "From the ground to low Earth orbit, the Artemis 2 launch became a shared moment across the planet and beyond."
     }
   ]
 }
