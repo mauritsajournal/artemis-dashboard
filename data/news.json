@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-08T01:17:44.677Z",
+  "fetchedAt": "2026-04-08T04:27:24.789Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 7: First Return Correction Burn Complete",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/07/artemis-ii-flight-day-7-first-return-correction-burn-complete/",
+      "pubDate": "2026-04-08T01:54:33.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "At&#160;8:03 p.m. EDT, the Orion spacecraft, named Integrity, ignited its thrusters for&#160;15&#160;seconds, producing a change in velocity of&#160;1.6&#160;feet-per-second&#160;and&#160;guiding the&#160;Artemis II&#160;crew toward Earth.&#160;NASA astronaut&#160;Christina Koch&#160;and&#160;CSA (C"
+    },
     {
       "title": "The Artemis 2 space toilet is actually working fine. But there is another problem",
       "link": "https://www.space.com/space-exploration/artemis/the-artemis-2-space-toilet-is-actually-working-fine-but-there-is-another-problem",
@@ -63,13 +70,6 @@
       "pubDate": "2026-04-07T14:00:00.000Z",
       "source": "Space.com",
       "description": "Artemis 2 astronauts witness a rare solar eclipse from beyond the moon during their historic lunar flyby."
-    },
-    {
-      "title": "NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.",
-      "link": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
-      "pubDate": "2026-04-07T13:00:00.000Z",
-      "source": "SpaceNews",
-      "description": "Newly anointed NASA Administrator Jared Isaacman made a $20 billion announcement on March 24, 2026. To the delight of space enthusiasts everywhere, Isaacman said NASA was cancelling its project to deploy a space station in lunar orbit and would reorient to building a $20 billion base on the surface"
     },
     {
       "title": "The Artemis 2 astronauts just flew by the moon. Lunar scientists can't wait for what's next",
@@ -175,13 +175,6 @@
       "pubDate": "2026-04-06T15:29:14.000Z",
       "source": "NASA News",
       "description": "On April 6, 2026, the crew of Artemis II reached a milestone, traveling farther than any humans in recorded history, as they orbited the far side of the Moon, roughly 4,000 miles above the lunar surface. You can rewatch this historic broadcast on NASA’s YouTube channel or on NASA+. Be sure to celebr"
-    },
-    {
-      "title": "The Near Side of the Moon",
-      "link": "https://www.nasa.gov/image-article/the-near-side-of-the-moon/",
-      "pubDate": "2026-04-06T14:59:19.000Z",
-      "source": "NASA News",
-      "description": "The astronauts aboard NASA&#8217;s Orion spacecraft captured this photo of the Moon&#8217;s near side on April 4, 2026. The image features dark patches at center and right; these are ancient lava flows, which are unique to this side of the Moon. The Artemis II astronauts – astronauts Victor Glover,"
     },
     {
       "title": "Artemis II Flight Day 6: Crew Ready for Lunar Flyby",
@@ -338,18 +331,25 @@
       "description": "The Artemis 2 astronauts are the first people to journey toward the moon since 1972. Why has it taken us more than half a century to go back?"
     },
     {
-      "title": "Artemis II Flight Day 3: Crew Prepares Cabin for Lunar Flyby",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/04/artemis-ii-flight-day-3-crew-prepares-cabin-for-lunar-flyby/",
-      "pubDate": "2026-04-04T04:00:19.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The Artemis II mission is more than halfway to the Moon. After cancellation of the first outbound trajectory correction burn, the Artemis II crew began preparing the Orion spacecraft’s cabin for the lunar observation period on Monday, April 6, at approximately 2:30 p.m. Additionally, crew members ha"
-    },
-    {
       "title": "Artemis 2 in good shape cruising towards the moon",
       "link": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
       "pubDate": "2026-04-04T01:18:26.000Z",
       "source": "SpaceNews",
       "description": "A day after lighting its engine to head to the moon, the Artemis 2 Orion spacecraft is performing well with only minor issues. The post Artemis 2 in good shape cruising towards the moon appeared first on SpaceNews."
+    },
+    {
+      "title": "It's official: NASA's Artemis 2 moon mission will break humanity's all-time distance record",
+      "link": "https://www.space.com/space-exploration/artemis/its-official-nasas-artemis-2-moon-mission-will-break-humanitys-all-time-distance-record",
+      "pubDate": "2026-04-03T22:25:31.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 moon mission will get a maximum of 252,757 miles (406,773 kilometers) from Earth on April 6, breaking the mark set by Apollo 13 in April 1970."
+    },
+    {
+      "title": "Astronauts on the ISS watched NASA's historic Artemis 2 launch from space",
+      "link": "https://www.space.com/space-exploration/missions/astronauts-on-the-iss-watched-nasas-historic-artemis-2-launch-from-space",
+      "pubDate": "2026-04-03T22:00:00.000Z",
+      "source": "Space.com",
+      "description": "From the ground to low Earth orbit, the Artemis 2 launch became a shared moment across the planet and beyond."
     }
   ]
 }
