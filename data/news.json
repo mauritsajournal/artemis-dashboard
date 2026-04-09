@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-04-09T12:56:45.275Z",
+  "fetchedAt": "2026-04-09T14:51:00.235Z",
   "articles": [
+    {
+      "title": "Artemis 2 astronaut poses for epic selfie | Space photo of the day for April 9, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/artemis-2-astronaut-poses-for-epic-selfie-space-photo-of-the-day-for-april-9-2026",
+      "pubDate": "2026-04-09T14:20:26.000Z",
+      "source": "Space.com",
+      "description": "Astronaut Christina Koch poses with zero-gravity indicator \"Rise\" in the viewport of the Artemis 2 Orion spacecraft."
+    },
+    {
+      "title": "What returning to lunar space means for human health",
+      "link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
+      "pubDate": "2026-04-09T13:00:00.000Z",
+      "source": "SpaceNews",
+      "description": "Preparing to send astronauts back to the moon is no small feat. Spaceflight exposes the body to both known and unknown risks, some of which are subtle, cumulative, and difficult to predict. When humans were last on the lunar surface in 1972, they stayed for just over three days. On that final missio"
+    },
+    {
+      "title": "'We all pretty much broke down right there': Inside the Artemis 2 astronauts' emotional moment near the moon",
+      "link": "https://www.space.com/space-exploration/artemis/we-all-pretty-much-broke-down-right-there-inside-the-artemis-2-astronauts-emotional-moment-near-the-moon",
+      "pubDate": "2026-04-09T13:00:00.000Z",
+      "source": "Space.com",
+      "description": "Just after they broke the human spaceflight distance record, the Artemis 2 astronauts shared a powerful moment that deepened their already profound bond."
+    },
     {
       "title": "Artemis 2 mission sends 'Kerbal Space Program' player numbers soaring to the Mun",
       "link": "https://www.space.com/entertainment/space-games/artemis-2-mission-sends-kerbal-space-program-player-numbers-soaring",
@@ -149,13 +170,6 @@
       "description": "Artemis 2 astronauts witness a rare solar eclipse from beyond the moon during their historic lunar flyby."
     },
     {
-      "title": "NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.",
-      "link": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
-      "pubDate": "2026-04-07T13:00:00.000Z",
-      "source": "SpaceNews",
-      "description": "Newly anointed NASA Administrator Jared Isaacman made a $20 billion announcement on March 24, 2026. To the delight of space enthusiasts everywhere, Isaacman said NASA was cancelling its project to deploy a space station in lunar orbit and would reorient to building a $20 billion base on the surface"
-    },
-    {
       "title": "The Artemis 2 astronauts just flew by the moon. Lunar scientists can't wait for what's next",
       "link": "https://www.space.com/astronomy/moon/nasas-artemis-2-astronauts-just-flew-by-the-moon-lunar-scientists-cant-wait-for-whats-next",
       "pubDate": "2026-04-07T12:00:00.000Z",
@@ -189,13 +203,6 @@
       "pubDate": "2026-04-07T03:35:08.000Z",
       "source": "NASASpaceflight",
       "description": "Orion spacecraft Integrity, carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen, successfully&#8230; The post Artemis II breaks record, conducts lunar flyby appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "Artemis 2 swings around the moon",
-      "link": "https://spacenews.com/artemis-2-swings-around-the-moon/",
-      "pubDate": "2026-04-07T01:51:44.000Z",
-      "source": "SpaceNews",
-      "description": "Four astronauts from the United States and Canada became the humans to travel the furthest from the Earth April 6 as they went around the moon on the Artemis 2 mission. The post Artemis 2 swings around the moon appeared first on SpaceNews."
     },
     {
       "title": "Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-04T21:57:48.000Z",
       "source": "NASASpaceflight",
       "description": "As NASA’s Artemis II mission enters its critical mid-flight phase, the Orion spacecraft—carrying the first&#8230; The post Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "Artemis 2 astronauts — now halfway to the moon — report 'burning smell' from toilet, but everything's fine",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-now-halfway-to-the-moon-report-burning-smell-from-toilet-but-everythings-fine",
-      "pubDate": "2026-04-04T18:30:18.000Z",
-      "source": "Space.com",
-      "description": "The astronauts on NASA's Artemis 2 moon mission reported a burning smell from their Orion spacecraft toilet overnight, but Mission Control isn't overly concerned. They are over halfway to the moon today."
     }
   ]
 }
