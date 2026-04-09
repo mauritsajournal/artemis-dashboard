@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-09T21:37:33.429Z",
+  "fetchedAt": "2026-04-09T22:30:26.798Z",
   "articles": [
+    {
+      "title": "I Am Artemis: Dan Florez",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/",
+      "pubDate": "2026-04-09T21:45:57.000Z",
+      "source": "NASA News",
+      "description": "Listen to this audio excerpt from Dan Florez, test director for NASA&#8217;s Exploration Ground Systems Program: At 1:47 a.m. EST November 16, 2022, as the Artemis I engines ignited, NASA astronaut Reid Wiseman and Dan Florez, NASA test director for the agency&#8217;s Exploration Ground Systems, wat"
+    },
     {
       "title": "The Artemis 2 astronauts got a private 'Project Hail Mary' screening before launch. Here's their verdict",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-artemis-2-astronauts-got-a-private-project-hail-mary-screening-before-launch-heres-their-verdict",
@@ -49,13 +56,6 @@
       "pubDate": "2026-04-09T19:06:34.000Z",
       "source": "NASA News",
       "description": "Description A container of “lucky peanuts” sits above workstations within the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory shortly before the launch of the Artemis II mission to the Moon on April 1, 2026. Eating peanuts before launches and other major mission events is a long"
-    },
-    {
-      "title": "Supporting Artemis II From JPL’s Space Flight Operations Facility",
-      "link": "https://science.nasa.gov/photojournal/supporting-artemis-ii-from-jpls-space-flight-operations-facility/",
-      "pubDate": "2026-04-09T18:57:26.000Z",
-      "source": "NASA News",
-      "description": "Description The Artemis II mission patch appears in the center screen of the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California on April 1, 2026, shortly before the mission launched to the Moon. A graphical representation of the antennas of the agency’s Deep"
     },
     {
       "title": "Watch Artemis 2 race back to Earth in this telescope livestream tonight",
