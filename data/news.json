@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-09T16:11:55.748Z",
+  "fetchedAt": "2026-04-09T17:53:00.736Z",
   "articles": [
+    {
+      "title": "Watch Artemis 2 race back to Earth in this telescope livestream tonight",
+      "link": "https://www.space.com/space-exploration/artemis/watch-artemis-2-race-back-to-earth-in-this-telescope-livestream-tonight",
+      "pubDate": "2026-04-09T16:30:00.000Z",
+      "source": "Space.com",
+      "description": "A Virtual Telescope Project livestream will track NASA's Artemis 2 Orion spacecraft as it races back toward Earth. Here's how to watch it live."
+    },
     {
       "title": "Artemis II Flight Day 9: Crew Prepares to Come Home",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-05T11:00:00.000Z",
       "source": "Space.com",
       "description": "NASA astronaut Victor Glover delivered an impromptu Easter message as his Artemis 2 Orion capsule sped toward the moon on Saturday (April 4)."
-    },
-    {
-      "title": "Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission",
-      "link": "https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/",
-      "pubDate": "2026-04-04T21:57:48.000Z",
-      "source": "NASASpaceflight",
-      "description": "As NASA’s Artemis II mission enters its critical mid-flight phase, the Orion spacecraft—carrying the first&#8230; The post Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission appeared first on NASASpaceFlight.com."
     }
   ]
 }
