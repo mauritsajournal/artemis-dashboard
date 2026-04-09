@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-09T10:02:06.826Z",
+  "fetchedAt": "2026-04-09T11:44:02.227Z",
   "articles": [
+    {
+      "title": "Artemis 2 mission sends 'Kerbal Space Program' player numbers soaring to the Mun",
+      "link": "https://www.space.com/entertainment/space-games/artemis-2-mission-sends-kerbal-space-program-player-numbers-soaring",
+      "pubDate": "2026-04-09T11:00:30.000Z",
+      "source": "Space.com",
+      "description": "Anything NASA can do, you can do too."
+    },
+    {
+      "title": "All eyes on Orion’s heat shield: Artemis 2 astronauts will hit Earth's atmosphere at nearly 24,000 mph on April 10",
+      "link": "https://www.space.com/space-exploration/artemis/all-eyes-on-orions-heat-shield-artemis-2-astronauts-will-hit-earths-atmosphere-at-a-record-breaking-25-000-mph-on-april-10",
+      "pubDate": "2026-04-09T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "Artemis 2's Orion capsule will hit Earth's atmosphere at nearly 24,000 mph on April 10. A heat shield and 11 parachutes will help it survive the fiery trip and splash down safely."
+    },
     {
       "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
       "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/",
@@ -336,20 +350,6 @@
       "pubDate": "2026-04-04T18:30:18.000Z",
       "source": "Space.com",
       "description": "The astronauts on NASA's Artemis 2 moon mission reported a burning smell from their Orion spacecraft toilet overnight, but Mission Control isn't overly concerned. They are over halfway to the moon today."
-    },
-    {
-      "title": "This Week In Space podcast: Episode 204 — A New NASA",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-204-a-new-nasa",
-      "pubDate": "2026-04-04T15:12:07.000Z",
-      "source": "Space.com",
-      "description": "On Episode 204 of This Week In Space, Rod Pyle and Tariq Malik bring it to you from Houston, as the Artemis 2 mission continues."
-    },
-    {
-      "title": "An Artemis 2 astronaut took a 'bath' on camera on the way to the moon. Mission Control's reaction was priceless (video)",
-      "link": "https://www.space.com/space-exploration/artemis/an-artemis-2-astronaut-took-a-bath-on-camera-on-the-way-to-the-moon-mission-controls-reaction-was-priceless-video",
-      "pubDate": "2026-04-04T11:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA's Artemis 2 pilot Victor Glover was cleaning up after a workout when the cameras caught a bit more than expected. Mission Control's response was priceless."
     }
   ]
 }
