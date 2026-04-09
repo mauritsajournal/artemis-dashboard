@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-09T04:23:41.584Z",
+  "fetchedAt": "2026-04-09T06:13:54.034Z",
   "articles": [
     {
       "title": "Twin NASA Control Rooms Support Artemis Safety, Success",
@@ -212,13 +212,6 @@
       "description": "As they broke the record for farthest distance from Earth ever traveled by an astronaut, NASA's Artemis 2 crew took a moment to dedicate a few features on the moon's surface for their spacecraft and lost loved ones."
     },
     {
-      "title": "NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight",
-      "link": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
-      "pubDate": "2026-04-06T19:46:20.000Z",
-      "source": "NASA News",
-      "description": "Editor&#8217;s note: This release was updated at 7:28 p.m. EDT on April 6, 2026, to reflect Orion&#8217;s final closest approach to the lunar surface from about 4,070 miles to about 4,067 miles. NASA also updated the farthest distance Orion will travel. Finally, NASA also made changes at 10 p.m. to"
-    },
-    {
       "title": "Artemis 2 breaks humanity's all-time distance record during historic loop around the moon (video)",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-breaks-humanitys-all-time-distance-record-during-historic-loop-around-the-moon",
       "pubDate": "2026-04-06T18:00:43.000Z",
@@ -350,6 +343,13 @@
       "pubDate": "2026-04-04T15:12:07.000Z",
       "source": "Space.com",
       "description": "On Episode 204 of This Week In Space, Rod Pyle and Tariq Malik bring it to you from Houston, as the Artemis 2 mission continues."
+    },
+    {
+      "title": "An Artemis 2 astronaut took a 'bath' on camera on the way to the moon. Mission Control's reaction was priceless (video)",
+      "link": "https://www.space.com/space-exploration/artemis/an-artemis-2-astronaut-took-a-bath-on-camera-on-the-way-to-the-moon-mission-controls-reaction-was-priceless-video",
+      "pubDate": "2026-04-04T11:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 pilot Victor Glover was cleaning up after a workout when the cameras caught a bit more than expected. Mission Control's response was priceless."
     }
   ]
 }
