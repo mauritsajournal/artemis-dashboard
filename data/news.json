@@ -1,6 +1,27 @@
 {
-  "fetchedAt": "2026-04-10T01:18:42.009Z",
+  "fetchedAt": "2026-04-10T04:37:35.976Z",
   "articles": [
+    {
+      "title": "Artemis II closing in on Earth return",
+      "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/",
+      "pubDate": "2026-04-10T04:20:42.000Z",
+      "source": "NASASpaceflight",
+      "description": "After a groundbreaking 10-day mission that carried humans farther from Earth than ever before, the&#8230; The post Artemis II closing in on Earth return appeared first on NASASpaceFlight.com."
+    },
+    {
+      "title": "Artemis II Flight Day 9: Second Return Correction Burn Complete",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-9-second-return-correction-burn-complete/",
+      "pubDate": "2026-04-10T04:02:17.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "At 10:53 p.m. EDT, the Orion spacecraft ignited its thrusters for 9 seconds, producing an acceleration in velocity of 5.3 feet-per-second and pushing the Artemis II crew toward Earth. The crew is now more than halfway home."
+    },
+    {
+      "title": "Earthset From the Lunar Far Side",
+      "link": "https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/",
+      "pubDate": "2026-04-10T04:00:00.000Z",
+      "source": "NASA News",
+      "description": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon."
+    },
     {
       "title": "I Am Artemis: Dan Florez",
       "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/",
@@ -49,13 +70,6 @@
       "pubDate": "2026-04-09T19:12:04.000Z",
       "source": "NASA News",
       "description": "Description Staff at NASA’s Jet Propulsion Laboratory in Southern California watch the launch of the agency’s Artemis II mission to the Moon on April 1, 2026, at the Space Flight Operations Facility, which operates the Deep Space Network (DSN). Soon after launch, the Artemis II crew communicated wit"
-    },
-    {
-      "title": "JPL’s ‘Lucky Peanuts’ Before Artemis II Launch",
-      "link": "https://science.nasa.gov/photojournal/jpls-lucky-peanuts-before-artemis-ii-launch/",
-      "pubDate": "2026-04-09T19:06:34.000Z",
-      "source": "NASA News",
-      "description": "Description A container of “lucky peanuts” sits above workstations within the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory shortly before the launch of the Artemis II mission to the Moon on April 1, 2026. Eating peanuts before launches and other major mission events is a long"
     },
     {
       "title": "Watch Artemis 2 race back to Earth in this telescope livestream tonight",
@@ -336,20 +350,6 @@
       "pubDate": "2026-04-05T19:00:00.000Z",
       "source": "Space.com",
       "description": "The four Artemis 2 astronauts will see a solar eclipse from beyond the moon's far side on Monday evening (April 6), and they'll use the opportunity to make some science observations."
-    },
-    {
-      "title": "The breakout star of NASA's Artemis 2 moon mission isn't an astronaut — it's the space toilet",
-      "link": "https://www.space.com/space-exploration/artemis/the-breakout-star-of-nasas-artemis-2-mission-to-the-moon-isnt-an-astronaut-its-the-space-toilet",
-      "pubDate": "2026-04-05T17:09:54.000Z",
-      "source": "Space.com",
-      "description": "The on-again, off-again lunar loo allows astronauts to \"go\" at the moon like no one's gone before."
-    },
-    {
-      "title": "Artemis II Flight Day 5: Crew Starts Day with Suit Demo",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-crew-starts-day-with-suit-demo/",
-      "pubDate": "2026-04-05T16:16:32.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The morning opened to the beat of “Working Class Heroes (Work)” by CeeLo Green as the Artemis II crew, now flying about 65,235 miles from the Moon, began preparations for their first test objective: an evaluation of the Orion Crew Survival System suit. The crew also heard a special message from Apol"
     }
   ]
 }
