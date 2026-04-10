@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-10T22:26:03.077Z",
+  "fetchedAt": "2026-04-10T23:25:29.114Z",
   "articles": [
+    {
+      "title": "Artemis II Flight Day 10: Re-Entry Live Updates",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/",
+      "pubDate": "2026-04-10T22:26:16.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Live re-entry updates for NASA’s Artemis II mission will be published on this page.&#160;All times are Eastern. 7:15 p.m. The Artemis II Orion spacecraft completed its handover from NASA’s Deep Space Network to the Near Space Network’s Tracking and Data Relay Satellite system, ensuring continuous co"
+    },
     {
       "title": "Artemis II Flight Day 10: Crew Completes Final Burn Before Splashdown",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-crew-completes-final-burn-before-splashdown/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-06T21:54:20.000Z",
       "source": "Space.com",
       "description": "Artemis 2 wake-up songs are mission control's way of starting the crew's day off with positivity. Here's the Spotify playlist."
-    },
-    {
-      "title": "Moon memorial: Artemis 2 astronauts name lunar 'bright spot' after mission commander's late wife",
-      "link": "https://www.space.com/space-exploration/artemis/moon-memorial-artemis-2-astronauts-name-lunar-bright-spot-after-mission-commanders-late-wife",
-      "pubDate": "2026-04-06T20:17:26.000Z",
-      "source": "Space.com",
-      "description": "As they broke the record for farthest distance from Earth ever traveled by an astronaut, NASA's Artemis 2 crew took a moment to dedicate a few features on the moon's surface for their spacecraft and lost loved ones."
     }
   ]
 }
