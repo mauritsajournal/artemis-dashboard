@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-10T11:39:23.148Z",
+  "fetchedAt": "2026-04-10T12:42:46.000Z",
   "articles": [
+    {
+      "title": "China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission",
+      "link": "https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/",
+      "pubDate": "2026-04-10T11:52:13.000Z",
+      "source": "SpaceNews",
+      "description": "China’s multi-element Chang’e-7 lunar spacecraft has arrived at Wenchang spaceport for launch preparations ahead of a planned liftoff in the second half of 2026. The post China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission appeared first on SpaceNews."
+    },
     {
       "title": "NASA prepares for Artemis 2 return",
       "link": "https://spacenews.com/nasa-prepares-for-artemis-2-return/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-06T13:00:00.000Z",
       "source": "Space.com",
       "description": "Glover's achievement is worth celebrating. But it's also worth remembering that he belongs to a long and underappreciated history."
-    },
-    {
-      "title": "NASA Artemis 2 astronauts to make historic moon flyby today. Here's what to expect hour by hour (timeline)",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-artemis-2-astronauts-to-make-historic-moon-flyby-today-heres-what-to-expect-hour-by-hour-timeline",
-      "pubDate": "2026-04-06T09:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA's Artemis 2 astronauts will make a historic moon flyby today (April 6). Here's how it will happen, hour by hour."
     }
   ]
 }
