@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-04-10T09:59:21.696Z",
+  "fetchedAt": "2026-04-10T10:54:54.702Z",
   "articles": [
+    {
+      "title": "Watch NASA's Artemis 2 astronauts return to Earth live online today (April 10)",
+      "link": "https://www.space.com/space-exploration/artemis/watch-nasa-artemis-2-astronauts-return-to-earth-live-online-today-april-10",
+      "pubDate": "2026-04-10T10:45:00.000Z",
+      "source": "Space.com",
+      "description": "Live coverage of Artemis 2's splashdown begins this evening as four astronauts return from their historic 10-day mission around the moon."
+    },
+    {
+      "title": "Where will NASA's Artemis 2 moon mission land today?",
+      "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-mission-is-coming-home-today-where-will-it-land",
+      "pubDate": "2026-04-10T10:30:00.000Z",
+      "source": "Space.com",
+      "description": "The Artemis 2 astronauts will return to Earth this evening (April 10) with a splashdown in the Pacific Ocean. Here's where they'll hit the water, and why that spot was chosen."
+    },
+    {
+      "title": "What time is NASA's Artemis 2 moon mission landing today? Full schedule",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-mission-landing-what-time",
+      "pubDate": "2026-04-10T10:15:00.000Z",
+      "source": "Space.com",
+      "description": "Artemis 2 splashes down on April 10. Here's everything you need to know."
+    },
+    {
+      "title": "Artemis 2 moon astronauts splash down today — What to expect at each stage of reentry & landing (timeline)",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-splashdown-what-to-expect-reentry-landing-timeline",
+      "pubDate": "2026-04-10T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "It's splashdown day for NASA's Artemis 2 moon astronauts. Here's what to expect at every stage."
+    },
     {
       "title": "Artemis II closing in on Earth return",
       "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/",
@@ -322,34 +350,6 @@
       "pubDate": "2026-04-06T05:00:15.000Z",
       "source": "Space.com",
       "description": "The four astronauts of NASA's Artemis 2 mission have arrived at the moon. They entered the lunar sphere of influence early Monday morning (April 6)."
-    },
-    {
-      "title": "Artemis II Flight Day 5: Correction Burn Complete",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-correction-burn-complete/",
-      "pubDate": "2026-04-06T03:50:11.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "Mission control teams&#160;in Houston and the Artemis II crew completed an outbound correction burn to refine the Orion spacecraft’s&#160;trajectory to the Moon. The burn began at&#160;11:03 p.m.&#160;EDT&#160;and lasted&#160;17.5&#160;seconds. NASA astronauts Reid Wiseman, Victor Glover, and Christ"
-    },
-    {
-      "title": "When the moon hits your eye from your Orion ship up high, that's a 'mare' for Artemis 2",
-      "link": "https://www.space.com/space-exploration/artemis/when-the-moon-hits-your-eye-from-your-orion-ship-up-high-thats-a-mare",
-      "pubDate": "2026-04-06T00:09:06.000Z",
-      "source": "Space.com",
-      "description": "The four Artemis 2 astronauts had a chance to observe the moon this weekend, and to say they were thrilled may be an understatement of cosmic proportions."
-    },
-    {
-      "title": "Artemis II Flight Day 5: Crew Demos Suits, Readies for Lunar Flyby",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/05/artemis-ii-flight-day-5-crew-demos-suits-readies-for-lunar-flyby/",
-      "pubDate": "2026-04-05T21:46:40.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The Artemis II crew of NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, continue their workday aboard the Orion spacecraft."
-    },
-    {
-      "title": "Artemis 2 astronauts are about to see one of the rarest skywatching sights of all — a solar eclipse from beyond the moon",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-are-about-to-see-one-of-the-rarest-skywatching-sights-of-all-a-solar-eclipse-from-beyond-the-moon",
-      "pubDate": "2026-04-05T19:00:00.000Z",
-      "source": "Space.com",
-      "description": "The four Artemis 2 astronauts will see a solar eclipse from beyond the moon's far side on Monday evening (April 6), and they'll use the opportunity to make some science observations."
     }
   ]
 }
