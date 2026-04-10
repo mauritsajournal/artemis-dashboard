@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-10T16:39:32.337Z",
+  "fetchedAt": "2026-04-10T17:39:51.847Z",
   "articles": [
+    {
+      "title": "The Artemis 2 astronauts saw a rare solar eclipse from beyond the moon. Here's what it looked like",
+      "link": "https://www.space.com/space-exploration/artemis/the-artemis-2-astronauts-saw-a-rare-solar-eclipse-from-beyond-the-moon-heres-what-it-looked-like",
+      "pubDate": "2026-04-10T17:18:28.000Z",
+      "source": "Space.com",
+      "description": "A newly released NASA timelapse reveals the moon crossing the sun as seen from deep space, giving the Artemis 2 crew a rare extended view of totality and the solar corona."
+    },
     {
       "title": "New Perspective of Home",
       "link": "https://www.nasa.gov/image-article/new-perspective-of-home/",
@@ -224,13 +231,6 @@
       "pubDate": "2026-04-08T13:00:00.000Z",
       "source": "Space.com",
       "description": "The Artemis 2 astronauts are capturing spectacular photos of the moon and Earth on their iPhones in space."
-    },
-    {
-      "title": "Artemis 2 science gets underway as Orion begins its return trip",
-      "link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
-      "pubDate": "2026-04-08T10:23:16.000Z",
-      "source": "SpaceNews",
-      "description": "As Artemis 2 begins its return to Earth, scientists are just starting to review the images and observations taken by the crew as they flew around the moon. The post Artemis 2 science gets underway as Orion begins its return trip appeared first on SpaceNews."
     },
     {
       "title": "'It just made it even more special': Being so far from Earth makes you appreciate our planet even more, Artemis 2 astronaut says",
