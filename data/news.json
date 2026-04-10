@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-10T15:40:33.241Z",
+  "fetchedAt": "2026-04-10T16:39:32.337Z",
   "articles": [
+    {
+      "title": "New Perspective of Home",
+      "link": "https://www.nasa.gov/image-article/new-perspective-of-home/",
+      "pubDate": "2026-04-10T16:33:43.000Z",
+      "source": "NASA News",
+      "description": "Seen during Artemis II&#8217;s lunar flyby on April 6, 2026, the Moon and Earth align in the same frame, each partially illuminated by the Sun. The Moon’s surface appears in sharp detail in the foreground, while Earth sits much farther away, smaller and softly lit in the background. A faint reflecti"
+    },
     {
       "title": "Artemis II Flight Day 10: Crew Sets for Final Burn, Splashdown",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-crew-sets-for-final-burn-splashdown/",
@@ -51,7 +58,7 @@
       "description": "Live coverage of Artemis 2's splashdown begins this evening as four astronauts return from their historic 10-day mission around the moon."
     },
     {
-      "title": "Where will NASA's Artemis 2 moon mission land today?",
+      "title": "Where will NASA's Artemis 2 moon astronauts make their splashdown today?",
       "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-mission-is-coming-home-today-where-will-it-land",
       "pubDate": "2026-04-10T10:30:00.000Z",
       "source": "Space.com",
@@ -133,13 +140,6 @@
       "pubDate": "2026-04-09T19:17:20.000Z",
       "source": "NASA News",
       "description": "Description Blanca Renteria, Artemis Deep Space Network (DSN) operations chief, monitors data at the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California shortly after Artemis II launched from the agency’s Kennedy Space Flight Center in Florida on April 1, 2026"
-    },
-    {
-      "title": "Watching the Artemis II Launch From JPL’s Space Flight Operations Facility",
-      "link": "https://science.nasa.gov/photojournal/watching-the-artemis-ii-launch-from-jpls-space-flight-operations-facility/",
-      "pubDate": "2026-04-09T19:12:04.000Z",
-      "source": "NASA News",
-      "description": "Description Staff at NASA’s Jet Propulsion Laboratory in Southern California watch the launch of the agency’s Artemis II mission to the Moon on April 1, 2026, at the Space Flight Operations Facility, which operates the Deep Space Network (DSN). Soon after launch, the Artemis II crew communicated wit"
     },
     {
       "title": "Watch Artemis 2 race back to Earth in this telescope livestream tonight",
