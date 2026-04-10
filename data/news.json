@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-10T10:54:54.702Z",
+  "fetchedAt": "2026-04-10T11:39:23.148Z",
   "articles": [
+    {
+      "title": "NASA prepares for Artemis 2 return",
+      "link": "https://spacenews.com/nasa-prepares-for-artemis-2-return/",
+      "pubDate": "2026-04-10T11:31:26.000Z",
+      "source": "SpaceNews",
+      "description": "The Artemis 2 mission is set for a final, fiery test when the spacecraft reenters April 10 ahead of a splashdown off the California coast. The post NASA prepares for Artemis 2 return appeared first on SpaceNews."
+    },
     {
       "title": "Watch NASA's Artemis 2 astronauts return to Earth live online today (April 10)",
       "link": "https://www.space.com/space-exploration/artemis/watch-nasa-artemis-2-astronauts-return-to-earth-live-online-today-april-10",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-06T09:00:00.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis 2 astronauts will make a historic moon flyby today (April 6). Here's how it will happen, hour by hour."
-    },
-    {
-      "title": "Humanity is back at the moon! Artemis 2 astronauts arrive in lunar space",
-      "link": "https://www.space.com/space-exploration/artemis/humanity-is-back-at-the-moon-artemis-2-astronauts-arrive-in-lunar-space",
-      "pubDate": "2026-04-06T05:00:15.000Z",
-      "source": "Space.com",
-      "description": "The four astronauts of NASA's Artemis 2 mission have arrived at the moon. They entered the lunar sphere of influence early Monday morning (April 6)."
     }
   ]
 }
