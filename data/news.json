@@ -1,12 +1,33 @@
 {
-  "fetchedAt": "2026-04-10T23:25:29.114Z",
+  "fetchedAt": "2026-04-11T01:13:49.167Z",
   "articles": [
     {
-      "title": "Artemis II Flight Day 10: Re-Entry Live Updates",
+      "title": "Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission",
+      "link": "https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/",
+      "pubDate": "2026-04-11T00:41:38.000Z",
+      "source": "SpaceNews",
+      "description": "East Aurora, NY &#8211; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, highlights the critical [&#8230;] The post Moog Technology Keeps Artemis II Astronauts Safe During Histor"
+    },
+    {
+      "title": "Splashdown! Artemis 2 astronauts return to Earth after historic NASA mission to the moon",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission",
+      "pubDate": "2026-04-11T00:24:52.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 astronauts came home today (April 10), wrapping up an epic mission that broke spaceflight records and set the stage for even more ambitious moonshots to come."
+    },
+    {
+      "title": "Orion splashes down to successfully end Artemis 2 mission",
+      "link": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
+      "pubDate": "2026-04-11T00:16:13.000Z",
+      "source": "SpaceNews",
+      "description": "The first human mission beyond Earth orbit in more than 50 years successfully concluded with a splashdown in the Pacific Ocean April 10. The post Orion splashes down to successfully end Artemis 2 mission appeared first on SpaceNews."
+    },
+    {
+      "title": "Artemis II Flight Day 10: Live Re-Entry Updates",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/",
       "pubDate": "2026-04-10T22:26:16.000Z",
       "source": "NASA Artemis Blog",
-      "description": "Live re-entry updates for NASA’s Artemis II mission will be published on this page.&#160;All times are Eastern. 7:15 p.m. The Artemis II Orion spacecraft completed its handover from NASA’s Deep Space Network to the Near Space Network’s Tracking and Data Relay Satellite system, ensuring continuous co"
+      "description": "Live re-entry updates for NASA’s Artemis II mission will be published on this page.&#160;All times are Eastern. 8:12 p.m. At the direction of the NASA recovery director, team members from the agency and the U.S. military now are approaching the spacecraft in inflatable boats. Approximately an hour a"
     },
     {
       "title": "Artemis II Flight Day 10: Crew Completes Final Burn Before Splashdown",
@@ -37,11 +58,11 @@
       "description": "The Artemis II crew — NASA astronauts Reid Wiseman, Victor Glover, Christina Koch and CSA (Canadian Space Agency) astronaut Jeremy Hansen — began the final phase of their journey home to the songs “Run to the Water” by Live, selected by the crew, and “Free” by Zac Brown Band, as they prepared for th"
     },
     {
-      "title": "Artemis II set for return to Earth after historic 10-day mission around the Moon",
+      "title": "Artemis II returns to Earth after historic 10-day mission around the Moon",
       "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-return/",
       "pubDate": "2026-04-10T15:16:42.000Z",
       "source": "NASASpaceflight",
-      "description": "After 10 days, over 800,000 km traveled, and a historic flyby of the Moon, Artemis&#8230; The post Artemis II set for return to Earth after historic 10-day mission around the Moon appeared first on NASASpaceFlight.com."
+      "description": "After 10 days, over 800,000 km traveled, and a historic flyby of the Moon, Artemis&#8230; The post Artemis II returns to Earth after historic 10-day mission around the Moon appeared first on NASASpaceFlight.com."
     },
     {
       "title": "NASA took this camera gear to space aboard Artemis 2, and you can own it, too!",
@@ -233,13 +254,6 @@
       "description": "The image captures the glowing ribbon of the galactic plane, where the vast majority of the Milky Way's stars are concentrated."
     },
     {
-      "title": "A lunar base or a lunar economy?",
-      "link": "https://spacenews.com/a-lunar-base-or-a-lunar-economy/",
-      "pubDate": "2026-04-08T13:00:00.000Z",
-      "source": "SpaceNews",
-      "description": "We applaud the lunar base vision laid out by NASA Administrator Jared Isaacman on March 24. Placing this stake in the lunar regolith is long overdue. What is missing from the mission architecture, however, is a vision for long-term economic development on the moon. It will be a profound missed oppor"
-    },
-    {
       "title": "Artemis 2 moon astronauts capture space history — on their iPhones",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-moon-astronauts-capture-space-history-on-their-iphones",
       "pubDate": "2026-04-08T13:00:00.000Z",
@@ -336,20 +350,6 @@
       "pubDate": "2026-04-07T01:15:56.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis 2 astronauts viewed parts of the moon never before seen with human eyes during their epic lunar flyby today (April 6) —and set a spaceflight record in the process."
-    },
-    {
-      "title": "Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California",
-      "link": "https://www.nasaspaceflight.com/2026/04/launch-preview-040626/",
-      "pubDate": "2026-04-06T22:06:24.000Z",
-      "source": "NASASpaceflight",
-      "description": "As NASA&#8217;s Artemis II mission reaches its halfway point, the launch manifest on Earth continues&#8230; The post Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "Moon music: Here's a Spotify playlist of the Artemis 2 crew's wakeup songs",
-      "link": "https://www.space.com/space-exploration/artemis/moon-music-heres-a-spotify-playlist-of-the-artemis-2-crews-wakeup-songs",
-      "pubDate": "2026-04-06T21:54:20.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2 wake-up songs are mission control's way of starting the crew's day off with positivity. Here's the Spotify playlist."
     }
   ]
 }
