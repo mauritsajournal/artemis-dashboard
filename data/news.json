@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-11T09:30:21.499Z",
+  "fetchedAt": "2026-04-11T10:22:48.530Z",
   "articles": [
+    {
+      "title": "Artemis 3 and beyond: What's next for NASA after Artemis 2 moon success",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-3-and-beyond-whats-next-for-nasa-after-artemis-2-moon-success",
+      "pubDate": "2026-04-11T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA doesn't plan to rest on its laurels after the historic success of its Artemis 2 moon mission. Here are the agency's ambitious plans for Earth's nearest neighbor."
+    },
     {
       "title": "NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth",
       "link": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-07T03:35:08.000Z",
       "source": "NASASpaceflight",
       "description": "Orion spacecraft Integrity, carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen, successfully&#8230; The post Artemis II breaks record, conducts lunar flyby appeared first on NASASpaceFlight.com."
-    },
-    {
-      "title": "Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-head-toward-earth-record-breaking-moon-flyby",
-      "pubDate": "2026-04-07T01:15:56.000Z",
-      "source": "Space.com",
-      "description": "NASA's Artemis 2 astronauts viewed parts of the moon never before seen with human eyes during their epic lunar flyby today (April 6) —and set a spaceflight record in the process."
     }
   ]
 }
