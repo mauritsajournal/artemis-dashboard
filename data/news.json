@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-11T10:22:48.530Z",
+  "fetchedAt": "2026-04-11T11:21:50.811Z",
   "articles": [
+    {
+      "title": "Artemis II Splashes Down",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-splashes-down/",
+      "pubDate": "2026-04-11T11:05:23.000Z",
+      "source": "NASA News",
+      "description": "This image from April 10, 2026, captures NASA&#8217;s Orion spacecraft, with its parachutes deployed, seconds before splashdown in the Pacific Ocean. The Artemis II crew accomplished many milestones on their nearly 10-day mission, surpassing the Apollo 13 record for farthest crewed spaceflight and c"
+    },
     {
       "title": "Artemis 3 and beyond: What's next for NASA after Artemis 2 moon success",
       "link": "https://www.space.com/space-exploration/artemis/artemis-3-and-beyond-whats-next-for-nasa-after-artemis-2-moon-success",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-07T03:46:49.000Z",
       "source": "NASA Artemis Blog",
       "description": "The Artemis II mission wrapped up a historic seven-hour lunar flyby, marking humanity’s first return to the Moon since Apollo 17 in 1972 and capturing images of the lunar far side. After the lunar observation period concluded, the Artemis II crew was congratulated by President Donald J. Trump, in a"
-    },
-    {
-      "title": "Artemis II breaks record, conducts lunar flyby",
-      "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby/",
-      "pubDate": "2026-04-07T03:35:08.000Z",
-      "source": "NASASpaceflight",
-      "description": "Orion spacecraft Integrity, carrying astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen, successfully&#8230; The post Artemis II breaks record, conducts lunar flyby appeared first on NASASpaceFlight.com."
     }
   ]
 }
