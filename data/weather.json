@@ -1,15 +1,15 @@
 {
-  "fetchedAt": "2026-04-12T09:35:56.546Z",
+  "fetchedAt": "2026-04-12T10:28:46.106Z",
   "location": {
     "lat": 28.5721,
     "lon": -80.648,
     "name": "Launch Pad 39B, Kennedy Space Center"
   },
   "current": {
-    "temperature": 16.8,
-    "windSpeed": 9.8,
-    "windGusts": 24.5,
-    "cloudCover": 0,
+    "temperature": 16.6,
+    "windSpeed": 10.1,
+    "windGusts": 27,
+    "cloudCover": 6,
     "precipitation": 0,
     "weatherCode": 0
   },
@@ -157,7 +157,7 @@
       23,
       22.2,
       21.1,
-      19.9,
+      20,
       18.8,
       18.4,
       18,
@@ -279,9 +279,9 @@
       18.1,
       15.5,
       10.9,
-      7.2,
-      7.7,
-      8.4,
+      7.1,
+      8,
+      9,
       7.6,
       9,
       9.1,
@@ -401,8 +401,8 @@
       27.7,
       27,
       26.6,
-      26,
-      26.1,
+      25.9,
+      26.6,
       28.1,
       27,
       29.9,
@@ -672,7 +672,7 @@
   "solar": {
     "kpIndex": 2.33,
     "kpTimestamp": "2026-04-12T06:00:00",
-    "solarWindSpeed": 535.2,
-    "solarWindDensity": 0.88
+    "solarWindSpeed": 498.3,
+    "solarWindDensity": 2.24
   }
 }

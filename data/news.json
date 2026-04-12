@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-12T09:35:57.991Z",
+  "fetchedAt": "2026-04-12T10:28:47.126Z",
   "articles": [
+    {
+      "title": "'The most special thing that will ever happen in my life': Artemis 2 astronauts describe their epic moon mission",
+      "link": "https://www.space.com/space-exploration/artemis/the-most-special-thing-that-will-ever-happen-in-my-life-artemis-2-astronauts-describe-their-epic-moon-mission",
+      "pubDate": "2026-04-12T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "The Artemis 2 astronauts are back on Earth, and they've begun processing their historic moon mission. But it's still tough for them to put the experience into words."
+    },
     {
       "title": "Artemis II Astronauts Back in Houston, Reunite with Families",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/11/artemis-ii-astronauts-back-in-houston-reunite-with-families/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-07T10:00:00.000Z",
       "source": "Space.com",
       "description": "You've probably heard it by now: NASA’s Artemis 2 mission was the first to launch astronauts to fly by the moon in more than 50 years. But that was just the first of the firsts for this mission."
-    },
-    {
-      "title": "'This is really big stuff.' Trump hails NASA Artemis 2 astronauts after historic moon flyby feat",
-      "link": "https://www.space.com/space-exploration/artemis/this-is-really-big-stuff-trump-hails-nasa-artemis-2-astronauts-after-historic-moon-flyby-feat",
-      "pubDate": "2026-04-07T06:39:52.000Z",
-      "source": "Space.com",
-      "description": "President Donald Trump on Monday night (April 6) hailed the courage and grit of NASA's Artemis 2 astronauts after their historic flyby around the moon."
     }
   ]
 }
