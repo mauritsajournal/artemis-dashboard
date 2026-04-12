@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-12T12:35:43.201Z",
+  "fetchedAt": "2026-04-12T13:53:10.793Z",
   "articles": [
+    {
+      "title": "Ship 39 and Booster 19 Roll out for Static Fire Testing",
+      "link": "https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/",
+      "pubDate": "2026-04-12T13:05:40.000Z",
+      "source": "NASASpaceflight",
+      "description": "Following the successful return of Orion, attention for the Artemis program has now shifted to&#8230; The post Ship 39 and Booster 19 Roll out for Static Fire Testing appeared first on NASASpaceFlight.com."
+    },
     {
       "title": "'The most special thing that will ever happen in my life': Artemis 2 astronauts describe their epic moon mission",
       "link": "https://www.space.com/space-exploration/artemis/the-most-special-thing-that-will-ever-happen-in-my-life-artemis-2-astronauts-describe-their-epic-moon-mission",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-07T12:00:00.000Z",
       "source": "Space.com",
       "description": "\"Apollo happened before I was born, and the idea that we will see humans on the moon within our lifetimes, with decades of advances in science and technology behind them, is remarkable.\""
-    },
-    {
-      "title": "Moon milestones: A rundown of Artemis 2's many spaceflight firsts",
-      "link": "https://www.space.com/space-exploration/artemis/moon-milestones-a-rundown-of-artemis-2s-many-spaceflight-firsts",
-      "pubDate": "2026-04-07T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "You've probably heard it by now: NASA’s Artemis 2 mission was the first to launch astronauts to fly by the moon in more than 50 years. But that was just the first of the firsts for this mission."
     }
   ]
 }
