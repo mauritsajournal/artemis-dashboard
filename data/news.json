@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-11T23:22:38.068Z",
+  "fetchedAt": "2026-04-12T01:22:08.563Z",
   "articles": [
+    {
+      "title": "Artemis II Astronauts Back in Houston, Reunite with Families",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/11/artemis-ii-astronauts-back-in-houston-reunite-with-families/",
+      "pubDate": "2026-04-11T23:28:29.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The&#160;Artemis II&#160;crew&#160;of&#160;NASA astronauts – Reid Wiseman,&#160;Victor Glover,&#160;and&#160;Christina Koch,&#160;and&#160;CSA (Canadian Space Agency) astronaut&#160;Jeremy Hansen – has returned to&#160;the agency’s&#160;Johnson Space Center in Houston following&#160;their&#160;histo"
+    },
     {
       "title": "La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords",
       "link": "https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-07T06:39:52.000Z",
       "source": "Space.com",
       "description": "President Donald Trump on Monday night (April 6) hailed the courage and grit of NASA's Artemis 2 astronauts after their historic flyby around the moon."
-    },
-    {
-      "title": "Artemis II Flight Day 6: Crew Wraps Historic Lunar Flyby",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-crew-wraps-historic-lunar-flyby/",
-      "pubDate": "2026-04-07T03:46:49.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The Artemis II mission wrapped up a historic seven-hour lunar flyby, marking humanity’s first return to the Moon since Apollo 17 in 1972 and capturing images of the lunar far side. After the lunar observation period concluded, the Artemis II crew was congratulated by President Donald J. Trump, in a"
     }
   ]
 }
