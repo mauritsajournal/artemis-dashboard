@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-13T17:50:45.705Z",
+  "fetchedAt": "2026-04-13T18:59:09.860Z",
   "articles": [
+    {
+      "title": "NASA to Host Artemis II Crew Postflight News Conference",
+      "link": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
+      "pubDate": "2026-04-13T18:16:30.000Z",
+      "source": "NASA News",
+      "description": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Ca"
+    },
     {
       "title": "Artemis II Astronauts Aboard USS John P. Murtha",
       "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-aboard-uss-john-p-murtha/",
@@ -343,13 +350,6 @@
       "pubDate": "2026-04-07T15:37:19.000Z",
       "source": "NASA Artemis Blog",
       "description": "After their historic lunar flyby on April 6, the Artemis II crew is awake and preparing for the journey back to Earth. The crew started the day 36,286 miles from the Moon and 236,022 miles from Earth, waking to the sounds of “Tokyo Drifting,” by Glass Animals and Denzel Curry. At 1:23 p.m. EDT, the"
-    },
-    {
-      "title": "Artemis II Flight Day 6: Crew Wraps Historic Lunar Flyby",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-crew-wraps-historic-lunar-flyby/",
-      "pubDate": "2026-04-07T03:46:49.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "The Artemis II mission wrapped up a historic seven-hour lunar flyby, marking humanity’s first return to the Moon since Apollo 17 in 1972 and capturing images of the lunar far side. After the lunar observation period concluded, the Artemis II crew was congratulated by President Donald J. Trump, in a"
     }
   ]
 }
