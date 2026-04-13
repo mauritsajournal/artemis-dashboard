@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-13T12:58:21.749Z",
+  "fetchedAt": "2026-04-13T14:45:38.571Z",
   "articles": [
+    {
+      "title": "Artemis 2: Our favorite photos from NASA's historic moon mission",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-our-favorite-photos-from-nasas-historic-moon-mission",
+      "pubDate": "2026-04-13T13:58:48.000Z",
+      "source": "Space.com",
+      "description": "The Artemis 2 mission to the moon beamed back some incredible photos, and we've rounded up the best ones."
+    },
     {
       "title": "Ship 39 and Booster 19 Roll out for Static Fire Testing",
       "link": "https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/",
@@ -210,13 +217,6 @@
       "pubDate": "2026-04-09T21:00:00.000Z",
       "source": "Space.com",
       "description": "'We all thought that movie was really uplifting and inspiring.'"
-    },
-    {
-      "title": "Starstruck",
-      "link": "https://www.nasa.gov/image-article/starstruck/",
-      "pubDate": "2026-04-09T20:29:32.000Z",
-      "source": "NASA News",
-      "description": "The Artemis II crew captured this photo of our galaxy, the Milky Way, on April 7, 2026. The Milky Way’s elegant spiral structure is dominated by just two arms wrapping off the ends of a central bar of stars. Spanning more than 100,000 light-years, Earth is located along one of the galaxy’s spiral ar"
     },
     {
       "title": "Watch Artemis 2 race back to Earth in this telescope livestream tonight",
