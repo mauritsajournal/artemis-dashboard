@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-13T16:05:25.825Z",
+  "fetchedAt": "2026-04-13T17:50:45.705Z",
   "articles": [
+    {
+      "title": "Artemis II Astronauts Aboard USS John P. Murtha",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-aboard-uss-john-p-murtha/",
+      "pubDate": "2026-04-13T17:30:49.000Z",
+      "source": "NASA News",
+      "description": "The first astronauts to travel to the Moon in more than half a century are back on Earth after a record-setting mission aboard NASA’s Artemis II test flight. NASA astronauts Reid Wiseman (commander), Christina Koch (mission specialist), Victor Glover (pilot), and CSA astronaut Jeremy Hansen (mission"
+    },
+    {
+      "title": "Artemis 2 commander Reid Wiseman broke NASA protocol to save the mission's moon mascot: 'It's hard not to love this little guy. I can't let Rise out of my sight'",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-2-commander-reid-wiseman-broke-nasa-protocol-to-save-the-missions-moon-mascot-its-hard-not-to-love-this-little-guy-i-cant-let-rise-out-of-my-sight",
+      "pubDate": "2026-04-13T17:04:45.000Z",
+      "source": "Space.com",
+      "description": "Rise joined the Artemis 2 crew as a mascot of the moon, bearing 5.6 million names. But the mascot quickly took on a new meaning."
+    },
     {
       "title": "Artemis 2 astronauts celebrate successful return to Earth | Space photo of the day for April 13, 2026",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-celebrate-successful-return-to-earth-space-photo-of-the-day-for-april-13-2026",
@@ -212,13 +226,6 @@
       "description": "The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far side of the Moon."
     },
     {
-      "title": "I Am Artemis: Dan Florez",
-      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/",
-      "pubDate": "2026-04-09T21:45:57.000Z",
-      "source": "NASA News",
-      "description": "Listen to this audio excerpt from Dan Florez, test director for NASA&#8217;s Exploration Ground Systems Program: At 1:47 a.m. EST November 16, 2022, as the Artemis I engines ignited, NASA astronaut Reid Wiseman and Dan Florez, NASA test director for the agency&#8217;s Exploration Ground Systems, wat"
-    },
-    {
       "title": "The Artemis 2 astronauts got a private 'Project Hail Mary' screening before launch. Here's their verdict",
       "link": "https://www.space.com/entertainment/space-movies-shows/the-artemis-2-astronauts-got-a-private-project-hail-mary-screening-before-launch-heres-their-verdict",
       "pubDate": "2026-04-09T21:00:00.000Z",
@@ -245,13 +252,6 @@
       "pubDate": "2026-04-09T14:20:26.000Z",
       "source": "Space.com",
       "description": "Astronaut Christina Koch poses with zero-gravity indicator \"Rise\" in the viewport of the Artemis 2 Orion spacecraft."
-    },
-    {
-      "title": "What returning to lunar space means for human health",
-      "link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
-      "pubDate": "2026-04-09T13:00:00.000Z",
-      "source": "SpaceNews",
-      "description": "Preparing to send astronauts back to the moon is no small feat. Spaceflight exposes the body to both known and unknown risks, some of which are subtle, cumulative and difficult to predict. When humans were last on the lunar surface in 1972, they stayed for just over three days. On that final mission"
     },
     {
       "title": "'We all pretty much broke down right there': Inside the Artemis 2 astronauts' emotional moment near the moon",
@@ -345,11 +345,11 @@
       "description": "After their historic lunar flyby on April 6, the Artemis II crew is awake and preparing for the journey back to Earth. The crew started the day 36,286 miles from the Moon and 236,022 miles from Earth, waking to the sounds of “Tokyo Drifting,” by Glass Animals and Denzel Curry. At 1:23 p.m. EDT, the"
     },
     {
-      "title": "'Unreal' solar eclipse: Artemis 2 crew just saw one of the rarest sights in spaceflight history",
-      "link": "https://www.space.com/space-exploration/artemis/unreal-solar-eclipse-artemis-2-crew-just-saw-one-of-the-rarest-sights-in-spaceflight-history",
-      "pubDate": "2026-04-07T14:00:00.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2 astronauts witness a rare solar eclipse from beyond the moon during their historic lunar flyby."
+      "title": "Artemis II Flight Day 6: Crew Wraps Historic Lunar Flyby",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/06/artemis-ii-flight-day-6-crew-wraps-historic-lunar-flyby/",
+      "pubDate": "2026-04-07T03:46:49.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The Artemis II mission wrapped up a historic seven-hour lunar flyby, marking humanity’s first return to the Moon since Apollo 17 in 1972 and capturing images of the lunar far side. After the lunar observation period concluded, the Artemis II crew was congratulated by President Donald J. Trump, in a"
     }
   ]
 }
