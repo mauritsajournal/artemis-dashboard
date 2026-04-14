@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-14T11:50:36.567Z",
+  "fetchedAt": "2026-04-14T12:58:35.726Z",
   "articles": [
+    {
+      "title": "Talk about long distance! Watch the farthest-ever crew call in space between Artemis 2 and the ISS",
+      "link": "https://www.space.com/space-exploration/artemis/watch-the-farthest-ever-crew-call-in-space-between-artemis-2-and-the-iss",
+      "pubDate": "2026-04-14T12:00:00.000Z",
+      "source": "Space.com",
+      "description": "Astronauts aboard Artemis 2 and the ISS connected across a record-breaking Earth–moon distance in the farthest crew call ever made in space."
+    },
     {
       "title": "Axiom Space plans 2027 flight test of spacesuit",
       "link": "https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/",
