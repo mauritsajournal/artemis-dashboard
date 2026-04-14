@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-14T17:57:05.448Z",
+  "fetchedAt": "2026-04-14T19:03:20.521Z",
   "articles": [
+    {
+      "title": "NASA's Artemis 2 moon shot just landed on Saturday Night Live — It's hilarious (video)",
+      "link": "https://www.space.com/entertainment/nasas-artemis-2-moon-shot-just-landed-on-saturday-night-live-its-hilarious-video",
+      "pubDate": "2026-04-14T18:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA's Artemis 2 moon mission wowed the world enough to earn a space spoof skit on Saturday Night Live one day after a perfect splashdown. Watch how it went."
+    },
     {
       "title": "Q&#038;A: Astronaut Linda Godwin on lessons learned from Artemis",
       "link": "https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/",
@@ -280,13 +287,6 @@
       "pubDate": "2026-04-08T13:00:00.000Z",
       "source": "Space.com",
       "description": "The Artemis 2 astronauts are capturing spectacular photos of the moon and Earth on their iPhones in space."
-    },
-    {
-      "title": "'It just made it even more special': Being so far from Earth makes you appreciate our planet even more, Artemis 2 astronaut says",
-      "link": "https://www.space.com/space-exploration/artemis/it-just-made-it-even-more-special-being-so-far-from-earth-makes-you-appreciate-our-planet-even-more-artemis-2-astronaut-says",
-      "pubDate": "2026-04-08T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Seeing Earth from space changes your perspective. And this \"overview effect\" is magnified when you're looking back from beyond the moon, according to Artemis 2's Christina Koch."
     },
     {
       "title": "Artemis II Flight Day 7: First Return Correction Burn Complete",
