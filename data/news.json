@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-15T15:57:56.967Z",
+  "fetchedAt": "2026-04-15T16:58:45.885Z",
   "articles": [
+    {
+      "title": "2026 NSTA Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/",
+      "pubDate": "2026-04-15T15:59:44.000Z",
+      "source": "NASA News",
+      "description": "NASA Science at NSTA Hyperwall Schedule, April 16-18, 2026 Join NASA in the Exhibit Hall (Booth #1265) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. THURSDAY, APRIL 16 11:00 AMTeaching Space Weather in the Artemis Mission EraChristina Milotte11:15 AM5E StoryMaps using NASA"
+    },
     {
       "title": "Go behind the scenes of NASA's Artemis 2 moon mission with NOVA's 'Return to the Moon' documentary tonight (interview)",
       "link": "https://www.space.com/entertainment/go-behind-the-scenes-of-nasas-artemis-2-moon-mission-with-novas-return-to-the-moon-documentary-wednesday-night-interview",
@@ -252,20 +259,6 @@
       "pubDate": "2026-04-09T13:00:00.000Z",
       "source": "Space.com",
       "description": "Just after they broke the human spaceflight distance record, the Artemis 2 astronauts shared a powerful moment that deepened their already profound bond."
-    },
-    {
-      "title": "Artemis 2 mission sends 'Kerbal Space Program' player numbers soaring to the Mun",
-      "link": "https://www.space.com/entertainment/space-games/artemis-2-mission-sends-kerbal-space-program-player-numbers-soaring",
-      "pubDate": "2026-04-09T11:00:30.000Z",
-      "source": "Space.com",
-      "description": "Anything NASA can do, you can do too."
-    },
-    {
-      "title": "All eyes on Orion’s heat shield: Artemis 2 astronauts will hit Earth's atmosphere at nearly 24,000 mph on April 10",
-      "link": "https://www.space.com/space-exploration/artemis/all-eyes-on-orions-heat-shield-artemis-2-astronauts-will-hit-earths-atmosphere-at-a-record-breaking-25-000-mph-on-april-10",
-      "pubDate": "2026-04-09T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2's Orion capsule will hit Earth's atmosphere at nearly 24,000 mph on April 10. A heat shield and 11 parachutes will help it survive the fiery trip and splash down safely."
     },
     {
       "title": "Artemis II Flight Day 8: Crew Conducts Key Tests on Return to Earth",
