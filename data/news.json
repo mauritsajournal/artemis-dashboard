@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-15T20:42:02.558Z",
+  "fetchedAt": "2026-04-15T21:41:26.176Z",
   "articles": [
+    {
+      "title": "I Am Artemis: Rebekah Tolatovicz",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-rebekah-tolatovicz/",
+      "pubDate": "2026-04-15T20:36:43.000Z",
+      "source": "NASA News",
+      "description": "Listen to this audio excerpt from Rebekah Tolatovicz, a mechanical technician lead supporting the Orion spacecraft’s main contractor Lockheed Martin: At NASA’s Kennedy Space Center in Florida, there is a fleet of Orion spacecraft in work, and Rebekah Tolatovicz’s hands have helped build each one. To"
+    },
     {
       "title": "2026 NSTA Hyperwall Schedule",
       "link": "https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/",
@@ -42,13 +49,6 @@
       "pubDate": "2026-04-14T18:00:00.000Z",
       "source": "Space.com",
       "description": "NASA's Artemis 2 moon mission wowed the world enough to earn a space spoof skit on Saturday Night Live one day after a perfect splashdown. Watch how it went."
-    },
-    {
-      "title": "Q&#038;A: Astronaut Linda Godwin on lessons learned from Artemis",
-      "link": "https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/",
-      "pubDate": "2026-04-14T17:43:19.000Z",
-      "source": "SpaceNews",
-      "description": "Linda Godwin, a former NASA astronaut and a veteran of four space shuttle missions, knows what it’s like to spend a significant time in space. She chalked up more than 38 days in orbit. She carried out two spacewalks, becoming the first woman to do so outside two space stations with a six-hour space"
     },
     {
       "title": "This Artemis 2 astronaut really loves Rise | Space photo of the day for April 14, 2026",
@@ -224,13 +224,6 @@
       "pubDate": "2026-04-09T21:00:00.000Z",
       "source": "Space.com",
       "description": "'We all thought that movie was really uplifting and inspiring.'"
-    },
-    {
-      "title": "Watch Artemis 2 race back to Earth in this telescope livestream tonight",
-      "link": "https://www.space.com/space-exploration/artemis/watch-artemis-2-race-back-to-earth-in-this-telescope-livestream-tonight",
-      "pubDate": "2026-04-09T16:30:00.000Z",
-      "source": "Space.com",
-      "description": "A Virtual Telescope Project livestream will track NASA's Artemis 2 Orion spacecraft as it races back toward Earth. Here's how to watch it live."
     },
     {
       "title": "Artemis II Flight Day 9: Crew Prepares to Come Home",
