@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-15T14:27:32.047Z",
+  "fetchedAt": "2026-04-15T15:57:56.967Z",
   "articles": [
+    {
+      "title": "Go behind the scenes of NASA's Artemis 2 moon mission with NOVA's 'Return to the Moon' documentary tonight (interview)",
+      "link": "https://www.space.com/entertainment/go-behind-the-scenes-of-nasas-artemis-2-moon-mission-with-novas-return-to-the-moon-documentary-wednesday-night-interview",
+      "pubDate": "2026-04-15T15:00:00.000Z",
+      "source": "Space.com",
+      "description": "The new Artemis 2 NOVA documentary \"Return to the Moon\" will air on PBS Wednesday (April 15) to offer a behind-the-scenes look at the moon mission."
+    },
+    {
+      "title": "Artemis II Crew Returns to Houston",
+      "link": "https://www.nasa.gov/image-article/artemis-ii-crew-returns-to-houston/",
+      "pubDate": "2026-04-15T14:37:38.000Z",
+      "source": "NASA News",
+      "description": "NASA’s Artemis II crew – NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen – smile at friends, family, and colleagues. They shared brief remarks with the crowd after landing at Ellington Airport near NASA’s Johnson Space Center i"
+    },
     {
       "title": "NASA's Artemis 2 moonshot was just the 'opening act' for America's return to the moon, space agency chief says",
       "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moonshot-was-just-the-opening-act-for-americas-return-to-the-moon-space-agency-chief-says",
@@ -35,13 +49,6 @@
       "pubDate": "2026-04-14T17:22:35.000Z",
       "source": "SpaceNews",
       "description": "NASA’s Artemis 2 mission returned safely to Earth the evening of April 10, completing a critical early step in the agency’s effort to send astronauts back to the moon. The Orion spacecraft Integrity splashed down in the Pacific Ocean near San Diego at 8:07 p.m. Eastern, nine days and roughly 90 minu"
-    },
-    {
-      "title": "A Hug for Home Away from Home",
-      "link": "https://www.nasa.gov/image-article/a-hug-for-home-away-from-home/",
-      "pubDate": "2026-04-14T15:49:24.000Z",
-      "source": "NASA News",
-      "description": "NASA astronaut Christina Koch, Artemis II mission specialist, hugs the Orion spacecraft in the well deck of USS John P. Murtha, Saturday, April 11, 2026. NASA astronauts Reid Wiseman, Victor Glover, and Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen splashed down in the Pacific Ocean"
     },
     {
       "title": "This Artemis 2 astronaut really loves Rise | Space photo of the day for April 14, 2026",
@@ -79,11 +86,11 @@
       "description": "The Artemis 2 mission to the moon beamed back some incredible photos, and we've rounded up the best ones."
     },
     {
-      "title": "Ship 39 and Booster 19 Roll out for Static Fire Testing",
+      "title": "Ship 39 Completes Static fire ahead of Booster 19 test Wednesday",
       "link": "https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/",
       "pubDate": "2026-04-12T13:05:40.000Z",
       "source": "NASASpaceflight",
-      "description": "Following the successful return of Orion, attention for the Artemis program has now shifted to&#8230; The post Ship 39 and Booster 19 Roll out for Static Fire Testing appeared first on NASASpaceFlight.com."
+      "description": "Following the successful return of Orion, attention for the Artemis program has now shifted to&#8230; The post Ship 39 Completes Static fire ahead of Booster 19 test Wednesday appeared first on NASASpaceFlight.com."
     },
     {
       "title": "'The most special thing that will ever happen in my life': Artemis 2 astronauts describe their epic moon mission",
