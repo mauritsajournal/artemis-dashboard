@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-16T20:41:07.116Z",
+  "fetchedAt": "2026-04-16T21:33:52.015Z",
   "articles": [
+    {
+      "title": "'That was a wonderful toilet': Artemis 2 commander defends mission's lunar loo",
+      "link": "https://www.space.com/space-exploration/artemis/that-was-a-wonderful-toilet-artemis-2-commander-defends-missions-lunar-loo",
+      "pubDate": "2026-04-16T20:42:20.000Z",
+      "source": "Space.com",
+      "description": "Artemis 2's groundbreaking space toilet doesn't deserve the bad press it's gotten over the past two weeks, according to mission commander Reid Wiseman."
+    },
     {
       "title": "All Points signs agreement to build payload processing facilities at KSC",
       "link": "https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/",
@@ -217,13 +224,6 @@
       "pubDate": "2026-04-10T14:47:52.000Z",
       "source": "Space.com",
       "description": "Artemis 2 is the first crewed lunar mission in over 50 years, but the cameras onboard are surprisingly down-to-earth. Here's how to get your hands on the gear that has brought us so many stunning shots of space."
-    },
-    {
-      "title": "Artemis 2 spies a crescent Earth above the moon's horizon | Space photo of the day for April 10, 2026",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/artemis-2-spies-a-crescent-earth-above-the-moons-horizon-space-photo-of-the-day-for-april-10-2026",
-      "pubDate": "2026-04-10T14:05:52.000Z",
-      "source": "Space.com",
-      "description": "Earth shines above the lunar horizon in a new Artemis 2 photo."
     },
     {
       "title": "Artemis II closing in on Earth return",
