@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-16T08:21:40.563Z",
+  "fetchedAt": "2026-04-16T10:06:36.960Z",
   "articles": [
+    {
+      "title": "A new Earthrise: An Apollo historian experiences Artemis 2",
+      "link": "https://www.space.com/space-exploration/artemis/a-new-earthrise-an-apollo-historian-experiences-artemis-2",
+      "pubDate": "2026-04-16T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "As Artemis 2 approached, my anticipation was mixed with uncertainty. Would this new Moon mission spark the wonder and excitement I'd felt during Apollo? Those doubts didn't last long."
+    },
     {
       "title": "I Am Artemis: Rebekah Tolatovicz",
       "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-rebekah-tolatovicz/",
