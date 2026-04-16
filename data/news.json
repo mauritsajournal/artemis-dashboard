@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-16T15:17:12.953Z",
+  "fetchedAt": "2026-04-16T17:01:35.539Z",
   "articles": [
+    {
+      "title": "NASA Invites Media to Latvia Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/",
+      "pubDate": "2026-04-16T16:41:00.000Z",
+      "source": "NASA News",
+      "description": "The Republic of Latvia will sign the Artemis Accords during a ceremony at 9 a.m. EDT Monday, April 20, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Dace Melbārde, Latvia’s minister for education and science; Jānis Beķeris, chargé d’affaires at the Embassy of the Re"
+    },
+    {
+      "title": "How space weather forecasting keeps astronauts (and satellites) safe",
+      "link": "https://spacenews.com/how-space-weather-forecasting-keeps-astronauts-and-satellites-safe/",
+      "pubDate": "2026-04-16T16:30:00.000Z",
+      "source": "SpaceNews",
+      "description": "BOULDER, Colorado – The sun’s volatile outbursts, such as storms, flares and other space weather, can cause serious harm to astronauts like the Artemis 2 crew who recently came home, and to satellites. That’s why the Space Weather Prediction Center (SWPC) in Boulder, Colorado — part of the National"
+    },
     {
       "title": "At the Edge of Light",
       "link": "https://www.nasa.gov/image-article/at-the-edge-of-light/",
@@ -70,13 +84,6 @@
       "pubDate": "2026-04-14T22:06:49.000Z",
       "source": "Space.com",
       "description": "Artemis 2 kicks off a lunar \"relay race\" that will lead the NASA and its international partners to a moon base and, eventually, Mars, NASA chief Jared Isaacman says."
-    },
-    {
-      "title": "Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/",
-      "pubDate": "2026-04-14T21:00:00.000Z",
-      "source": "SpaceNews",
-      "description": "April 14, 2026 – Washington, D.C.—The Commercial Space Federation (CSF) and ispace technologies U.S., inc. (ispace-U.S.) today announced that ispace-U.S., a U.S.-based commercial lunar exploration company, has joined its Board [&#8230;] The post Commercial Space Federation (CSF) Welcomes ispace-U.S."
     },
     {
       "title": "NASA's Artemis 2 moon shot just landed on Saturday Night Live — space toilet jokes and all (video)",
@@ -224,13 +231,6 @@
       "pubDate": "2026-04-10T10:30:00.000Z",
       "source": "Space.com",
       "description": "The Artemis 2 astronauts will return to Earth this evening (April 10) with a splashdown in the Pacific Ocean. Here's where they'll hit the water, and why that spot was chosen."
-    },
-    {
-      "title": "What time is NASA's Artemis 2 splashdown today? Full schedule",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-artemis-2-moon-mission-landing-what-time",
-      "pubDate": "2026-04-10T10:15:00.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2 splashes down on April 10. Here's everything you need to know."
     },
     {
       "title": "Artemis II closing in on Earth return",
