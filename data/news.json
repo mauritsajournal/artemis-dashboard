@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-16T17:01:35.539Z",
+  "fetchedAt": "2026-04-16T18:56:31.067Z",
   "articles": [
+    {
+      "title": "All Points signs agreement to build payload processing facilities at KSC",
+      "link": "https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/",
+      "pubDate": "2026-04-16T18:04:00.000Z",
+      "source": "SpaceNews",
+      "description": "All Points Logistics has signed an agreement with NASA’s Kennedy Space Center to construct satellite processing facilities on center property. The post All Points signs agreement to build payload processing facilities at KSC appeared first on SpaceNews."
+    },
     {
       "title": "NASA Invites Media to Latvia Artemis Accords Signing Ceremony",
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/",
@@ -217,20 +224,6 @@
       "pubDate": "2026-04-10T14:05:52.000Z",
       "source": "Space.com",
       "description": "Earth shines above the lunar horizon in a new Artemis 2 photo."
-    },
-    {
-      "title": "Watch NASA's Artemis 2 astronauts return to Earth live online today (April 10)",
-      "link": "https://www.space.com/space-exploration/artemis/watch-nasa-artemis-2-astronauts-return-to-earth-live-online-today-april-10",
-      "pubDate": "2026-04-10T10:45:00.000Z",
-      "source": "Space.com",
-      "description": "Live coverage of Artemis 2's splashdown begins this evening as four astronauts return from their historic 10-day mission around the moon."
-    },
-    {
-      "title": "Where will NASA's Artemis 2 moon astronauts make their splashdown today?",
-      "link": "https://www.space.com/space-exploration/artemis/nasas-artemis-2-moon-mission-is-coming-home-today-where-will-it-land",
-      "pubDate": "2026-04-10T10:30:00.000Z",
-      "source": "Space.com",
-      "description": "The Artemis 2 astronauts will return to Earth this evening (April 10) with a splashdown in the Pacific Ocean. Here's where they'll hit the water, and why that spot was chosen."
     },
     {
       "title": "Artemis II closing in on Earth return",
