@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-17T15:48:43.870Z",
+  "fetchedAt": "2026-04-17T16:41:36.780Z",
   "articles": [
+    {
+      "title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/17/nasas-mobile-launcher-arrives-at-vehicle-assembly-building/",
+      "pubDate": "2026-04-17T15:59:01.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "After successfully being used to launch the Artemis II lunar test flight on April 1, NASA’s mobile launcher now is inside NASA Kennedy’s Vehicle Assembly Building (VAB) in Florida in preparation for the Artemis III test flight mission rocket stacking operations. NASA’s Exploration Ground Systems Pro"
+    },
     {
       "title": "Artemis 2's heat shield seems to have aced its trial by fire",
       "link": "https://www.space.com/space-exploration/artemis/artemis-2s-heat-shield-seems-to-have-aced-its-trial-by-fire",
@@ -84,13 +91,6 @@
       "pubDate": "2026-04-15T20:36:43.000Z",
       "source": "NASA News",
       "description": "Listen to this audio excerpt from Rebekah Tolatovicz, a mechanical technician lead supporting the Orion spacecraft’s main contractor Lockheed Martin: At NASA’s Kennedy Space Center in Florida, there is a fleet of Orion spacecraft in work, and Rebekah Tolatovicz’s hands have helped build each one. To"
-    },
-    {
-      "title": "2026 NSTA Hyperwall Schedule",
-      "link": "https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/",
-      "pubDate": "2026-04-15T15:59:44.000Z",
-      "source": "NASA News",
-      "description": "NASA Science at NSTA Hyperwall Schedule, April 16-18, 2026 Join NASA in the Exhibit Hall (Booth #1265) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. THURSDAY, APRIL 16 11:00 AMTeaching Space Weather in the Artemis Mission EraChristina Milotte11:15 AM5E StoryMaps using NASA"
     },
     {
       "title": "Go behind the scenes of NASA's Artemis 2 moon mission with NOVA's 'Return to the Moon' documentary tonight (interview)",
@@ -177,13 +177,6 @@
       "description": "On Episode 205 of This Week In Space, Rod Pyle and Tariq Malik discuss the flight of Artemis 2."
     },
     {
-      "title": "Artemis 3 and beyond: What's next for NASA after Artemis 2 moon success",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-3-and-beyond-whats-next-for-nasa-after-artemis-2-moon-success",
-      "pubDate": "2026-04-11T10:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA doesn't plan to rest on its laurels after the historic success of its Artemis 2 moon mission. Here are the agency's ambitious plans for Earth's nearest neighbor."
-    },
-    {
       "title": "Artemis II Flight Day 10: Live Re-Entry Updates",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/",
       "pubDate": "2026-04-10T22:26:16.000Z",
@@ -245,13 +238,6 @@
       "pubDate": "2026-04-08T01:54:33.000Z",
       "source": "NASA Artemis Blog",
       "description": "At&#160;8:03 p.m. EDT, the Orion spacecraft, named Integrity, ignited its thrusters for&#160;15&#160;seconds, producing a change in velocity of&#160;1.6&#160;feet-per-second&#160;and&#160;guiding the&#160;Artemis II&#160;crew toward Earth.&#160;NASA astronaut&#160;Christina Koch&#160;and&#160;CSA (C"
-    },
-    {
-      "title": "Artemis II Flight Day 7: Crew Makes Long‑Distance Call, Begins Return",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/07/artemis-ii-flight-day-7-crew-makes-long%e2%80%91distance-call-begins-return/",
-      "pubDate": "2026-04-07T15:37:19.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "After their historic lunar flyby on April 6, the Artemis II crew is awake and preparing for the journey back to Earth. The crew started the day 36,286 miles from the Moon and 236,022 miles from Earth, waking to the sounds of “Tokyo Drifting,” by Glass Animals and Denzel Curry. At 1:23 p.m. EDT, the"
     },
     {
       "title": "Artemis II breaks record, conducts lunar flyby",
