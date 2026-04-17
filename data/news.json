@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-17T18:41:37.245Z",
+  "fetchedAt": "2026-04-17T19:50:48.672Z",
   "articles": [
+    {
+      "title": "NASA Artemis II Human Research Data Methodology Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
+      "pubDate": "2026-04-17T18:41:35.000Z",
+      "source": "NASA News",
+      "description": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Sp"
+    },
     {
       "title": "Artemis 2 astronauts praise performance of Orion",
       "link": "https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/",
