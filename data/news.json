@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-20T21:36:51.159Z",
+  "fetchedAt": "2026-04-20T22:32:59.207Z",
   "articles": [
+    {
+      "title": "NASA on Track for Future Missions with Initial Artemis II Assessments",
+      "link": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+      "pubDate": "2026-04-20T22:10:38.000Z",
+      "source": "NASA News",
+      "description": "Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in"
+    },
     {
       "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
       "link": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
@@ -56,13 +63,6 @@
       "pubDate": "2026-04-18T14:00:00.000Z",
       "source": "Space.com",
       "description": "For a few moments on April 6, the four Artemis 2 moon astronauts and the three crewmates aboard China's Tiangong space station were farther away from each other than any humans had ever been."
-    },
-    {
-      "title": "NASA Artemis II Human Research Data Methodology Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
-      "pubDate": "2026-04-17T18:41:35.000Z",
-      "source": "NASA News",
-      "description": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Sp"
     },
     {
       "title": "Artemis 2 astronauts praise performance of Orion",
