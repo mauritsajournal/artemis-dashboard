@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-20T20:34:58.271Z",
+  "fetchedAt": "2026-04-20T21:36:51.159Z",
   "articles": [
+    {
+      "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
+      "link": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
+      "pubDate": "2026-04-20T20:31:57.000Z",
+      "source": "NASA News",
+      "description": "Following the recent successful test flight of NASA’s Artemis II mission around the Moon, NASA rolled out the core stage, or the largest section, of the agency’s SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency’s Michoud Ass"
+    },
     {
       "title": "Latvia joins the Artemis Accords",
       "link": "https://spacenews.com/latvia-joins-the-artemis-accords/",
