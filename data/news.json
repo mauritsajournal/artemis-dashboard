@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-21T21:36:34.431Z",
+  "fetchedAt": "2026-04-21T22:30:16.575Z",
   "articles": [
+    {
+      "title": "NASA Invites Media to Jordan Artemis Accords Signing Ceremony",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/",
+      "pubDate": "2026-04-21T21:30:25.000Z",
+      "source": "NASA News",
+      "description": "The Hashemite Kingdom of Jordan will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, April 23, at NASA Headquarters in Washington. NASA Administrator Jared Isaacman will host Ambassador Dina Kawar of the Hashemite Kingdom of Jordan and U.S. Department of State Principal Deputy"
+    },
     {
       "title": "NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/",
