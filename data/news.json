@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-22T20:01:12.705Z",
+  "fetchedAt": "2026-04-22T21:41:05.957Z",
   "articles": [
+    {
+      "title": "From 'Starfield' to Artemis: designing moonbases in games and reality",
+      "link": "https://www.space.com/entertainment/space-games/from-starfield-to-artemis-designing-moonbases-in-games-and-reality",
+      "pubDate": "2026-04-22T20:00:00.000Z",
+      "source": "Space.com",
+      "description": "Looking at the best games for building lunar settlements, and how they compare to NASA's real-life plans for Artemis Base Camp."
+    },
     {
       "title": "NASA still confident that Artemis astronauts will land on the moon in 2028 despite spacesuit delays",
       "link": "https://www.space.com/space-exploration/artemis/nasa-still-confident-that-artemis-astronauts-will-land-on-the-moon-in-2028-despite-spacesuit-delays",
@@ -119,13 +126,6 @@
       "pubDate": "2026-04-17T15:59:01.000Z",
       "source": "NASA Artemis Blog",
       "description": "After successfully being used to launch the Artemis II lunar test flight on April 1, NASA’s mobile launcher now is inside NASA Kennedy’s Vehicle Assembly Building (VAB) in Florida in preparation for the Artemis III test flight mission rocket stacking operations. NASA’s Exploration Ground Systems Pro"
-    },
-    {
-      "title": "Artemis 2's heat shield seems to have aced its trial by fire",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2s-heat-shield-seems-to-have-aced-its-trial-by-fire",
-      "pubDate": "2026-04-17T13:00:00.000Z",
-      "source": "Space.com",
-      "description": "The heat shield on Artemis 2's Orion capsule appears to have held up incredibly well during its scorching downward trip through Earth's atmosphere, mission commander Reid Wiseman said."
     },
     {
       "title": "NASA’s Mobile Launcher Rolls Ahead of Artemis III Preparation",
