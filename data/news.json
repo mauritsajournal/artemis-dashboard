@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-04-22T14:44:41.760Z",
+  "fetchedAt": "2026-04-22T16:01:35.559Z",
   "articles": [
+    {
+      "title": "NASA still confident that Artemis astronauts will land on the moon in 2028 despite spacesuit delays",
+      "link": "https://www.space.com/space-exploration/artemis/nasa-still-confident-that-artemis-astronauts-will-land-on-the-moon-in-2028-despite-spacesuit-delays",
+      "pubDate": "2026-04-22T16:00:00.000Z",
+      "source": "Space.com",
+      "description": "NASA says it's confident that new spacesuits will be ready for a moon landing in 2028, even though a new report raises the possibility of a multiyear delay."
+    },
+    {
+      "title": "Happy Earth Day! Celebrate with these amazing photos of our planet from space, from Apollo 8 to Artemis 2",
+      "link": "https://www.space.com/astronomy/earth/happy-earth-day-celebrate-with-these-amazing-photos-of-our-planet-from-space-from-apollo-8-to-artemis-2",
+      "pubDate": "2026-04-22T15:27:11.000Z",
+      "source": "Space.com",
+      "description": "This Earth Day, we reflect on our home planet and look at Earth from space through history."
+    },
+    {
+      "title": "Night and (Earth) Day",
+      "link": "https://www.nasa.gov/image-article/night-and-earth-day/",
+      "pubDate": "2026-04-22T15:14:52.000Z",
+      "source": "NASA News",
+      "description": "This image, released in celebration of Earth Day, shows the terminator – the line between night and day – on Earth. The Artemis II astronauts captured this view on April 2, 2026, during their journey to the Moon. NASA science improves life on Earth every day. The agency provides insights on our home"
+    },
+    {
+      "title": "Meet the US Navy divers who welcomed the Artemis 2 astronauts home from the moon",
+      "link": "https://www.space.com/space-exploration/artemis/meet-the-us-navy-divers-who-welcomed-the-artemis-2-astronauts-home-from-the-moon",
+      "pubDate": "2026-04-22T15:00:00.000Z",
+      "source": "Space.com",
+      "description": "Four Navy divers made a contribution to the historic Artemis 2 moon mission, welcoming its astronauts home to Earth and making sure they were safe and healthy."
+    },
     {
       "title": "Celebrate Earth Day with this Artemis 2 shot | Space photo of the day for April 22, 2026",
       "link": "https://www.space.com/astronomy/earth/celebrate-earth-day-with-this-artemis-2-shot-space-photo-of-the-day-for-april-22-2026",
@@ -35,13 +63,6 @@
       "pubDate": "2026-04-21T19:00:00.000Z",
       "source": "Space.com",
       "description": "NASA Force aims to recruit industry talent to the space agency for relatively short stints. Applications are open now in the wake of the Artemis 2 moon mission."
-    },
-    {
-      "title": "What Are Ames’ Contributions to Artemis II?",
-      "link": "https://www.nasa.gov/centers-and-facilities/ames/what-are-ames-contributions-to-artemis-ii/",
-      "pubDate": "2026-04-21T17:41:48.000Z",
-      "source": "NASA News",
-      "description": "NASA successfully sent four astronauts&#160;around the Moon for the first time in more than 50 years, setting the stage for future lunar landing missions.&#160;As the agency continues to push the bounds of space exploration,&#160;NASA’s&#160;Ames Research Center in California’s Silicon Valley&#160;p"
     },
     {
       "title": "NASA rolls out Artemis 3 SLS rocket's huge core stage to gear up for 2027 launch (photo)",
@@ -100,13 +121,6 @@
       "description": "For a few moments on April 6, the four Artemis 2 moon astronauts and the three crewmates aboard China's Tiangong space station were farther away from each other than any humans had ever been."
     },
     {
-      "title": "Artemis 2 astronauts praise performance of Orion",
-      "link": "https://spacenews.com/artemis-2-astronauts-praise-performance-of-orion/",
-      "pubDate": "2026-04-17T16:41:58.000Z",
-      "source": "SpaceNews",
-      "description": "The astronauts who flew around the moon on Artemis 2 said they were confident the Orion spacecraft is ready to support future missions. The post Artemis 2 astronauts praise performance of Orion appeared first on SpaceNews."
-    },
-    {
       "title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/17/nasas-mobile-launcher-arrives-at-vehicle-assembly-building/",
       "pubDate": "2026-04-17T15:59:01.000Z",
@@ -119,20 +133,6 @@
       "pubDate": "2026-04-17T13:00:00.000Z",
       "source": "Space.com",
       "description": "The heat shield on Artemis 2's Orion capsule appears to have held up incredibly well during its scorching downward trip through Earth's atmosphere, mission commander Reid Wiseman said."
-    },
-    {
-      "title": "Landing astronauts on the moon 'is absolutely doable, and it's doable soon,' NASA's Artemis 2 commander says",
-      "link": "https://www.space.com/space-exploration/artemis/landing-astronauts-on-the-moon-is-absolutely-doable-and-its-doable-soon-nasas-artemis-2-commander-says",
-      "pubDate": "2026-04-16T21:53:36.000Z",
-      "source": "Space.com",
-      "description": "The Artemis 2 astronauts said they gained a deeper understanding of their Orion capsule during their moon mission —and what they learned bodes well for future Artemis flights."
-    },
-    {
-      "title": "'That was a wonderful toilet': Artemis 2 commander defends mission's lunar loo",
-      "link": "https://www.space.com/space-exploration/artemis/that-was-a-wonderful-toilet-artemis-2-commander-defends-missions-lunar-loo",
-      "pubDate": "2026-04-16T20:42:20.000Z",
-      "source": "Space.com",
-      "description": "Artemis 2's groundbreaking space toilet doesn't deserve the bad press it's gotten over the past two weeks, according to mission commander Reid Wiseman."
     },
     {
       "title": "NASA’s Mobile Launcher Rolls Ahead of Artemis III Preparation",
