@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-23T20:00:53.083Z",
+  "fetchedAt": "2026-04-23T21:36:38.012Z",
   "articles": [
+    {
+      "title": "NASA Kennedy Prepares Facility for Roman Space Telescope Arrival",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival/",
+      "pubDate": "2026-04-23T20:14:56.000Z",
+      "source": "NASA News",
+      "description": "Preparations are underway for launch of NASA’s Nancy Grace Roman Space Telescope as soon as early September on a SpaceX Falcon Heavy rocket from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The Roman space telescope will provide deep, panoramic views of the cosmos, generating never-"
+    },
     {
       "title": "NASA Welcomes Jordan as 63rd Artemis Accords Signatory",
       "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/",
@@ -35,13 +42,6 @@
       "pubDate": "2026-04-22T15:27:11.000Z",
       "source": "Space.com",
       "description": "This Earth Day, we reflect on our home planet and look at Earth from space through history."
-    },
-    {
-      "title": "Night and (Earth) Day",
-      "link": "https://www.nasa.gov/image-article/night-and-earth-day/",
-      "pubDate": "2026-04-22T15:14:52.000Z",
-      "source": "NASA News",
-      "description": "This image, released in celebration of Earth Day, shows the terminator – the line between night and day – on Earth. The Artemis II astronauts captured this view on April 2, 2026, during their journey to the Moon. NASA science improves life on Earth every day. The agency provides insights on our home"
     },
     {
       "title": "Meet the US Navy divers who welcomed the Artemis 2 astronauts home from the moon",
@@ -91,13 +91,6 @@
       "pubDate": "2026-04-18T17:00:00.000Z",
       "source": "Space.com",
       "description": "Capcom's new IP is a welcome throwback to simpler action games, but its story and themes are shockingly well-timed and refreshingly optimistic."
-    },
-    {
-      "title": "Artemis 2 and Tiangong space station astronauts set record for farthest distance between humans",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-2-and-tiangong-space-station-astronauts-set-record-for-farthest-distance-between-humans",
-      "pubDate": "2026-04-18T14:00:00.000Z",
-      "source": "Space.com",
-      "description": "For a few moments on April 6, the four Artemis 2 moon astronauts and the three crewmates aboard China's Tiangong space station were farther away from each other than any humans had ever been."
     },
     {
       "title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building",
