@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-23T17:08:26.695Z",
+  "fetchedAt": "2026-04-23T18:53:36.934Z",
   "articles": [
+    {
+      "title": "NASA Welcomes Jordan as 63rd Artemis Accords Signatory",
+      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/",
+      "pubDate": "2026-04-23T17:32:34.000Z",
+      "source": "NASA News",
+      "description": "The Hashemite Kingdom of Jordan signed the Artemis Accords&#160;Thursday&#160;during a ceremony&#160;hosted by NASA&#160;at the agency’s headquarters in Washington,&#160;becoming the&#160;latest&#160;nation to commit to responsible space exploration to benefit humanity.&#160; &#8220;It is my privile"
+    },
     {
       "title": "Jordan signs the Artemis Accords",
       "link": "https://spacenews.com/jordan-signs-the-artemis-accords/",
@@ -140,13 +147,6 @@
       "pubDate": "2026-04-10T15:38:05.000Z",
       "source": "NASA Artemis Blog",
       "description": "The Artemis II crew — NASA astronauts Reid Wiseman, Victor Glover, Christina Koch and CSA (Canadian Space Agency) astronaut Jeremy Hansen — began the final phase of their journey home to the songs “Run to the Water” by Live, selected by the crew, and “Free” by Zac Brown Band, as they prepared for th"
-    },
-    {
-      "title": "Artemis II returns to Earth after historic 10-day mission around the Moon",
-      "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-return/",
-      "pubDate": "2026-04-10T15:16:42.000Z",
-      "source": "NASASpaceflight",
-      "description": "After 10 days, over 800,000 km traveled, and a historic flyby of the Moon, Artemis&#8230; The post Artemis II returns to Earth after historic 10-day mission around the Moon appeared first on NASASpaceFlight.com."
     },
     {
       "title": "Artemis II Flight Day 9: Second Return Correction Burn Complete",
