@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-23T15:10:39.677Z",
+  "fetchedAt": "2026-04-23T17:08:26.695Z",
   "articles": [
+    {
+      "title": "Jordan signs the Artemis Accords",
+      "link": "https://spacenews.com/jordan-signs-the-artemis-accords/",
+      "pubDate": "2026-04-23T15:14:38.000Z",
+      "source": "SpaceNews",
+      "description": "Jordan is the latest country to sign the Artemis Accords as NASA works to attract more countries to its lunar exploration efforts. The post Jordan signs the Artemis Accords appeared first on SpaceNews."
+    },
     {
       "title": "From 'Starfield' to Artemis: designing moonbases in games and reality",
       "link": "https://www.space.com/entertainment/space-games/from-starfield-to-artemis-designing-moonbases-in-games-and-reality",
@@ -44,13 +51,6 @@
       "description": "Celebrating Earth Day with an image of Earth captured by NASA's Artemis 2 mission around the moon."
     },
     {
-      "title": "Artemis II Mission Milestones: An Image and Video Recap",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
-      "pubDate": "2026-04-22T01:55:09.000Z",
-      "source": "NASA News",
-      "description": "On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splas"
-    },
-    {
       "title": "You've heard of the Space Force. Now there's a 'NASA Force' — but it's not about making space war",
       "link": "https://www.space.com/space-exploration/youve-heard-of-the-space-force-now-theres-a-nasa-force-but-its-not-about-making-space-war",
       "pubDate": "2026-04-21T19:00:00.000Z",
@@ -70,13 +70,6 @@
       "pubDate": "2026-04-21T02:19:09.000Z",
       "source": "SpaceNews",
       "description": "New spacesuits for Artemis lunar missions and the International Space Station may not be ready until after the end of the decade, a report by NASA’s inspector general warns. The post Artemis spacesuit development risks further delays appeared first on SpaceNews."
-    },
-    {
-      "title": "Latvia joins the Artemis Accords",
-      "link": "https://spacenews.com/latvia-joins-the-artemis-accords/",
-      "pubDate": "2026-04-20T16:16:48.000Z",
-      "source": "SpaceNews",
-      "description": "Latvia is the latest country to sign the Artemis Accords as part of a new push to use the Accords to foster cooperation on NASA’s lunar exploration ambitions. The post Latvia joins the Artemis Accords appeared first on SpaceNews."
     },
     {
       "title": "A peek at the far side of the moon | Space photo of the day for April 20, 2026",
@@ -100,6 +93,20 @@
       "description": "For a few moments on April 6, the four Artemis 2 moon astronauts and the three crewmates aboard China's Tiangong space station were farther away from each other than any humans had ever been."
     },
     {
+      "title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/17/nasas-mobile-launcher-arrives-at-vehicle-assembly-building/",
+      "pubDate": "2026-04-17T15:59:01.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "After successfully being used to launch the Artemis II lunar test flight on April 1, NASA’s mobile launcher now is inside NASA Kennedy’s Vehicle Assembly Building (VAB) in Florida in preparation for the Artemis III test flight mission rocket stacking operations. NASA’s Exploration Ground Systems Pro"
+    },
+    {
+      "title": "NASA’s Mobile Launcher Rolls Ahead of Artemis III Preparation",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/16/nasas-mobile-launcher-rolls-ahead-of-artemis-iii-preparation/",
+      "pubDate": "2026-04-16T12:33:08.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Following the conclusion of NASA’s Artemis II test flight, teams at the agency’s Kennedy Space Center in Florida are shifting focus to Artemis III, which is targeted to launch next year, by rolling the mobile launcher from Launch Complex 39B to NASA’s Kennedy Vehicle Assembly Building (VAB) in Flori"
+    },
+    {
       "title": "Ship 39 and Booster 19 Both Complete Full Engine Static Fires",
       "link": "https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/",
       "pubDate": "2026-04-16T07:05:40.000Z",
@@ -107,11 +114,67 @@
       "description": "Following the successful return of Orion, attention for the Artemis program has now shifted to&#8230; The post Ship 39 and Booster 19 Both Complete Full Engine Static Fires appeared first on NASASpaceFlight.com."
     },
     {
+      "title": "Artemis II Astronauts Back in Houston, Reunite with Families",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/11/artemis-ii-astronauts-back-in-houston-reunite-with-families/",
+      "pubDate": "2026-04-11T23:28:29.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The&#160;Artemis II&#160;crew&#160;of&#160;NASA astronauts – Reid Wiseman,&#160;Victor Glover,&#160;and&#160;Christina Koch,&#160;and&#160;CSA (Canadian Space Agency) astronaut&#160;Jeremy Hansen – has returned to&#160;the agency’s&#160;Johnson Space Center in Houston following&#160;their&#160;histo"
+    },
+    {
+      "title": "Artemis II Flight Day 10: Live Re-Entry Updates",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/",
+      "pubDate": "2026-04-10T22:26:16.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Live re-entry updates for NASA’s Artemis II mission will be published on this page.&#160;All times are Eastern. 4:27 a.m. The Orion spacecraft is secured in the well deck of USS John P. Murtha after splashing down in the Pacific Ocean and carrying NASA astronauts Reid Wiseman, Victor Glover, Christi"
+    },
+    {
+      "title": "Artemis II Flight Day 10: Crew Completes Final Burn Before Splashdown",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-crew-completes-final-burn-before-splashdown/",
+      "pubDate": "2026-04-10T19:16:59.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "At 2:53 p.m. EDT, the Orion spacecraft ignited its thrusters for 8 seconds, producing a change in velocity of 4.2 feet-per-second and pushing Artemis II toward Earth. NASA astronauts Reid Wiseman, Victor Glover, Christina Koch and CSA (Canadian Space Agency) astronaut Jeremy Hansen reviewed procedur"
+    },
+    {
+      "title": "Artemis II Flight Day 10: Crew Sets for Final Burn, Splashdown",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-crew-sets-for-final-burn-splashdown/",
+      "pubDate": "2026-04-10T15:38:05.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The Artemis II crew — NASA astronauts Reid Wiseman, Victor Glover, Christina Koch and CSA (Canadian Space Agency) astronaut Jeremy Hansen — began the final phase of their journey home to the songs “Run to the Water” by Live, selected by the crew, and “Free” by Zac Brown Band, as they prepared for th"
+    },
+    {
       "title": "Artemis II returns to Earth after historic 10-day mission around the Moon",
       "link": "https://www.nasaspaceflight.com/2026/04/artemis-ii-return/",
       "pubDate": "2026-04-10T15:16:42.000Z",
       "source": "NASASpaceflight",
       "description": "After 10 days, over 800,000 km traveled, and a historic flyby of the Moon, Artemis&#8230; The post Artemis II returns to Earth after historic 10-day mission around the Moon appeared first on NASASpaceFlight.com."
+    },
+    {
+      "title": "Artemis II Flight Day 9: Second Return Correction Burn Complete",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-9-second-return-correction-burn-complete/",
+      "pubDate": "2026-04-10T04:02:17.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "At 10:53 p.m. EDT, the Orion spacecraft ignited its thrusters for 9 seconds, producing an acceleration in velocity of 5.3 feet-per-second and pushing the Artemis II crew toward Earth. The crew is now more than halfway home."
+    },
+    {
+      "title": "Artemis II Flight Day 9: Crew Prepares to Come Home",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/",
+      "pubDate": "2026-04-09T15:47:17.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "On their last full day in space, the Artemis II crew began the morning with “Lonesome Drifter” by Charley Crockett as they approached Earth at 147,337 miles."
+    },
+    {
+      "title": "Artemis II Flight Day 8: Crew Conducts Key Tests on Return to Earth",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/08/artemis-ii-flight-day-8-crew-conducts-key-tests-on-return-to-earth/",
+      "pubDate": "2026-04-08T15:37:58.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "Editor’s Note: This blog was updated on April 8, 2026, to update the time for the crew news conference. In addition, flight controllers elected to forgo the 10:55 p.m. EDT manual piloting demo. Editor&#8217;s Note: This blog was updated to provide information on the originally scheduled radiation sh"
+    },
+    {
+      "title": "Artemis II Flight Day 7: First Return Correction Burn Complete",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/07/artemis-ii-flight-day-7-first-return-correction-burn-complete/",
+      "pubDate": "2026-04-08T01:54:33.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "At&#160;8:03 p.m. EDT, the Orion spacecraft, named Integrity, ignited its thrusters for&#160;15&#160;seconds, producing a change in velocity of&#160;1.6&#160;feet-per-second&#160;and&#160;guiding the&#160;Artemis II&#160;crew toward Earth.&#160;NASA astronaut&#160;Christina Koch&#160;and&#160;CSA (C"
     }
   ]
 }
