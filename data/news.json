@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-24T08:58:01.401Z",
+  "fetchedAt": "2026-04-24T10:18:23.229Z",
   "articles": [
+    {
+      "title": "Ted Cruz pushes back on NASA budget cuts: 'I don't want to wake up one day and look up at the moon and realize the Chinese have beat us there'",
+      "link": "https://www.space.com/space-exploration/ted-cruz-pushes-back-on-nasa-budget-cuts-i-dont-want-to-wake-up-one-day-and-look-up-at-the-moon-and-realize-the-chinese-have-beat-us-there",
+      "pubDate": "2026-04-24T10:00:00.000Z",
+      "source": "Space.com",
+      "description": "Sen. Ted Cruz told engineers on NASA's Artemis program, \"we'll take care of the politics...so you can do your job,\" amid steep cuts to NASA's funding in the Presidents fiscal year 2027 budget request."
+    },
     {
       "title": "Johnson Leaders Honored by National Space Club &#038; Foundation",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-leaders-honored-by-national-space-club-foundation/",
@@ -84,13 +91,6 @@
       "pubDate": "2026-04-20T14:12:47.000Z",
       "source": "Space.com",
       "description": "The Artemis 2 astronauts captured a unique image of the moon's \"dark side\" during their historic April 2026 flyby."
-    },
-    {
-      "title": "Pragmata's tale of AI slop, humanity, & lunar conquest makes it the timeliest sci-fi game of the year",
-      "link": "https://www.space.com/entertainment/space-games/pragmatas-tale-of-ai-slop-humanity-and-lunar-conquest-makes-it-the-timeliest-sci-fi-game-of-the-year",
-      "pubDate": "2026-04-18T17:00:00.000Z",
-      "source": "Space.com",
-      "description": "Capcom's new IP is a welcome throwback to simpler action games, but its story and themes are shockingly well-timed and refreshingly optimistic."
     },
     {
       "title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building",
