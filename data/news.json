@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-04-24T11:51:32.890Z",
+  "fetchedAt": "2026-04-24T12:56:00.131Z",
   "articles": [
+    {
+      "title": "The governance gap: Why orbital data centers need certification before they scale",
+      "link": "https://spacenews.com/the-governance-gap-why-orbital-data-centers-need-certification-before-they-scale/",
+      "pubDate": "2026-04-24T12:00:00.000Z",
+      "source": "SpaceNews",
+      "description": "For more than two decades in sourcing and supply-chain architecture, we’ve watched industries scale only when their supply chains become predictable, certifiable and repeatable. Orbital and lunar data centers are now approaching that same inflection point. Hardware gets us into orbit; governance kee"
+    },
+    {
+      "title": "Astrobotic tests advanced rocket engine",
+      "link": "https://spacenews.com/astrobotic-tests-advanced-rocket-engine/",
+      "pubDate": "2026-04-24T11:56:58.000Z",
+      "source": "SpaceNews",
+      "description": "Astrobotic, a developer of lunar landers and suborbital rockets, has successfully tested an advanced rocket engine that could power those vehicles. The post Astrobotic tests advanced rocket engine appeared first on SpaceNews."
+    },
     {
       "title": "Ted Cruz pushes back on NASA budget cuts: 'I don't want to wake up one day and look up at the moon and realize the Chinese have beat us there'",
       "link": "https://www.space.com/space-exploration/ted-cruz-pushes-back-on-nasa-budget-cuts-i-dont-want-to-wake-up-one-day-and-look-up-at-the-moon-and-realize-the-chinese-have-beat-us-there",
