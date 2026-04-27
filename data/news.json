@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-27T14:55:30.365Z",
+  "fetchedAt": "2026-04-27T16:18:53.214Z",
   "articles": [
+    {
+      "title": "Volunteers Help NASA Astronauts Record Lunar Flashes",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/",
+      "pubDate": "2026-04-27T15:01:35.000Z",
+      "source": "NASA News",
+      "description": "As NASA’s Artemis II astronauts zipped around the Moon in early April, they observed flashes of light caused by meteoroids hitting the lunar surface. At the same time, volunteers for the NASA-funded Impact Flash project scanned the Moon with their own telescopes and sent their videos to scientists t"
+    },
     {
       "title": "Artemis 2 came home in triumph. Artemis 3 must survive the real test.",
       "link": "https://spacenews.com/artemis-2-came-home-in-triumph-artemis-3-must-survive-the-real-test/",
