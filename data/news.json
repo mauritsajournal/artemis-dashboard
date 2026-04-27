@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-27T12:14:57.294Z",
+  "fetchedAt": "2026-04-27T14:55:30.365Z",
   "articles": [
+    {
+      "title": "Artemis 2 came home in triumph. Artemis 3 must survive the real test.",
+      "link": "https://spacenews.com/artemis-2-came-home-in-triumph-artemis-3-must-survive-the-real-test/",
+      "pubDate": "2026-04-27T13:00:00.000Z",
+      "source": "SpaceNews",
+      "description": "On April 10, the Orion capsule carrying Reid Wiseman, Christina Koch, Victor Glover and Jeremy Hansen splashed down in the Pacific, completing the first crewed lunar mission in more than 50 years. The images they sent back — Earth rising over the lunar far side, the craters and green-brown hues of t"
+    },
     {
       "title": "NASA wants to use a fleet of MoonFall drones to scout the lunar south pole: 'We believe we can do it'",
       "link": "https://www.space.com/astronomy/moon/nasa-wants-to-use-a-fleet-of-moonfall-drones-to-scout-the-lunar-south-pole-we-believe-we-can-do-it",
@@ -105,13 +112,6 @@
       "pubDate": "2026-04-22T13:00:00.000Z",
       "source": "Space.com",
       "description": "Celebrating Earth Day with an image of Earth captured by NASA's Artemis 2 mission around the moon."
-    },
-    {
-      "title": "You've heard of the Space Force. Now there's a 'NASA Force' — but it's not about making space war",
-      "link": "https://www.space.com/space-exploration/youve-heard-of-the-space-force-now-theres-a-nasa-force-but-its-not-about-making-space-war",
-      "pubDate": "2026-04-21T19:00:00.000Z",
-      "source": "Space.com",
-      "description": "NASA Force aims to recruit industry talent to the space agency for relatively short stints. Applications are open now in the wake of the Artemis 2 moon mission."
     },
     {
       "title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building",
