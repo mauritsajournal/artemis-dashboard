@@ -1,6 +1,13 @@
 {
-  "fetchedAt": "2026-04-27T19:19:06.375Z",
+  "fetchedAt": "2026-04-27T20:50:31.193Z",
   "articles": [
+    {
+      "title": "NASA’s Artemis Core Stage Arrives at Kennedy",
+      "link": "https://www.nasa.gov/blogs/missions/2026/04/27/nasas-artemis-core-stage-arrives-at-kennedy/",
+      "pubDate": "2026-04-27T19:33:20.000Z",
+      "source": "NASA Artemis Blog",
+      "description": "The largest rocket section for NASA’s Artemis III mission arrived at the agency’s Kennedy Space Center in Florida on April 27. The SLS (Space Launch System) core stage traveled 900 miles on the Pegasus barge from NASA’s Michoud Assembly Facility in New Orleans where the stage is manufactured, to com"
+    },
     {
       "title": "You Can Help Humans Thrive in Space",
       "link": "https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/",
@@ -100,13 +107,6 @@
       "description": "This Earth Day, we reflect on our home planet and look at Earth from space through history."
     },
     {
-      "title": "Meet the US Navy divers who welcomed the Artemis 2 astronauts home from the moon",
-      "link": "https://www.space.com/space-exploration/artemis/meet-the-us-navy-divers-who-welcomed-the-artemis-2-astronauts-home-from-the-moon",
-      "pubDate": "2026-04-22T15:00:00.000Z",
-      "source": "Space.com",
-      "description": "Four Navy divers made a contribution to the historic Artemis 2 moon mission, welcoming its astronauts home to Earth and making sure they were safe and healthy."
-    },
-    {
       "title": "NASA’s Mobile Launcher Arrives at Vehicle Assembly Building",
       "link": "https://www.nasa.gov/blogs/missions/2026/04/17/nasas-mobile-launcher-arrives-at-vehicle-assembly-building/",
       "pubDate": "2026-04-17T15:59:01.000Z",
@@ -119,13 +119,6 @@
       "pubDate": "2026-04-16T12:33:08.000Z",
       "source": "NASA Artemis Blog",
       "description": "Following the conclusion of NASA’s Artemis II test flight, teams at the agency’s Kennedy Space Center in Florida are shifting focus to Artemis III, which is targeted to launch next year, by rolling the mobile launcher from Launch Complex 39B to NASA’s Kennedy Vehicle Assembly Building (VAB) in Flori"
-    },
-    {
-      "title": "Ship 39 and Booster 19 Both Complete Full Engine Static Fires",
-      "link": "https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/",
-      "pubDate": "2026-04-16T07:05:40.000Z",
-      "source": "NASASpaceflight",
-      "description": "Following the successful return of Orion, attention for the Artemis program has now shifted to&#8230; The post Ship 39 and Booster 19 Both Complete Full Engine Static Fires appeared first on NASASpaceFlight.com."
     },
     {
       "title": "Artemis II Astronauts Back in Houston, Reunite with Families",
@@ -175,13 +168,6 @@
       "pubDate": "2026-04-08T15:37:58.000Z",
       "source": "NASA Artemis Blog",
       "description": "Editor’s Note: This blog was updated on April 8, 2026, to update the time for the crew news conference. In addition, flight controllers elected to forgo the 10:55 p.m. EDT manual piloting demo. Editor&#8217;s Note: This blog was updated to provide information on the originally scheduled radiation sh"
-    },
-    {
-      "title": "Artemis II Flight Day 7: First Return Correction Burn Complete",
-      "link": "https://www.nasa.gov/blogs/missions/2026/04/07/artemis-ii-flight-day-7-first-return-correction-burn-complete/",
-      "pubDate": "2026-04-08T01:54:33.000Z",
-      "source": "NASA Artemis Blog",
-      "description": "At&#160;8:03 p.m. EDT, the Orion spacecraft, named Integrity, ignited its thrusters for&#160;15&#160;seconds, producing a change in velocity of&#160;1.6&#160;feet-per-second&#160;and&#160;guiding the&#160;Artemis II&#160;crew toward Earth.&#160;NASA astronaut&#160;Christina Koch&#160;and&#160;CSA (C"
     }
   ]
 }
